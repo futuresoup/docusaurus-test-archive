@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
   module.exports = {
     title: "Climate Tech Handbook",
     tagline:
-      "We are here to help you answer the most important question in the world:",
+      "We’re on a mission to build the most accessible and accurate climate tech resource on the planet.",
     url: "https://your-docusaurus-test-site.com",
     baseUrl: "/",
     onBrokenLinks: "throw",
@@ -42,7 +42,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
     ],
 
     customFields: {
-      tagline2: "How am I going to make a difference?",
+      tagline2: "and accurate climate tech resource on the planet.",
     },
 
     themeConfig:

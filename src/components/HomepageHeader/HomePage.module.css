@@ -3,6 +3,8 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+
+  position: relative;
 }
 
 @media screen and (max-width: 966px) {
@@ -13,12 +15,30 @@
 
 .heroBanner {
   background-image: url("~@site/static/img/design/hp-hero.png");
-  background-size: 100% auto;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: auto;
+  /* height: 67vh; */
+
+  font-family: "Roboto";
+  font-style: normal;
 }
 
 .headerBackground {
   background-color: #3a843c;
+}
+
+.headerSubtitle {
+  text-transform: uppercase;
+  font-size: 3vmin;
+  width: auto;
+}
+
+.cthLink {
+  background-color: #be4721;
+  border: #be4721;
+}
+
+.cthLink:hover {
+  background-color: #be4721e7;
 }

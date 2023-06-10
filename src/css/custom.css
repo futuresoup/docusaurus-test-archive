@@ -27,6 +27,14 @@
   --ifm-color-primary-lighter: lighten(#3a843c, 20%);
   --ifm-color-primary-lightest: lighten(#3a843c, 30%);
   --ifm-code-font-size: 95%;
+
+  /* --ifm-color-secondary: #be4721;
+  --ifm-color-secondary-dark: darken(#be4721, 10%);
+  --ifm-color-secondary-darker: darken(#be4721, 20%);
+  --ifm-color-secondary-darkest: darken(#be4721, 30%);
+  --ifm-color-secondary-light: lighten(#be4721, 10%);
+  --ifm-color-secondary-lighter: lighten(#be4721, 20%);
+  --ifm-color-secondary-lightest: lighten(#be4721, 30%); */
 }
 
 .docusaurus-highlight-code-line {
