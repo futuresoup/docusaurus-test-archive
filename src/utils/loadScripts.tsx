@@ -16,3 +16,13 @@ const loadScript = (src: string, type: string = "text/javascript") => {
     document.body.appendChild(script);
   });
 };
+
+export const loadScripts = async (scriptTags: string[]) => {
+  try {
+    for (const scriptTag of scriptTags) {
+      await loadScript(scriptTag);
+    }
+  } catch (error) {
+    console.error(error);
+  }
+};

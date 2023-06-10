@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useEffect } from "react";
+import { loadScripts } from "@site/src/utils/loadScripts";
 
 interface ClockProps {
   scriptType?: string;
@@ -9,28 +10,20 @@ const ClockScript: React.FC<ClockProps> = ({
   scriptType = "text/javascript",
   originUrl = "https://climateclock.net/wp-content/themes/C2D/js/",
 }) => {
-  React.useEffect(() => {
-    const scriptTags = [
-      "jquery.min.js",
-      "jquery.isMobile.min.js",
-      "magnific-popup.min.js",
-      `CO2Calculator.js?r=202111041017&ver=4.7.26`,
-      `scripts.js?r=202111041017&ver=4.7.26`,
+  useEffect(() => {
+    const scriptTags: string[] = [
+      `${originUrl}jquery.min.js`,
+      `${originUrl}jquery.isMobile.min.js`,
+      `${originUrl}magnific-popup.min.js`,
+      `${originUrl}CO2Calculator.js?r=202111041017&ver=4.7.26`,
+      `${originUrl}scripts.js?r=202111041017&ver=4.7.26`,
     ];
 
-    scriptTags.forEach((tag) => {
-      const script = document.createElement("script");
-      script.type = scriptType;
-      script.src = originUrl + tag;
-      script.async = true;
-      document.body.appendChild(script);
-    });
+    loadScripts(scriptTags);
 
     return () => {
       scriptTags.forEach((tag) => {
-        const script = document.querySelector(
-          `script[src="${originUrl + tag}"]`
-        );
+        const script = document.querySelector(`script[src="${tag}"]`);
         if (script) {
           script.remove();
         }

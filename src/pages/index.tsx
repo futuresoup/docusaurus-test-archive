@@ -13,7 +13,7 @@ export default function Home(): JSX.Element {
     >
       <HomepageHeader />
       <ClimateClock />
-      <main>Hi Connor!</main>
+      <main></main>
     </Layout>
   );
 }
