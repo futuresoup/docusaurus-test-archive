@@ -1,24 +1,24 @@
 import React, { useEffect } from "react";
 import { loadScripts } from "@site/src/utils/loadScripts";
 
-interface ClockProps {
+interface ClockConfig {
   scriptType?: string;
   originUrl?: string;
+  scriptTags?: string[];
 }
 
-const ClockScript: React.FC<ClockProps> = ({
+const ClimateClock: React.FC<ClockConfig> = ({
   scriptType = "text/javascript",
   originUrl = "https://climateclock.net/wp-content/themes/C2D/js/",
+  scriptTags = [
+    `${originUrl}jquery.min.js`,
+    `${originUrl}jquery.isMobile.min.js`,
+    `${originUrl}magnific-popup.min.js`,
+    `${originUrl}CO2Calculator.js?r=202111041017&ver=4.7.26`,
+    `${originUrl}scripts.js?r=202111041017&ver=4.7.26`,
+  ],
 }) => {
   useEffect(() => {
-    const scriptTags: string[] = [
-      `${originUrl}jquery.min.js`,
-      `${originUrl}jquery.isMobile.min.js`,
-      `${originUrl}magnific-popup.min.js`,
-      `${originUrl}CO2Calculator.js?r=202111041017&ver=4.7.26`,
-      `${originUrl}scripts.js?r=202111041017&ver=4.7.26`,
-    ];
-
     loadScripts(scriptTags);
 
     return () => {
@@ -29,7 +29,7 @@ const ClockScript: React.FC<ClockProps> = ({
         }
       });
     };
-  }, [originUrl, scriptType]);
+  }, [originUrl, scriptType, scriptTags]);
 
   return (
     <div id="clock">
@@ -48,4 +48,4 @@ const ClockScript: React.FC<ClockProps> = ({
   );
 };
 
-export default ClockScript;
+export default ClimateClock;
