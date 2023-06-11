@@ -22,3 +22,4 @@ yarn-error.log*
 .docusaurus
 node_modules
 .env
+notes.js

@@ -1,4 +1,4 @@
-import React, { useEffect, useCallback, useState } from "react";
+import React, { useEffect, useCallback, useState, useRef } from "react";
 import clsx from "clsx";
 import styles from "./ClimateClock.module.css";
 import { loadScripts, scriptCleanup } from "@site/src/utils/scriptLogic";
@@ -20,12 +20,11 @@ const ClimateClock: React.FC<ClockConfig> = ({
     `${originUrl}scripts.js?r=202111041017&ver=4.7.26`,
   ],
 }) => {
-  const [countdown, setCountdown] = useState(null);
+  const countdownRef = useRef<HTMLDivElement>(null);
+  const [countdown, setCountdown] = useState<string | null>(null);
 
   const loadClimateClockScripts = useCallback(() => {
     loadScripts(scriptTags);
-    setCountdown(document.querySelector("#timecountdown"));
-
     return () => {
       scriptCleanup(scriptTags);
     };
@@ -33,11 +32,27 @@ const ClimateClock: React.FC<ClockConfig> = ({
 
   useEffect(() => {
     const cleanup = loadClimateClockScripts();
-    setInterval(() => {
-      if (countdown !== null) {
-        console.log(countdown);
-      }
-    }, 3000);
+
+    if (countdownRef.current) {
+      const observer = new MutationObserver((mutationsList) => {
+        for (const mutation of mutationsList) {
+          if (
+            mutation.type === "childList" &&
+            mutation.target === countdownRef.current
+          ) {
+            const countdownValue = countdownRef.current.textContent;
+            setCountdown(countdownValue);
+          }
+        }
+      });
+
+      observer.observe(countdownRef.current, { childList: true });
+
+      return () => {
+        observer.disconnect();
+      };
+    }
+
     return cleanup;
   }, [loadClimateClockScripts]);
 
@@ -45,20 +60,13 @@ const ClimateClock: React.FC<ClockConfig> = ({
     <div id="clock" className={clsx(styles.clock)}>
       <div className={clsx(styles.countdown)}>
         <h3 id="time-to-two">Time Left To Limit Global Warming To 1.5ºC</h3>
-        <div id="timecountdown"></div>
+        <div
+          id="timecountdown"
+          ref={countdownRef}
+          style={{ display: "none" }}
+        ></div>
+        <span>{countdown}</span>
       </div>
-      {/* <div className={clsx(styles.gTemp)}>
-        <h3 id="global-temp">Global warming to date ºC</h3>
-        <div id="global-temp-container">
-          <span id="globaltemp" className="bold grad"></span>
-        </div>
-      </div> */}
-      {/* <div className={clsx(styles.ceeOhTwo)}>
-        <h3 id="tonnes">
-          Tonnes of CO<sub>2</sub> Emitted
-        </h3>
-        <div id="carbontonnes"></div>
-      </div> */}
     </div>
   );
 };
