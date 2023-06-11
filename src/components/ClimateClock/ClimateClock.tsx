@@ -1,4 +1,4 @@
-import React, { useEffect, useCallback, useState, useRef } from "react";
+import React, { useEffect, useState, useRef } from "react";
 import clsx from "clsx";
 import styles from "./ClimateClock.module.css";
 import { loadScripts, scriptCleanup } from "@site/src/utils/scriptLogic";
@@ -8,6 +8,29 @@ interface ClockConfig {
   originUrl?: string;
   scriptTags?: string[];
 }
+
+const loadClimateClockScripts = async (scriptTags: string[]) => {
+  await Promise.all(scriptTags.map((tag) => loadScript(tag)));
+};
+
+const loadScript = (src: string, type: string = "text/javascript") => {
+  return new Promise<void>((resolve, reject) => {
+    const script = document.createElement("script");
+    script.src = src;
+    script.type = type;
+    script.async = true;
+
+    script.onload = () => {
+      resolve();
+    };
+
+    script.onerror = () => {
+      reject(new Error(`Failed to load script: ${src}`));
+    };
+
+    document.body.appendChild(script);
+  });
+};
 
 const ClimateClock: React.FC<ClockConfig> = ({
   scriptType = "text/javascript",
@@ -23,38 +46,40 @@ const ClimateClock: React.FC<ClockConfig> = ({
   const countdownRef = useRef<HTMLDivElement>(null);
   const [countdown, setCountdown] = useState<string | null>(null);
 
-  const loadClimateClockScripts = useCallback(() => {
-    loadScripts(scriptTags);
-    return () => {
-      scriptCleanup(scriptTags);
-    };
-  }, [originUrl, scriptType, scriptTags]);
-
   useEffect(() => {
-    const cleanup = loadClimateClockScripts();
+    let observer: MutationObserver | null = null;
 
-    if (countdownRef.current) {
-      const observer = new MutationObserver((mutationsList) => {
-        for (const mutation of mutationsList) {
-          if (
-            mutation.type === "childList" &&
-            mutation.target === countdownRef.current
-          ) {
-            const countdownValue = countdownRef.current.textContent;
-            setCountdown(countdownValue);
-          }
+    const cleanup = async () => {
+      if (observer) {
+        observer.disconnect();
+      }
+      await scriptCleanup(scriptTags);
+    };
+
+    loadClimateClockScripts(scriptTags)
+      .then(() => {
+        if (countdownRef.current) {
+          observer = new MutationObserver((mutationsList) => {
+            for (const mutation of mutationsList) {
+              if (
+                mutation.type === "childList" &&
+                mutation.target === countdownRef.current
+              ) {
+                const countdownValue = countdownRef.current.textContent;
+                setCountdown(countdownValue);
+              }
+            }
+          });
+
+          observer.observe(countdownRef.current, { childList: true });
         }
+      })
+      .catch((error) => {
+        console.error(error);
       });
 
-      observer.observe(countdownRef.current, { childList: true });
-
-      return () => {
-        observer.disconnect();
-      };
-    }
-
     return cleanup;
-  }, [loadClimateClockScripts]);
+  }, []);
 
   return (
     <div id="clock" className={clsx(styles.clock)}>

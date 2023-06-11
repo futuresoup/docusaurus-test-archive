@@ -50,25 +50,43 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
       ({
         navbar: {
           // left blank for now (just the <Earth> logo)
-          title: "",
-          logo: {
-            alt: "CTH Earth Logo",
-            src: "img/main/cth-earth-logo.png",
-          },
+          title: "Climate Tech Handbook",
+          // logo: {
+          //   alt: "CTH Earth Logo",
+          //   src: "img/main/cth-earth-logo.png",
+          // },
           items: [
             {
               type: "doc",
-              docId: "intro",
-              position: "left",
-              label: "Tutorial",
-            },
-            { to: "/blog", label: "Blog", position: "left" },
-            { to: "/contact", label: "Contact", position: "right" },
-            {
-              href: "https://github.com/climate-tech-handbook",
-              label: "GitHub",
+              docId: "about",
               position: "right",
+              label: "About Us",
             },
+            {
+              type: "doc",
+              docId: "jobseeker",
+              position: "right",
+              label: "Job Seekers",
+            },
+            {
+              type: "doc",
+              docId: "funder",
+              position: "right",
+              label: "Funders",
+            },
+            // {
+            //   type: "doc",
+            //   docId: "intro",
+            //   position: "left",
+            //   label: "Tutorial",
+            // },
+            // { to: "/blog", label: "Blog", position: "left" },
+            // { to: "/contact", label: "Contact", position: "right" },
+            // {
+            //   href: "https://github.com/climate-tech-handbook",
+            //   label: "GitHub",
+            //   position: "right",
+            // },
           ],
         },
         footer: {
@@ -78,8 +96,16 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               title: "Docs",
               items: [
                 {
-                  label: "Tutorial",
-                  to: "/docs/intro",
+                  label: "About Us",
+                  to: "/docs/about",
+                },
+                {
+                  label: "Job Seekers",
+                  to: "/docs/jobseekers",
+                },
+                {
+                  label: "Funders",
+                  to: "/docs/funders",
                 },
               ],
             },
