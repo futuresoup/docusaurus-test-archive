@@ -1,7 +1,7 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useCallback, useState } from "react";
 import clsx from "clsx";
 import styles from "./ClimateClock.module.css";
-import { loadScripts } from "@site/src/utils/loadScripts";
+import { loadScripts, scriptCleanup } from "@site/src/utils/scriptLogic";
 
 interface ClockConfig {
   scriptType?: string;
@@ -20,18 +20,26 @@ const ClimateClock: React.FC<ClockConfig> = ({
     `${originUrl}scripts.js?r=202111041017&ver=4.7.26`,
   ],
 }) => {
-  useEffect(() => {
+  const [countdown, setCountdown] = useState(null);
+
+  const loadClimateClockScripts = useCallback(() => {
     loadScripts(scriptTags);
+    setCountdown(document.querySelector("#timecountdown"));
 
     return () => {
-      scriptTags.forEach((tag) => {
-        const script = document.querySelector(`script[src="${tag}"]`);
-        if (script) {
-          script.remove();
-        }
-      });
+      scriptCleanup(scriptTags);
     };
   }, [originUrl, scriptType, scriptTags]);
+
+  useEffect(() => {
+    const cleanup = loadClimateClockScripts();
+    setInterval(() => {
+      if (countdown !== null) {
+        console.log(countdown);
+      }
+    }, 3000);
+    return cleanup;
+  }, [loadClimateClockScripts]);
 
   return (
     <div id="clock" className={clsx(styles.clock)}>

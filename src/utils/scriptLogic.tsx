@@ -26,3 +26,12 @@ export const loadScripts = async (scriptTags: string[]) => {
     console.error(error);
   }
 };
+
+export const scriptCleanup = (scriptTags: string[]) => {
+  scriptTags.forEach((tag) => {
+    const script = document.querySelector(`script[src="${tag}"]`);
+    if (script) {
+      script.remove();
+    }
+  });
+};
