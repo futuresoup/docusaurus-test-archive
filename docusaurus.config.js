@@ -49,7 +49,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
         navbar: {
-          // left blank for now (just the <Earth> logo)
           title: "Climate Tech Handbook",
           // logo: {
           //   alt: "CTH Earth Logo",
@@ -74,19 +73,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               position: "right",
               label: "Funders",
             },
-            // {
-            //   type: "doc",
-            //   docId: "intro",
-            //   position: "left",
-            //   label: "Tutorial",
-            // },
-            // { to: "/blog", label: "Blog", position: "left" },
-            // { to: "/contact", label: "Contact", position: "right" },
-            // {
-            //   href: "https://github.com/climate-tech-handbook",
-            //   label: "GitHub",
-            //   position: "right",
-            // },
+            { to: "/blog", label: "Blog", position: "left" },
           ],
         },
         footer: {
@@ -110,35 +97,22 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               ],
             },
             {
-              title: "Community",
+              title: "Blog",
               items: [
                 {
-                  label: "Stack Overflow",
-                  href: "https://stackoverflow.com/questions/tagged/docusaurus",
-                },
-                {
-                  label: "Discord",
-                  href: "https://discordapp.com/invite/docusaurus",
-                },
-                {
-                  label: "Twitter",
-                  href: "https://twitter.com/docusaurus",
-                },
-              ],
-            },
-            {
-              title: "More",
-              items: [
-                {
-                  label: "Blog",
+                  label: "Check It Out!",
                   to: "/blog",
                 },
-                {
-                  label: "GitHub",
-                  href: "https://github.com/facebook/docusaurus",
-                },
               ],
             },
+            // {
+            //   title: "Community",
+            //   items: [
+            //     {
+            //       label: "Stack Overflow",
+            //       href: "https://stackoverflow.com/questions/tagged/docusaurus",
+            //     },
+            //
           ],
           copyright: `Copyright © ${new Date().getFullYear()} Climate Tech Handbook, built with Docusaurus.`,
         },

@@ -4,20 +4,6 @@
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
-/* :root {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
-  --ifm-code-font-size: 95%;
-} */
-
-/* I used a color picker to grab the #3a843c from our current design and did some basic adjustments */
-
 :root {
   --ifm-color-primary: #3a843c;
   --ifm-color-primary-dark: darken(#3a843c, 10%);
@@ -28,13 +14,13 @@
   --ifm-color-primary-lightest: lighten(#3a843c, 30%);
   --ifm-code-font-size: 95%;
 
-  /* --ifm-color-secondary: #be4721;
+  --ifm-color-secondary: #be4721;
   --ifm-color-secondary-dark: darken(#be4721, 10%);
   --ifm-color-secondary-darker: darken(#be4721, 20%);
   --ifm-color-secondary-darkest: darken(#be4721, 30%);
   --ifm-color-secondary-light: lighten(#be4721, 10%);
   --ifm-color-secondary-lighter: lighten(#be4721, 20%);
-  --ifm-color-secondary-lightest: lighten(#be4721, 30%); */
+  --ifm-color-secondary-lightest: lighten(#be4721, 30%);
 }
 
 .docusaurus-highlight-code-line {
@@ -49,13 +35,22 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 .navbar {
-  background-color: #3a843c;
+  background-color: var(--ifm-color-primary);
 }
 
 .navbar__item {
   color: white;
 }
 
+.navbar__brand {
+  color: white;
+}
+
 .footer {
-  background-color: #3a843c;
+  background-color: var(--ifm-color-primary);
+  color: white;
+}
+
+.footer__link-item {
+  color: white;
 }

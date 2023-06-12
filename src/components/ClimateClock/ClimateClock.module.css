@@ -1,5 +1,4 @@
 .clock {
-  /* position: absolute; */
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -11,10 +10,13 @@
   box-shadow: 0px 14px 28px rgba(38, 40, 42, 0.15);
   border-radius: 20px;
   padding: 2.5rem;
-  /* background: center; */
 
-  /* top: 65vh; */
   z-index: 9999;
+
+  aspect-ratio: 6 / 1;
+
+  /* Temp fill in color */
+  color: black;
 }
 
 .countdown {
