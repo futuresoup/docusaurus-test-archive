@@ -13,13 +13,14 @@
 
   z-index: 9999;
 
-  aspect-ratio: 6 / 1;
+  aspect-ratio: 5 / 1;
 
   /* Temp fill in color */
-  color: black;
+  /* color: black; */
 }
 
 .countdown {
+  gap: 4rem;
   display: flex;
   flex-direction: column;
   align-items: center;
