@@ -1,5 +1,7 @@
 module.exports = {
-  content: ["./src/**/*.{js,jsx,ts,tsx}", "!docs/*.md", "!docs/*.mdx"],
+  content: [
+    "./src/**/*.{js,jsx,ts,tsx}", // Include other file types if needed
+  ],
   theme: {
     extend: {
       colors: {
