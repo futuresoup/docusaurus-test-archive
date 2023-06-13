@@ -47,4 +47,6 @@
 
 .cthLink:hover {
   background-color: #be4721e7;
+  transform: scale(1.05);
+  transition: ease-in-out 0.1s;
 }

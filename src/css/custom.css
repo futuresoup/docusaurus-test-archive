@@ -46,6 +46,12 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   color: white;
 }
 
+.navbar__brand:hover {
+  color: var(--ifm-color-secondary);
+  transform: scale(0.9);
+  transition: ease-in 0.1s;
+}
+
 .footer {
   background-color: var(--ifm-color-primary);
   color: white;
@@ -53,4 +59,14 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 
 .footer__link-item {
   color: white;
+}
+
+.navbar__link:hover {
+  color: var(--ifm-color-secondary);
+  transform: scale(1.1);
+  transition: ease-in-out 0.1s;
+}
+
+.footer__link-item:hover {
+  color: var(--ifm-color-secondary);
 }
