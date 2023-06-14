@@ -59,10 +59,7 @@ const ClimateClock: React.FC<ClockConfig> = ({
   return (
     <div id="clock" className={clsx(styles.clock)}>
       <div className={clsx(styles.countdown)}>
-        <h3
-          className="text-secondary scale-150 font-extrabold"
-          id="time-to-two"
-        >
+        <h3 className={clsx(styles.clockHeader)} id="time-to-two">
           Time Left To Limit Global Warming To 1.5ºC
         </h3>
         {/* <div
@@ -70,7 +67,7 @@ const ClimateClock: React.FC<ClockConfig> = ({
           // ref={countdownRef}
           style={{ display: "none" }}
         ></div> */}
-        <span className="text-black">8:10:09:22:54:39:85</span>
+        <span className={clsx(styles.clockText)}>8:10:09:22:54:39:85</span>
       </div>
     </div>
   );

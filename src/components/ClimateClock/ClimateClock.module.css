@@ -13,14 +13,14 @@
 
   z-index: 9999;
 
-  aspect-ratio: 5 / 1;
+  aspect-ratio: 4 / 1;
 
   /* Temp fill in color */
   /* color: black; */
 }
 
 .countdown {
-  gap: 4rem;
+  gap: 3rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -37,3 +37,13 @@
   display: flex;
   flex-direction: column;
 } */
+
+.clockHeader {
+  color: var(--ifm-color-secondary);
+  font-size: large;
+}
+
+.clockText {
+  color: black;
+  font-size: large;
+}
