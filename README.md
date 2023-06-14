@@ -70,7 +70,7 @@ This project is deployed with Netlify. For instructions on how to deploy this pr
 
 ## Contributing
 
-We welcome contributions to the Climate Tech Handbook. Please see our [Contributing Guide](LINK_TO_CONTRIBUTING_GUIDE) for more information.
+We welcome contributions to the Climate Tech Handbook. Please see our [Contributing Guide](./CONTRIBUTING.md) for more information.
 
 ## Acknowledgements
 
