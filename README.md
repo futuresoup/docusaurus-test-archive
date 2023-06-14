@@ -1,6 +1,12 @@
 # Climate Tech Handbook - Docusaurus build
 
-This project is the Docusaurus build of the Climate Tech Handbook, a resource that ...
+This project is the Docusaurus build of the Climate Tech Handbook, a comprehensive resource that aims to provide valuable insights, knowledge, and tools to navigate the complex landscape of climate technology.
+
+The Climate Tech Handbook serves as a central hub for information related to climate tech, covering various topics such as renewable energy, sustainable agriculture, carbon capture, climate finance, and more. It is designed to support researchers, entrepreneurs, policymakers, and individuals passionate about driving positive climate impact.
+
+**Disclaimer: This project is a work in progress.**
+
+The current test build can be accessed at [docusaurus.climatetechhandbook.com](https://docusaurus.climatetechhandbook.com) (Password: test).
 
 ## Table of Contents
 
