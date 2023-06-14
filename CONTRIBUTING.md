@@ -32,19 +32,19 @@ At this point, you're ready to make your changes! Feel free to ask for help; eve
 
 ## Make a Pull Request
 
-At this point, you should switch back to your master branch and make sure it's up to date with the latest Climate Tech Handbook master branch:
+At this point, you should switch back to your main branch and make sure it's up to date with the latest Climate Tech Handbook main branch:
 
 ```bash
 git remote add upstream git@github.com:bigolboyyo/docusaurus-cth-wg.git
-git checkout master
-git pull upstream master
+git checkout main
+git pull upstream main
 ```
 
-Then update your feature branch from your local copy of master, and push it!
+Then update your feature branch from your local copy of main, and push it!
 
 ```bash
 git checkout 325-add-japanese-translations
-git rebase master
+git rebase main
 git push --set-upstream origin 325-add-japanese-translations
 ```
 
