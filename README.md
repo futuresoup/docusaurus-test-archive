@@ -33,7 +33,7 @@ The current test build can be accessed at [docusaurus.climatetechhandbook.com](h
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/bigolboyyo/docusaurus-cth-wg.git](https://github.com/climate-tech-handbook/docusaurus-test.git)
+git clone https://github.com/climate-tech-handbook/docusaurus-test.git
 ```
 
 2. Change to the directory:
