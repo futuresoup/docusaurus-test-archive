@@ -93,7 +93,7 @@ We are grateful to all contributors who have participated in this project. Your 
 For any queries, suggestions, or contributions, please reach out to us:
 
 - [LinkedIn](https://www.linkedin.com/company/climate-tech-handbook/)
-- [Climate Tech Handbook Slack](https://join.slack.com/t/climatetechhandbook/shared_invite/zt-1vmjruywg-obVgfVcum2DDy3wFm6fOVA)
+- [Climate Tech Handbook Slack](https://chat.climatetechhandbook.com)
 - [Climate Tech Handbook](https://www.climatetechhandbook.com/)
 
 ## License
