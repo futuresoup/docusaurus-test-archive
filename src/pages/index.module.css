@@ -8,3 +8,11 @@
   align-items: center;
   justify-content: center;
 }
+
+.mainBody {
+  display: flex;
+  flex-direction: column;
+  gap: 10rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
