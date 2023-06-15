@@ -1,0 +1,15 @@
+.cardContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.cardText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cardImg {
+  width: 25vw;
+}

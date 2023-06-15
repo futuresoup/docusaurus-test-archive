@@ -12,10 +12,15 @@ export default function Home(): JSX.Element {
       description="The number one resource for job seekers and investors alike to get involed in Climate Tech!"
     >
       <HomepageHeader />
-      <main style={{ padding: "1rem" }}>
+      <main>
         <HomeCard
           title="Testing"
           description="Testing 123"
+          imageUrl="https://www.english-efl.com/wp-content/uploads/2019/12/test.jpg"
+        />
+        <HomeCard
+          title="Testing"
+          description="Testing 321"
           imageUrl="https://www.english-efl.com/wp-content/uploads/2019/12/test.jpg"
         />
       </main>
