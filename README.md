@@ -1,10 +1,12 @@
+# Disclaimer: This project is a work in progress!
+
+---
+
 # Climate Tech Handbook - Docusaurus build
 
 This project is the Docusaurus build of the Climate Tech Handbook, a comprehensive resource that aims to provide valuable insights, knowledge, and tools to navigate the complex landscape of climate technology.
 
 The Climate Tech Handbook serves as a central hub for information related to climate tech, covering various topics such as renewable energy, sustainable agriculture, carbon capture, climate finance, and more. It is designed to support researchers, entrepreneurs, policymakers, and individuals passionate about driving positive climate impact.
-
-**Disclaimer: This project is a work in progress.**
 
 The current test build can be accessed at [docusaurus.climatetechhandbook.com](https://docusaurus.climatetechhandbook.com) (Password: test).
 
@@ -31,13 +33,13 @@ The current test build can be accessed at [docusaurus.climatetechhandbook.com](h
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/bigolboyyo/docusaurus-cth-wg.git
+git clone https://github.com/climate-tech-handbook/docusaurus-test.git
 ```
 
 2. Change to the directory:
 
 ```bash
-cd docusaurus-cth-wg
+cd docusaurus-test
 ```
 
 3. Install the dependencies:
@@ -91,7 +93,7 @@ We are grateful to all contributors who have participated in this project. Your 
 For any queries, suggestions, or contributions, please reach out to us:
 
 - [LinkedIn](https://www.linkedin.com/company/climate-tech-handbook/)
-- [Climate Tech Handbook Slack](https://join.slack.com/t/climatetechhandbook/shared_invite/zt-1vmjruywg-obVgfVcum2DDy3wFm6fOVA)
+- [Climate Tech Handbook Slack](https://chat.climatetechhandbook.com)
 - [Climate Tech Handbook](https://www.climatetechhandbook.com/)
 
 ## License
