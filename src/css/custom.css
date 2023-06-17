@@ -48,7 +48,7 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 
 .navbar__brand:hover {
   color: var(--ifm-color-secondary);
-  transform: scale(0.9);
+  transform: scale(1.05);
   transition: ease-in 0.1s;
 }
 

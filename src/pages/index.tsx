@@ -5,6 +5,7 @@ import HomepageHeader from "../components/HomepageHeader/HomepageHeader";
 import HomeCard from "../components/HomeCard/HomeCard";
 import styles from "./index.module.css";
 import clsx from "clsx";
+import ClimateClock from "../components/ClimateClock/ClimateClock";
 
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
@@ -15,6 +16,7 @@ export default function Home(): JSX.Element {
     >
       <HomepageHeader />
       <main className={clsx(styles.mainBody)}>
+        <ClimateClock />
         <HomeCard
           title="Testing"
           description="Testing 123"

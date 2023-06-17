@@ -28,7 +28,7 @@ export default function HomepageHeader() {
             Join the Movement
           </Link>
         </div>
-        <ClimateClock />
+        {/* <ClimateClock /> */}
       </div>
     </header>
   );
