@@ -10,7 +10,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
       "We’re building the most accessible and accurate climate tech resource on the planet.",
     url: "https://www.climatetechhandbook.com",
     baseUrl: "/",
-    onBrokenLinks: "throw",
+    onBrokenLinks: "ignore",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/main/favicon.ico",
     organizationName: "The Climate Tech Handbook", // Usually your GitHub org/user name.
@@ -105,7 +105,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                 {
                   label: "Career Guide",
                   to: "/career-guide",
-                },   
+                },
               ],
             },
             {

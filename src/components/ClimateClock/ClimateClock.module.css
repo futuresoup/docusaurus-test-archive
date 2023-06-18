@@ -4,19 +4,24 @@
   justify-content: center;
   align-items: center;
   width: 80vw;
+  text-align: center;
   align-self: center;
-
   background: #eeeeee;
   box-shadow: 12px 12px 28px rgba(38, 40, 42, 0.15);
   border-radius: 20px;
-  padding: 2.5rem;
-
-  /* z-index: 9999; */
-
+  padding: 2rem 0;
   position: absolute;
   top: -6rem;
-
   text-align-last: center;
+}
+
+@media screen and (max-width: 966px) {
+  .clock {
+    text-align: center;
+  }
+
+  .clockHeader {
+  }
 }
 
 .countdown {
@@ -40,10 +45,8 @@
 
 .clockHeader {
   color: var(--ifm-color-secondary);
-  font-size: xx-large;
 }
 
 .clockText {
   color: black;
-  font-size: large;
 }
