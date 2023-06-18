@@ -60,7 +60,7 @@ const ClimateClock: React.FC<ClockConfig> = ({
     <div id="clock" className={clsx(styles.clock)}>
       <div className={clsx(styles.countdown)}>
         <h3 className={clsx(styles.clockHeader)} id="time-to-two">
-          Time Left To Limit Global Warming To 1.5ºC
+          Time Left To Limit Global Heating To 1.5ºC
         </h3>
         {/* <div
           id="timecountdown"
