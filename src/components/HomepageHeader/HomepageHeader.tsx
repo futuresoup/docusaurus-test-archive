@@ -3,7 +3,6 @@ import Link from "@docusaurus/Link";
 import clsx from "clsx";
 import styles from "./HomePage.module.css";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import ClimateClock from "../ClimateClock/ClimateClock";
 
 export default function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
