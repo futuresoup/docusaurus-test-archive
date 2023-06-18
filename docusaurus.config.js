@@ -8,13 +8,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
     title: "Climate Tech Handbook",
     tagline:
       "We’re building the most accessible and accurate climate tech resource on the planet.",
-    url: "https://climatetechhandbook.com",
+    url: "https://www.climatetechhandbook.com",
     baseUrl: "/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/main/favicon.ico",
-    organizationName: "Climate Tech Handbook", // Usually your GitHub org/user name.
-    projectName: "Climate Tech Handbook", // Usually your repo name.
+    organizationName: "The Climate Tech Handbook", // Usually your GitHub org/user name.
+    projectName: "The Climate Tech Handbook", // Usually your repo name.
 
     presets: [
       [
@@ -25,14 +25,14 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             sidebarPath: require.resolve("./sidebars.js"),
             // Please change this to your repo.
             editUrl:
-              "https://github.com/facebook/docusaurus/edit/main/website/",
+              "https://github.com/climate-tech-handbook/climate-tech-handbook",
             routeBasePath: "/",
           },
           blog: {
             showReadingTime: true,
             // Please change this to your repo.
             editUrl:
-              "https://github.com/facebook/docusaurus/edit/main/website/blog/",
+              "https://github.com/climate-tech-handbook/climate-tech-handbook",
           },
           theme: {
             customCss: [
@@ -52,7 +52,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
         navbar: {
-          title: "Climate Tech Handbook",
+          title: "The Climate Tech Handbook",
           // logo: {
           //   alt: "CTH Earth Logo",
           //   src: "img/main/cth-earth-logo.png",
@@ -60,51 +60,60 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
           items: [
             {
               type: "doc",
-              docId: "about",
-              position: "right",
-              label: "About Us",
-            },
-            {
-              type: "doc",
               docId: "jobseeker",
               position: "right",
-              label: "Job Seekers",
+              label: "Climate Job Seekers",
             },
             {
               type: "doc",
               docId: "funder",
               position: "right",
-              label: "Funders",
+              label: "Climate Startups",
             },
-            { to: "/blog", label: "Blog", position: "left" },
+            {
+              type: "doc",
+              docId: "about",
+              position: "right",
+              label: "About Us",
+            },
+            { to: "/blog", label: "News", position: "right" },
           ],
         },
         footer: {
           style: "dark",
           links: [
             {
-              title: "Docs",
+              title: "About",
               items: [
                 {
-                  label: "About Us",
+                  label: "About The Handbook",
                   to: "/about",
                 },
                 {
-                  label: "Job Seekers",
-                  to: "/jobseeker",
-                },
-                {
-                  label: "Funders",
-                  to: "/funder",
+                  label: "Contribute",
+                  to: "/contribute",
                 },
               ],
             },
             {
-              title: "Blog",
+              title: "Resources",
               items: [
                 {
-                  label: "Check It Out!",
-                  to: "/blog",
+                  label: "Resource Library",
+                  to: "/resources",
+                },
+                {
+                  label: "Career Guide",
+                  to: "/career-guide",
+                },   
+              ],
+            },
+            {
+              title: "Solutions",
+              items: [
+                {
+                  label: "List of climate solutions",
+                  to: "/solutions",
                 },
               ],
             },
@@ -117,7 +126,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             //     },
             //
           ],
-          copyright: `Copyright © ${new Date().getFullYear()} Climate Tech Handbook, built with Docusaurus.`,
+          // copyright: `Copyright © ${new Date().getFullYear()} Differential Design, LLC`,
         },
         prism: {
           theme: lightCodeTheme,
