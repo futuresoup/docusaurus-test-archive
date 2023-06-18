@@ -3,7 +3,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 70vh;
+  height: 60vh;
 
   font-family: "Roboto";
   font-style: normal;
@@ -21,7 +21,7 @@
 .headerContainer {
   display: flex;
   flex-direction: column;
-  /* gap: 5rem; */
+  /* gap: 2rem; */
 
   padding-bottom: 7rem;
 }
@@ -32,7 +32,7 @@
 
 .headerSubtitle {
   text-transform: uppercase;
-  font-size: 5vmin;
+  font-size: 4vmin;
   width: auto;
 }
 

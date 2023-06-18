@@ -21,6 +21,14 @@ const HomeCard: React.FC<CardProps> = ({
       <div className={clsx(styles.cardText)}>
         <h3>{title}</h3>
         <p>{description}</p>
+        <a
+          className={clsx(
+            styles.cardButton,
+            "button button--secondary button--lg cthLink_src-components-HomepageHeader-HomePage-module"
+          )}
+        >
+          {title}
+        </a>
       </div>
     </div>
   );
