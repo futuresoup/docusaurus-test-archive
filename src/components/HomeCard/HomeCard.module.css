@@ -1,7 +1,12 @@
 .cardContainer {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: center;
+
+  gap: 10vmin;
+
+  max-width: 80%;
+  align-self: center;
 }
 
 .cardText {
@@ -11,5 +16,11 @@
 }
 
 .cardImg {
-  width: 25vw;
+  width: 30vw;
+  height: 30vw;
+}
+
+.cardButton {
+  max-width: 35%;
+  text-align: center;
 }
