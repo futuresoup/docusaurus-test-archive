@@ -9,6 +9,12 @@
   align-self: center;
 }
 
+@media screen and (max-width: 966px) {
+  .cardContainer {
+    flex-direction: column !important;
+  }
+}
+
 .cardText {
   display: flex;
   flex-direction: column;
@@ -16,11 +22,11 @@
 }
 
 .cardImg {
-  width: 30vw;
-  height: 30vw;
+  width: 30vmax;
+  height: 30vmax;
 }
 
 .cardButton {
-  max-width: 35%;
+  /* max-width: 35%; */
   text-align: center;
 }
