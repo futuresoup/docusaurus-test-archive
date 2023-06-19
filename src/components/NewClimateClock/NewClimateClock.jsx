@@ -1,0 +1,64 @@
+import React from "react";
+import clsx from "clsx";
+import styles from "./ClimateClock.module.css";
+
+export default function ClimateClock({ countDown }) {
+  return (
+    <div id="clock" className={clsx(styles.clock)}>
+      <div className={clsx(styles.countdown)}>
+        <h3 className={clsx(styles.clockHeader)} id="time-to-two">
+          Time Left To Limit Global Warming To 1.5ºC
+        </h3>
+        <main className ={clsx(styles.clockMain)}>
+          
+          <div className={clsx(styles.section)}>
+            <div className={clsx(styles.number)}>{countDown.years}</div>
+            <div className="label"> Years</div>
+          </div>
+
+          <span> : </span>
+          
+          <div className={clsx(styles.section)}>
+            <div className={clsx(styles.number)}>{countDown.months}</div>
+            <div className="label">Months</div>
+          </div>
+
+          <span> : </span>
+          
+          <div className={clsx(styles.section)}>
+            <div className={clsx(styles.number)}>{countDown.days}</div>
+            <span className="label">Days</span>
+          </div>
+
+          <span> : </span>
+          
+          <div className={clsx(styles.section)}>
+            <div className={clsx(styles.number)}>{countDown.hours}</div>
+            <span className="label">Hours</span>
+          </div>
+
+          <span> : </span>
+
+          <div className={clsx(styles.section)}>
+            <div className={clsx(styles.number)}>{countDown.minutes}</div>
+            <span className="label">Minutes</span>
+          </div>
+
+          <span> : </span>
+
+          <div className={clsx(styles.section)}>
+            <div className={clsx(styles.number)}>{countDown.seconds}</div>
+            <span className="label">Seconds</span>
+          </div>
+
+          <span> : </span>
+
+          <div className={clsx(styles.section)}>
+            <div className={clsx(styles.number)}>{countDown.milliseconds}</div>
+            <span className="label">ms</span>
+          </div>
+        </main>
+      </div>
+    </div>
+  );
+}
