@@ -1,0 +1,77 @@
+.clock {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  align-self: center;
+
+
+  background: #eeeeee;
+  box-shadow: 12px 12px 28px rgba(38, 40, 42, 0.15);
+  border-radius: 20px;
+  padding: 2.5rem;
+
+  /* z-index: 9999; */
+
+  position: absolute;
+  top: -6rem;
+
+  text-align-last: center;
+}
+
+.countdown {
+  /* gap: 1rem; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Not currently using the temp and c02 scripts */
+
+/* .gTemp {
+  display: flex;
+  flex-direction: column;
+} */
+
+/* .ceeOhTwo {
+  display: flex;
+  flex-direction: column;
+} */
+
+.clockHeader {
+  color: var(--ifm-color-secondary);
+  font-size: xx-large;
+}
+
+.clockText {
+  color: black;
+  font-size: large;
+}
+
+.clockMain {
+  display: flex;
+  /* border: 2px solid red; */
+  justify-content: center;
+  align-items: center;
+}
+
+.clockMain > span {
+  text-align: center;
+  justify-content: center;
+  font-weight: 700;
+  letter-spacing: .2rem;
+}
+
+.number {
+  font-weight: bold;
+}
+
+
+.section {
+  /* border: 2px solid blue; */
+  display: flex;
+  padding: 1rem;
+  flex-direction: column;
+  justify-content: space-between;
+}
