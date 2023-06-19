@@ -24,6 +24,7 @@
     "file-loader": "^6.2.0",
     "github-markdown-css": "^5.2.0",
     "gray-matter": "^4.0.3",
+    "moment": "^2.29.4",
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
