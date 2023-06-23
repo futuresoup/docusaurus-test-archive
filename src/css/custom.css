@@ -5,13 +5,13 @@
  */
 
 :root {
-  --ifm-color-primary: #3a843c;
-  --ifm-color-primary-dark: darken(#3a843c, 10%);
-  --ifm-color-primary-darker: darken(#3a843c, 20%);
-  --ifm-color-primary-darkest: darken(#3a843c, 30%);
-  --ifm-color-primary-light: lighten(#3a843c, 10%);
-  --ifm-color-primary-lighter: lighten(#3a843c, 20%);
-  --ifm-color-primary-lightest: lighten(#3a843c, 30%);
+  --ifm-color-primary: #255e3c;
+  --ifm-color-primary-dark: darken(#255e3c, 10%);
+  --ifm-color-primary-darker: darken(#255e3c, 20%);
+  --ifm-color-primary-darkest: darken(#255e3c, 30%);
+  --ifm-color-primary-light: lighten(#255e3c, 10%);
+  --ifm-color-primary-lighter: lighten(#255e3c, 20%);
+  --ifm-color-primary-lightest: lighten(#255e3c, 30%);
   --ifm-code-font-size: 95%;
 
   --ifm-color-secondary: #be4721;
@@ -35,15 +35,16 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 .navbar {
-  background-color: var(--ifm-color-primary);
+  background-color: #afcde0;
+  opacity: 0.9;
 }
 
 .navbar__item {
-  color: white;
+  color: black;
 }
 
 .navbar__brand {
-  color: white;
+  color: black;
 }
 
 .navbar__brand:hover {
