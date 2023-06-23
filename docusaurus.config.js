@@ -62,13 +62,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               type: "doc",
               docId: "jobseeker",
               position: "right",
-              label: "Climate Job Seekers",
+              label: "Job Seekers",
             },
             {
               type: "doc",
-              docId: "funder",
+              docId: "startup",
               position: "right",
-              label: "Climate Startups",
+              label: "Startups",
             },
             {
               type: "doc",
@@ -77,6 +77,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               label: "About Us",
             },
             { to: "/blog", label: "News", position: "right" },
+            {
+              to: "https://github.com/climate-tech-handbook/climate-tech-handbook",
+              label: "Contribute",
+              position: "right",
+              target: "_blank",
+            },
           ],
         },
         footer: {
@@ -131,6 +137,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
         prism: {
           theme: lightCodeTheme,
           darkTheme: darkCodeTheme,
+        },
+
+        colorMode: {
+          defaultMode: "light",
+          disableSwitch: true,
+          respectPrefersColorScheme: false,
         },
       }),
   }

@@ -60,12 +60,12 @@ export default function Home(): JSX.Element {
         {/* <ClimateClock /> */}
         <NewClimateClock countDown={climateCountdown} />
         <HomeCard
-          title="Job Seekers"
+          title="Climate Job Seekers"
           description="Becoming a climate expert feels daunting. But it's easier than you think. If you don't currently work in tech, you also have options. You can take courses online, attend seminars, and read books to gain the knowledge you need. You can also join a climate-related organization or volunteer with an environmental group to gain hands-on experience. By taking these steps, you can become a climate expert in no time."
           imageUrl={useBaseUrl("/img/design/hp-typing.png")}
         />
         <HomeCard
-          title="Funders"
+          title="Climate Startups"
           description="The climate tech landscape is changing rapidly. Founders, investors, philanthropists, and government funders - all have a responsibility to spend money wisely. Our future depends on it. Get the best information possible on what's working, and what to avoid.
           Invest in solutions that are proven and bring the most impact. Support innovative ideas, but don't gamble on unproven technology. Invest in the people and expertise that will make a difference in the long term."
           imageUrl={useBaseUrl("/img/design/hp-handshake.png")}

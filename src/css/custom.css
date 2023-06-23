@@ -48,9 +48,9 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 .navbar__brand:hover {
-  color: var(--ifm-color-secondary);
   transform: scale(1.05);
   transition: ease-in 0.1s;
+  color: black;
 }
 
 .footer {
@@ -62,12 +62,25 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   color: white;
 }
 
+.navbar__item[href="https://github.com/climate-tech-handbook/climate-tech-handbook"]
+{
+  border-radius: 10px;
+  background-color: var(--ifm-color-secondary);
+  color: white;
+}
+
+.navbar__item[href="https://github.com/climate-tech-handbook/climate-tech-handbook"]:hover
+{
+  border-radius: 10px;
+  color: black;
+}
+
 .navbar__link:hover {
-  color: var(--ifm-color-secondary);
   transform: scale(1.1);
   transition: ease-in-out 0.1s;
+  color: black;
 }
 
 .footer__link-item:hover {
-  color: var(--ifm-color-secondary);
+  color: white;
 }

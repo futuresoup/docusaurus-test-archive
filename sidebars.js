@@ -15,7 +15,7 @@ module.exports = {
     {
       type: "category",
       label: "Docs",
-      items: ["intro", "about", "jobseeker", "funder"],
+      items: ["intro", "about", "jobseeker", "startup"],
     },
     // {
     //   type: "link",

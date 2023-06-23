@@ -1,5 +1,6 @@
 .heroBanner {
-  background-image: url("~@site/static/img/design/hp-hero.png");
+  /* background-image: url("~@site/static/img/design/hp-hero.png"); */
+  background-image: url("~@site/static/img/design/wind-energy.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -47,7 +48,6 @@
 }
 
 .cthLink:hover {
-  background-color: #be4721e7;
   transform: scale(1.05);
   transition: ease-in-out 0.1s;
 }
