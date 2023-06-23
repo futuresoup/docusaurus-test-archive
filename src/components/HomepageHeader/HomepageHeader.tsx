@@ -23,7 +23,7 @@ export default function HomepageHeader() {
             )}
             to="/intro"
           >
-            Join the Movement
+            Find out
           </Link>
         </div>
         {/* <ClimateClock /> */}
