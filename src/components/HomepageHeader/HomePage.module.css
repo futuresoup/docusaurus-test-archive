@@ -8,7 +8,7 @@
   font-family: "Roboto";
   font-style: normal;
   padding: 4rem 0;
-  text-align: center;
+  /* text-align: center; */
   position: relative;
   overflow: hidden;
 
@@ -23,15 +23,21 @@
   /* gap: 2rem; */
 
   padding-bottom: 7rem;
+
+  align-items: flex-start;
 }
 
 .headerBackground {
   background-color: #3a843c;
 }
 
+.headerStatement {
+  font-size: 1.5rem;
+}
+
 .headerSubtitle {
   text-transform: uppercase;
-  font-size: 4vmin;
+  font-size: 4rem;
   width: auto;
 }
 

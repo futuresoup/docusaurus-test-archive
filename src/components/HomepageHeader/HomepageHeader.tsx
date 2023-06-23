@@ -9,7 +9,7 @@ export default function HomepageHeader() {
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className={clsx("container", styles.headerContainer)}>
-        <p className={clsx("hero__subtitle", styles.headerSubtitle)}>
+        <p className={clsx("hero__subtitle", styles.headerStatement)}>
           {siteConfig.customFields.statement}
         </p>
         <p className={clsx("hero__subtitle", styles.headerSubtitle)}>
