@@ -14,11 +14,13 @@
   /* z-index: 9999; */
 
   position: absolute;
-  top: -6rem;
+  top: -5rem;
 
   text-align-last: center;
 
   max-width: 80vw;
+
+  text-align: center;
 }
 
 .countdown {
@@ -51,7 +53,8 @@
 }
 
 .clockMain {
-  display: flex;
+  display: none;
+  /* display: flex; */
   /* border: 2px solid red; */
   justify-content: center;
   align-items: center;

@@ -34,9 +34,10 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
+/* Set opacity of the navbar */
 .navbar {
   background-color: #afcde0;
-  opacity: 0.9;
+  /* opacity: 0.9; */
 }
 
 .navbar__item {

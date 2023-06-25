@@ -15,20 +15,21 @@
   text-align-last: center;
 }
 
-@media screen and (max-width: 966px) {
+/* @media screen and (max-width: 966px) {
   .clock {
     text-align: center;
   }
 
   .clockHeader {
   }
-}
+} */
 
 .countdown {
   /* gap: 1rem; */
-  display: flex;
+  /* display: flex; */
   flex-direction: column;
   align-items: center;
+  display: none;
 }
 
 /* Not currently using the temp and c02 scripts */
@@ -45,6 +46,7 @@
 
 .clockHeader {
   color: var(--ifm-color-secondary);
+  text-align: center;
 }
 
 .clockText {

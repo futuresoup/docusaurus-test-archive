@@ -20,53 +20,12 @@ const ClimateClock: React.FC<ClockConfig> = ({
     `${originUrl}scripts.js?r=202111041017&ver=4.7.26`,
   ],
 }) => {
-  // const countdownRef = useRef<HTMLDivElement>(null);
-  // const [countdown, setCountdown] = useState<string | null>(null);
-
-  // const loadClimateClockScripts = useCallback(() => {
-  //   loadScripts(scriptTags);
-  //   return () => {
-  //     scriptCleanup(scriptTags);
-  //   };
-  // }, [originUrl, scriptType, scriptTags]);
-
-  // useEffect(() => {
-  //   const cleanup = loadClimateClockScripts();
-
-  //   if (countdownRef.current) {
-  //     const observer = new MutationObserver((mutationsList) => {
-  //       for (const mutation of mutationsList) {
-  //         if (
-  //           mutation.type === "childList" &&
-  //           mutation.target === countdownRef.current
-  //         ) {
-  //           const countdownValue = countdownRef.current.textContent;
-  //           setCountdown(countdownValue);
-  //         }
-  //       }
-  //     });
-
-  //     observer.observe(countdownRef.current, { childList: true });
-
-  //     return () => {
-  //       observer.disconnect();
-  //     };
-  //   }
-
-  //   return cleanup;
-  // }, [loadClimateClockScripts]);
-
   return (
     <div id="clock" className={clsx(styles.clock)}>
       <div className={clsx(styles.countdown)}>
         <h3 className={clsx(styles.clockHeader)} id="time-to-two">
           Time Left To Limit Global Heating To 1.5ºC
         </h3>
-        {/* <div
-          id="timecountdown"
-          // ref={countdownRef}
-          style={{ display: "none" }}
-        ></div> */}
         <span className={clsx(styles.clockText)}>8:10:09:22:54:39:85</span>
       </div>
     </div>
@@ -74,3 +33,39 @@ const ClimateClock: React.FC<ClockConfig> = ({
 };
 
 export default ClimateClock;
+
+// const countdownRef = useRef<HTMLDivElement>(null);
+// const [countdown, setCountdown] = useState<string | null>(null);
+
+// const loadClimateClockScripts = useCallback(() => {
+//   loadScripts(scriptTags);
+//   return () => {
+//     scriptCleanup(scriptTags);
+//   };
+// }, [originUrl, scriptType, scriptTags]);
+
+// useEffect(() => {
+//   const cleanup = loadClimateClockScripts();
+
+//   if (countdownRef.current) {
+//     const observer = new MutationObserver((mutationsList) => {
+//       for (const mutation of mutationsList) {
+//         if (
+//           mutation.type === "childList" &&
+//           mutation.target === countdownRef.current
+//         ) {
+//           const countdownValue = countdownRef.current.textContent;
+//           setCountdown(countdownValue);
+//         }
+//       }
+//     });
+
+//     observer.observe(countdownRef.current, { childList: true });
+
+//     return () => {
+//       observer.disconnect();
+//     };
+//   }
+
+//   return cleanup;
+// }, [loadClimateClockScripts]);

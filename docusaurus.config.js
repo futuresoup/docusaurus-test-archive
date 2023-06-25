@@ -60,13 +60,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
           items: [
             {
               type: "doc",
-              docId: "jobseeker",
+              docId: "resources",
               position: "right",
               label: "Job Seekers",
             },
             {
               type: "doc",
-              docId: "startup",
+              docId: "sectors",
               position: "right",
               label: "Startups",
             },

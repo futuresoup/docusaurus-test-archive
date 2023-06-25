@@ -46,6 +46,7 @@
   background-color: #be4721;
   border: #be4721;
   color: white !important;
+  width: min-content;
 }
 
 .cthLink:hover {
