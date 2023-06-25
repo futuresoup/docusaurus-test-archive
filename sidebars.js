@@ -14,7 +14,7 @@ module.exports = {
     {
       type: "category",
       label: "Handbook",
-      items: ["intro", "about"],
+      items: ["intro", "about", "contribute"],
     },
     {
       type: "category",
@@ -31,11 +31,6 @@ module.exports = {
       label: "Blog",
       href: "/blog",
     },
-    // {
-    //   type: "category",
-    //   label: "Blog",
-    //   items: ["blog"],
-    // },
   ],
 };
 

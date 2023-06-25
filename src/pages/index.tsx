@@ -63,6 +63,7 @@ export default function Home(): JSX.Element {
           title="Climate Job Seekers"
           description="Becoming a climate expert feels daunting. But it's easier than you think. If you don't currently work in tech, you also have options. You can take courses online, attend seminars, and read books to gain the knowledge you need. You can also join a climate-related organization or volunteer with an environmental group to gain hands-on experience. By taking these steps, you can become a climate expert in no time."
           imageUrl={useBaseUrl("/img/design/hp-typing.png")}
+          linkUrl="/jobseeker"
         />
         <HomeCard
           title="Climate Startups"
@@ -70,6 +71,7 @@ export default function Home(): JSX.Element {
           Invest in solutions that are proven and bring the most impact. Support innovative ideas, but don't gamble on unproven technology. Invest in the people and expertise that will make a difference in the long term."
           imageUrl={useBaseUrl("/img/design/hp-handshake.png")}
           customStyles={{ flexDirection: "row-reverse" }}
+          linkUrl="/startup"
         />
       </main>
     </Layout>
