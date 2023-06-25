@@ -45,11 +45,13 @@
 .cthLink {
   background-color: #be4721;
   border: #be4721;
+  color: white !important;
 }
 
 .cthLink:hover {
   transform: scale(1.05);
   transition: ease-in-out 0.1s;
+  color: black !important;
 }
 
 @media screen and (max-width: 966px) {
