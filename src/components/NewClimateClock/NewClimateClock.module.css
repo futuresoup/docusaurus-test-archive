@@ -1,9 +1,8 @@
 .clock {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: auto;
   align-self: center;
 
   background: #eeeeee;
@@ -18,16 +17,28 @@
 
   text-align-last: center;
 
-  max-width: 80vw;
+  width: 100%;
+  max-width: 75vw;
 
   text-align: center;
 }
 
+@media screen and (max-width: 966px) {
+  .clock {
+    max-width: 90vw;
+  }
+
+  .countdown {
+    gap: 0.5rem;
+  }
+}
+
 .countdown {
-  /* gap: 1rem; */
+  gap: 1rem;
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 100%;
 }
 
 /* Not currently using the temp and c02 scripts */
@@ -53,18 +64,19 @@
 }
 
 .clockMain {
-  display: none;
-  /* display: flex; */
+  /* display: none; */
+  display: flex;
   /* border: 2px solid red; */
-  justify-content: center;
-  align-items: center;
+  justify-content: space-around;
+  align-items: baseline;
+  width: 100%;
 }
 
 .clockMain > span {
   text-align: center;
   justify-content: center;
   font-weight: 700;
-  letter-spacing: 0.2rem;
+  /* letter-spacing: 0.2rem; */
 }
 
 .number {
@@ -72,9 +84,8 @@
 }
 
 .section {
-  /* border: 2px solid blue; */
   display: flex;
-  padding: 1rem;
   flex-direction: column;
   justify-content: space-between;
+  letter-spacing: 0.01rem;
 }

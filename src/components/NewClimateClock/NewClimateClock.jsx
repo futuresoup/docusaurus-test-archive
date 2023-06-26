@@ -12,7 +12,7 @@ export default function NewClimateClock({ countDown }) {
         <main className={clsx(styles.clockMain)}>
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.years}</div>
-            <div className="label"> Years</div>
+            <div className="label">Years</div>
           </div>
 
           <span> : </span>
