@@ -6,8 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 (
   module.exports = {
     title: "Climate Tech Handbook",
-    tagline:
-      "We’re building the most accessible and accurate climate tech resource on the planet.",
+    tagline: "How am I going to make a difference?",
     url: "https://www.climatetechhandbook.com",
     baseUrl: "/",
     onBrokenLinks: "ignore",
@@ -45,7 +44,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
     ],
 
     customFields: {
-      tagline2: "and accurate climate tech resource on the planet.",
+      statement:
+        "We are here to help you answer the most important question in the world:",
     },
 
     themeConfig:
@@ -60,15 +60,15 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
           items: [
             {
               type: "doc",
-              docId: "jobseeker",
+              docId: "resources",
               position: "right",
-              label: "Climate Job Seekers",
+              label: "Job Seekers",
             },
             {
               type: "doc",
-              docId: "funder",
+              docId: "sectors",
               position: "right",
-              label: "Climate Startups",
+              label: "Startups",
             },
             {
               type: "doc",
@@ -77,26 +77,37 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               label: "About Us",
             },
             { to: "/blog", label: "News", position: "right" },
+            {
+              to: "https://github.com/climate-tech-handbook/climate-tech-handbook",
+              label: "Contribute",
+              position: "right",
+              target: "_blank",
+            },
           ],
         },
         footer: {
           style: "dark",
           links: [
             {
-              title: "About",
+              title: "Social",
               items: [
                 {
-                  label: "About The Handbook",
-                  to: "/about",
-                },
-                {
-                  label: "Contribute",
-                  to: "/contribute",
+                  html: `
+                    <a href="https://www.facebook.com" target="_blank" rel="noreferrer noopener" aria-label="Facebook">
+                      <img src="img/design/icons/fbook_icon.svg" alt="Facebook Icon" style="margin-right: 8px;"/>
+                    </a>
+                    <a href="https://www.instagram.com" target="_blank" rel="noreferrer noopener" aria-label="Instagram">
+                      <img src="img/design/icons/insta_icon.svg" alt="Instagram Icon" style="margin-right: 8px;"/>
+                    </a>
+                    <a href="https://www.linkedin.com/company/climate-tech-handbook/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
+                      <img src="img/design/icons/linkedin_icon.svg" alt="LinkedIn Icon"/>
+                    </a>
+                  `,
                 },
               ],
             },
             {
-              title: "Resources",
+              title: "Job Seekers",
               items: [
                 {
                   label: "Resource Library",
@@ -106,31 +117,60 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                   label: "Career Guide",
                   to: "/career-guide",
                 },
-              ],
-            },
-            {
-              title: "Solutions",
-              items: [
                 {
-                  label: "List of climate solutions",
-                  to: "/solutions",
+                  label: "Technologies",
+                  to: "/technologies",
+                },
+                {
+                  label: "Glossary",
+                  to: "/glossary",
                 },
               ],
             },
-            // {
-            //   title: "Community",
-            //   items: [
-            //     {
-            //       label: "Stack Overflow",
-            //       href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            //     },
-            //
+            {
+              title: "Startups",
+              items: [
+                {
+                  label: "Choose a Sector",
+                  to: "/sectors",
+                },
+              ],
+            },
+            {
+              title: "About Us",
+              items: [
+                {
+                  label: "About Handbook",
+                  to: "/about",
+                },
+                {
+                  label: "Contribute",
+                  to: "/contribute",
+                },
+              ],
+            },
+            {
+              title: "News",
+              items: [
+                {
+                  label: "Blog",
+                  href: "/blog",
+                },
+              ],
+            },
           ],
           // copyright: `Copyright © ${new Date().getFullYear()} Differential Design, LLC`,
         },
+
         prism: {
           theme: lightCodeTheme,
           darkTheme: darkCodeTheme,
+        },
+
+        colorMode: {
+          defaultMode: "light",
+          disableSwitch: true,
+          respectPrefersColorScheme: false,
         },
       }),
   }

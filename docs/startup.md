@@ -1,3 +1,3 @@
-# Funders
+# Startups
 
 Testing 1 2 3

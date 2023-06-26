@@ -9,13 +9,12 @@ export default function HomepageHeader() {
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className={clsx("container", styles.headerContainer)}>
-        {/* <h1 className="hero__title">{siteConfig.title}</h1> */}
+        <p className={clsx("hero__subtitle", styles.headerStatement)}>
+          {siteConfig.customFields.statement}
+        </p>
         <p className={clsx("hero__subtitle", styles.headerSubtitle)}>
           {siteConfig.tagline}
         </p>
-        {/* <p className={clsx("hero__subtitle", styles.headerSubtitle)}>
-          {siteConfig.customFields.tagline2}
-        </p> */}
         <div className={styles.buttons}>
           <Link
             className={clsx(
@@ -24,7 +23,7 @@ export default function HomepageHeader() {
             )}
             to="/intro"
           >
-            Join the Movement
+            Find out
           </Link>
         </div>
         {/* <ClimateClock /> */}

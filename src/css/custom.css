@@ -5,13 +5,13 @@
  */
 
 :root {
-  --ifm-color-primary: #3a843c;
-  --ifm-color-primary-dark: darken(#3a843c, 10%);
-  --ifm-color-primary-darker: darken(#3a843c, 20%);
-  --ifm-color-primary-darkest: darken(#3a843c, 30%);
-  --ifm-color-primary-light: lighten(#3a843c, 10%);
-  --ifm-color-primary-lighter: lighten(#3a843c, 20%);
-  --ifm-color-primary-lightest: lighten(#3a843c, 30%);
+  --ifm-color-primary: #255e3c;
+  --ifm-color-primary-dark: darken(#255e3c, 10%);
+  --ifm-color-primary-darker: darken(#255e3c, 20%);
+  --ifm-color-primary-darkest: darken(#255e3c, 30%);
+  --ifm-color-primary-light: lighten(#255e3c, 10%);
+  --ifm-color-primary-lighter: lighten(#255e3c, 20%);
+  --ifm-color-primary-lightest: lighten(#255e3c, 30%);
   --ifm-code-font-size: 95%;
 
   --ifm-color-secondary: #be4721;
@@ -34,22 +34,24 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
+/* Set opacity of the navbar */
 .navbar {
-  background-color: var(--ifm-color-primary);
+  background-color: #afcde0;
+  /* opacity: 0.9; */
 }
 
 .navbar__item {
-  color: white;
+  color: black;
 }
 
 .navbar__brand {
-  color: white;
+  color: black;
 }
 
 .navbar__brand:hover {
-  color: var(--ifm-color-secondary);
   transform: scale(1.05);
   transition: ease-in 0.1s;
+  color: black;
 }
 
 .footer {
@@ -61,12 +63,25 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   color: white;
 }
 
+.navbar__item[href="https://github.com/climate-tech-handbook/climate-tech-handbook"]
+{
+  border-radius: 10px;
+  background-color: var(--ifm-color-secondary);
+  color: white;
+}
+
+.navbar__item[href="https://github.com/climate-tech-handbook/climate-tech-handbook"]:hover
+{
+  border-radius: 10px;
+  color: black;
+}
+
 .navbar__link:hover {
-  color: var(--ifm-color-secondary);
   transform: scale(1.1);
   transition: ease-in-out 0.1s;
+  color: black;
 }
 
 .footer__link-item:hover {
-  color: var(--ifm-color-secondary);
+  color: white;
 }
