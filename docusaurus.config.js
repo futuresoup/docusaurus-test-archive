@@ -24,14 +24,14 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             sidebarPath: require.resolve("./sidebars.js"),
             // Please change this to your repo.
             editUrl:
-              "https://github.com/climate-tech-handbook/climate-tech-handbook",
+              "https://www.climatetechhandbook.com/admin/#/edit/",
             routeBasePath: "/",
           },
           blog: {
             showReadingTime: true,
             // Please change this to your repo.
             editUrl:
-              "https://github.com/climate-tech-handbook/climate-tech-handbook",
+              "https://www.climatetechhandbook.com/admin/#/edit/",
           },
           theme: {
             customCss: [
