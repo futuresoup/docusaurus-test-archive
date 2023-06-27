@@ -5,10 +5,13 @@
   align-items: center;
   align-self: center;
 
-  background: #eeeeee;
-  box-shadow: 12px 12px 28px rgba(38, 40, 42, 0.15);
+  background: #ffffff;
+  box-shadow: 12px 12px 28px rgba(0, 0, 0, 0.2);
   border-radius: 20px;
-  padding: 2.5rem;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  padding-top: 20px;
+  padding-bottom: 20px;
 
   /* z-index: 9999; */
 
@@ -21,6 +24,12 @@
   max-width: 75vw;
 
   text-align: center;
+}
+
+@media screen and (min-width: 1440px){
+  .clock{
+    max-width: 800px;
+  }
 }
 
 @media screen and (max-width: 966px) {
@@ -55,7 +64,9 @@
 
 .clockHeader {
   color: var(--ifm-color-secondary);
-  /* font-size: xx-large; */
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5rem;
+  margin-bottom: 0px; 
 }
 
 .clockText {
@@ -70,6 +81,7 @@
   justify-content: space-around;
   align-items: baseline;
   width: 100%;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .clockMain > span {
@@ -80,7 +92,7 @@
 }
 
 .number {
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .section {
@@ -89,3 +101,4 @@
   justify-content: space-between;
   letter-spacing: 0.01rem;
 }
+

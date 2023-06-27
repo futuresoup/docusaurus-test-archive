@@ -4,17 +4,14 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 60vh;
-
+  height: 80vh;
+  margin-top: -96px; /* puts the hero banner partially behind the navbar */
   font-family: "Roboto";
   font-style: normal;
   padding: 4rem 0;
   /* text-align: center; */
   position: relative;
   overflow: hidden;
-
-  position: relative;
-
   background-color: #26282a;
 }
 
@@ -22,10 +19,8 @@
   display: flex;
   flex-direction: column;
   /* gap: 2rem; */
-
-  padding-bottom: 7rem;
-
   align-items: flex-start;
+  
 }
 
 .headerBackground {
@@ -34,25 +29,43 @@
 
 .headerStatement {
   font-size: 1.5rem;
+  text-transform: uppercase;
+  font-weight:400;
+  letter-spacing: .1rem; /* adjusts the kerning */
+  max-width: 60%;
+  line-height: 150%;
 }
 
 .headerSubtitle {
   text-transform: uppercase;
   font-size: 4rem;
+  font-weight: 500;
+  letter-spacing: .2rem; /* adjusts the kerning */
   width: auto;
+  line-height: 130%;
+  max-width: 75%;
+  margin-bottom: 40px;
 }
 
 .cthLink {
   background-color: #be4721;
-  border: #be4721;
+  border: 2px solid var(--ifm-color-secondary);
   color: white !important;
-  width: min-content;
+  border-radius: 10px;
+  font-size: 1rem;
+  height: 60px;
+  display: flex;
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  width: 30%;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 .cthLink:hover {
-  transform: scale(1.05);
-  transition: ease-in-out 0.1s;
-  color: black !important;
+  transition: ease-in-out 0.25s;
+  color: var(--ifm-color-secondary) !important;
+  background: white;
+  border: 2px solid var(--ifm-color-secondary);
 }
 
 @media screen and (max-width: 966px) {

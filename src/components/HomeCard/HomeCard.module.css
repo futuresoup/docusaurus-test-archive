@@ -7,6 +7,8 @@
 
   max-width: 80%;
   align-self: center;
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 
 @media screen and (max-width: 966px) {
@@ -16,26 +18,34 @@
 }
 
 .cardText {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  display: block;
+}
+
+.cardDescription {
+  padding-bottom: 26px;
 }
 
 .cardImg {
-  width: 30vmax;
-  height: 30vmax;
+  width: 42%;
+  height: 100%;
 }
 
 .cardButton {
   /* max-width: 35%; */
   background-color: var(--ifm-color-secondary) !important;
-  text-align: center;
   color: white !important;
+  font-size: 1rem;
+  height: 60px;
+  display: flex;
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  width: 33%;
+  min-width: 100px;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 .cardButton:hover {
-  background-color: var(--ifm-color-secondary) !important;
-  transform: scale(1.1);
-  transition: ease-in-out 0.1s;
-  color: black !important;
+  background-color: white !important;
+  transition: ease-in-out 0.25s;
+  color: var(--ifm-color-secondary) !important;
 }

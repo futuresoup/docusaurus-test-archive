@@ -15,17 +15,15 @@ export default function HomepageHeader() {
         <p className={clsx("hero__subtitle", styles.headerSubtitle)}>
           {siteConfig.tagline}
         </p>
-        <div className={styles.buttons}>
-          <Link
-            className={clsx(
-              "button button--secondary button--lg",
-              styles.cthLink
-            )}
-            to="/intro"
-          >
-            Find out
-          </Link>
-        </div>
+        <Link
+          className={clsx(
+            "button button--secondary button--lg",
+            styles.cthLink
+          )}
+          to="/intro"
+        >
+          Find out
+        </Link>
         {/* <ClimateClock /> */}
       </div>
     </header>

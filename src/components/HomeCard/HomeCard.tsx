@@ -22,8 +22,8 @@ const HomeCard: React.FC<CardProps> = ({
     <div className={clsx(styles.cardContainer)} style={customStyles}>
       <img className={clsx(styles.cardImg)} src={imageUrl} alt={title} />
       <div className={clsx(styles.cardText)}>
-        <h3>{title}</h3>
-        <p>{description}</p>
+        <h2>{title}</h2>
+        <p className={clsx(styles.cardDescription)}>{description}</p>
         <Link
           to={linkUrl}
           className={clsx(
