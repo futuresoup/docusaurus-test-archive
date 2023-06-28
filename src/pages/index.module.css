@@ -12,8 +12,7 @@
 .mainBody {
   display: flex;
   flex-direction: column;
-  gap: 10rem;
-  padding-top: 10rem;
+  padding-top: 8rem;
   padding-bottom: 5rem;
 
   position: relative;

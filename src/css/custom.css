@@ -4,14 +4,16 @@
  * work well for content-centric websites.
  */
 
-:root {
-  --ifm-color-primary: #255e3c;
-  --ifm-color-primary-dark: darken(#255e3c, 10%);
-  --ifm-color-primary-darker: darken(#255e3c, 20%);
-  --ifm-color-primary-darkest: darken(#255e3c, 30%);
-  --ifm-color-primary-light: lighten(#255e3c, 10%);
-  --ifm-color-primary-lighter: lighten(#255e3c, 20%);
-  --ifm-color-primary-lightest: lighten(#255e3c, 30%);
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700&family=Oswald&family=Roboto:wght@100;300;400;500&display=swap');
+ 
+ :root {
+  --ifm-color-primary: #255E3C;
+  --ifm-color-primary-dark: darken(#255E3C, 10%);
+  --ifm-color-primary-darker: darken(#255E3C, 20%);
+  --ifm-color-primary-darkest: darken(#255E3C, 30%);
+  --ifm-color-primary-light: lighten(#255E3C, 10%);
+  --ifm-color-primary-lighter: lighten(#255E3C, 20%);
+  --ifm-color-primary-lightest: lighten(#255E3C, 30%);
   --ifm-code-font-size: 95%;
 
   --ifm-color-secondary: #be4721;
@@ -21,6 +23,10 @@
   --ifm-color-secondary-light: lighten(#be4721, 10%);
   --ifm-color-secondary-lighter: lighten(#be4721, 20%);
   --ifm-color-secondary-lightest: lighten(#be4721, 30%);
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
 }
 
 .docusaurus-highlight-code-line {
@@ -36,22 +42,28 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 
 /* Set opacity of the navbar */
 .navbar {
-  background-color: #afcde0;
-  /* opacity: 0.9; */
+  background-color: rgba(255,255,255,0.65);
+  height: 96px;
 }
 
 .navbar__item {
-  color: black;
+  color: var(--ifm-color-primary);
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .navbar__brand {
-  color: black;
+  color: var(--ifm-color-primary);
 }
 
 .navbar__brand:hover {
   transform: scale(1.05);
   transition: ease-in 0.1s;
   color: black;
+}
+
+.navbar__toggle{
+  color: var(--ifm-color-primary);
 }
 
 .footer {
@@ -68,6 +80,11 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   border-radius: 10px;
   background-color: var(--ifm-color-secondary);
   color: white;
+  height: 40px;
+  display: flex;
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  border: 2px solid var(--ifm-color-secondary);
 }
 
 .navbar__item[href="https://github.com/climate-tech-handbook/climate-tech-handbook"]:hover
@@ -77,9 +94,10 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 .navbar__link:hover {
-  transform: scale(1.1);
-  transition: ease-in-out 0.1s;
-  color: black;
+  transition: ease-in-out 0.25s;
+  color: var(--ifm-color-secondary) !important;
+  background: white;
+  border: 2px solid var(--ifm-color-secondary);
 }
 
 .footer__link-item:hover {
