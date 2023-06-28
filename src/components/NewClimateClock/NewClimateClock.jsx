@@ -1,8 +1,9 @@
-import React from "react";
+import React, { useEffect } from "react";
 import clsx from "clsx";
 import styles from "./NewClimateClock.module.css";
 
 export default function NewClimateClock({ countDown }) {
+
   return (
     <div id="clock" className={clsx(styles.clock)}>
       <div className={clsx(styles.countdown)}>

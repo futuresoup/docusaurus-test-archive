@@ -23,9 +23,15 @@ export default function Home(): JSX.Element {
     milliseconds: 0,
   });
   const [dateOfDeadline, setDateOfDeadline] = useState(
-    moment("2029-07-22T16:00:00+00:00")
+    moment("")
   );
 
+  useEffect(()=> {
+    fetch('https://api.climateclock.world/v2/clock.json')
+      .then(res => res.json())
+      .then(climateClockData => setDateOfDeadline(moment(climateClockData.data.modules.carbon_deadline_1.timestamp)))
+  }, [])
+ 
   useEffect(() => {
     const timeBetween = moment.duration(dateOfDeadline.diff(moment()));
 
