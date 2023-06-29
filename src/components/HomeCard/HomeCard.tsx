@@ -19,7 +19,7 @@ const HomeCard: React.FC<CardProps> = ({
   linkUrl,
 }) => {
   return (
-    <div className={clsx(styles.cardContainer)} style={customStyles}>
+    <div className={clsx("container", styles.cardContainer)} style={customStyles}>
       <img className={clsx(styles.cardImg)} src={imageUrl} alt={title} />
       <div className={clsx(styles.cardText)}>
         <h2>{title}</h2>
@@ -27,7 +27,6 @@ const HomeCard: React.FC<CardProps> = ({
         <Link
           to={linkUrl}
           className={clsx(
-            styles.cardButton,
             "button button--secondary button--lg cthLink_src-components-HomepageHeader-HomePage-module"
           )}
         >
