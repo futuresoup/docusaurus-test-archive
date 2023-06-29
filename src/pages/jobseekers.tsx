@@ -57,18 +57,17 @@ export default function Home(): JSX.Element {
     >
       <HomepageHeader />
       <main className={clsx(styles.mainBody)}>
-        {/* <ClimateClock /> */}
-        <NewClimateClock countDown={climateCountdown} />
         <HomeCard
           title="Climate Job Seekers"
           description="Becoming a climate expert feels daunting. But it's easier than you think."
-          imageUrl={useBaseUrl("/img/climate-job.png")}
+          imageUrl={useBaseUrl("/img/design/hp-typing.png")}
           linkUrl="/resources"
         />
         <HomeCard
           title="Climate Startups"
-          description="The climate tech landscape is changing rapidly. Whether you're a founder, investor, philanthropist, or government funders - we want to help you spend money wisely for the greatest impact"
-          imageUrl={useBaseUrl("/img/climate-startups.webp")}
+          description="The climate tech landscape is changing rapidly. Founders, investors, philanthropists, and government funders - all have a responsibility to spend money wisely. Our future depends on it. Get the best information possible on what's working, and what to avoid.
+          Invest in solutions that are proven and bring the most impact. Support innovative ideas, but don't gamble on unproven technology. Invest in the people and expertise that will make a difference in the long term."
+          imageUrl={useBaseUrl("/img/design/hp-handshake.png")}
           customStyles={{ flexDirection: "row-reverse" }}
           linkUrl="/sectors"
         />
