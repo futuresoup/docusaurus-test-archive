@@ -78,7 +78,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             },
             { to: "/blog", label: "News", position: "right" },
             {
-              to: "https://github.com/climate-tech-handbook/climate-tech-handbook",
+              to: "/contribute",
               label: "Contribute",
               position: "right",
               target: "_blank",
