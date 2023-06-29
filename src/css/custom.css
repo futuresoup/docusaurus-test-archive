@@ -42,8 +42,11 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 
 /* Set opacity of the navbar */
 .navbar {
-  background-color: rgba(255,255,255,0.65);
-  height: 96px;
+  background-color: rgba(255,255,255,0.9);
+  height: 70px;
+  display: flex;
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
 }
 
 .navbar__item {
@@ -57,7 +60,7 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 .navbar__brand:hover {
-  transform: scale(1.05);
+  /* transform: scale(1.05); */
   transition: ease-in 0.1s;
   color: black;
 }
@@ -90,16 +93,36 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 .navbar__item[href="https://github.com/climate-tech-handbook/climate-tech-handbook"]:hover
 {
   border-radius: 10px;
-  color: black;
+  background-color: white;
+  color: var(--ifm-color-secondary);
+  text-decoration: none;
+  border: 2px solid var(--ifm-color-secondary);
 }
 
 .navbar__link:hover {
   transition: ease-in-out 0.25s;
-  color: var(--ifm-color-secondary) !important;
-  background: white;
-  border: 2px solid var(--ifm-color-secondary);
+  text-decoration: underline;
+  /* border: 2px solid var(--ifm-color-secondary); */
 }
 
 .footer__link-item:hover {
   color: white;
+}
+
+.button { /* overwrites default button styling */
+  background-color: var(--ifm-color-secondary) !important;
+  color: white !important;
+  font-size: 1.25rem !important;
+  height: 60px !important;
+  display: flex;
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  min-width: fit-content;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.button:hover {
+  background-color: white !important;
+  transition: ease-in-out 0.25s;
+  color: var(--ifm-color-secondary) !important;
 }
