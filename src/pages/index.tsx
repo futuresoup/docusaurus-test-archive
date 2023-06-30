@@ -6,7 +6,6 @@ import HomepageHeader from "../components/HomepageHeader/HomepageHeader";
 import HomeCard from "../components/HomeCard/HomeCard";
 import styles from "./index.module.css";
 import clsx from "clsx";
-import ClimateClock from "../components/ClimateClock/ClimateClock";
 import NewClimateClock from "../components/NewClimateClock/NewClimateClock";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 
@@ -63,7 +62,6 @@ export default function Home(): JSX.Element {
     >
       <HomepageHeader />
       <main className={clsx(styles.mainBody)}>
-        {/* <ClimateClock /> */}
         <NewClimateClock countDown={climateCountdown} />
         <HomeCard
           title="Climate Job Seekers"
