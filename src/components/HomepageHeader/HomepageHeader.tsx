@@ -24,7 +24,6 @@ export default function HomepageHeader() {
         >
           Find out
         </Link>
-        {/* <ClimateClock /> */}
       </div>
     </header>
   );
