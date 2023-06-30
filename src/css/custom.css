@@ -27,6 +27,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: #EEEEEE;
 }
 
 .docusaurus-highlight-code-line {
@@ -42,7 +43,7 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 
 /* Set opacity of the navbar */
 .navbar {
-  background-color: rgba(255,255,255,0.9);
+  background-color: rgba(176, 203, 221, 1); /* B0CBDD with opacity */
   height: 70px;
   display: flex;
   align-items: center; /* Center vertically */
@@ -78,8 +79,7 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   color: white;
 }
 
-.navbar__item[href="https://github.com/climate-tech-handbook/climate-tech-handbook"]
-{
+.contribute-button {
   border-radius: 10px;
   background-color: var(--ifm-color-secondary);
   color: white;
@@ -90,12 +90,11 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   border: 2px solid var(--ifm-color-secondary);
 }
 
-.navbar__item[href="https://github.com/climate-tech-handbook/climate-tech-handbook"]:hover
-{
+.contribute-button:hover {
   border-radius: 10px;
   background-color: white;
   color: var(--ifm-color-secondary);
-  text-decoration: none;
+  text-decoration: none !important;
   border: 2px solid var(--ifm-color-secondary);
 }
 
