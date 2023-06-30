@@ -1,21 +1,11 @@
 .cardContainer {
   display: flex;
-  flex-direction: row;
-  justify-content: center;
-  gap: 10vmin;
+  flex-direction: column;
+  justify-content: left;
+  gap: 5vmin;
   align-self: center;
   margin-top: 80px;
   margin-bottom: 80px;
-}
-
-@media screen and (max-width: 966px) {
-  .cardContainer {
-    flex-direction: column !important;
-  }
-  .cardImg{
-    width: 42%;
-    height: 100%;
-  }
 }
 
 .cardText {
@@ -32,4 +22,12 @@
   border-radius: 10px;
 }
 
-
+@media screen and (min-width: 966px) {
+  .cardContainer {
+    flex-direction: row;
+  }
+  .cardImg{
+    width: 42%;
+    height: 100%;
+  }
+}

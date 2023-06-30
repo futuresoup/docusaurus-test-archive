@@ -8,7 +8,7 @@ export default function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
-      <div className={clsx("container", styles.headerContainer, styles.overlay)}>
+      <div className={clsx("container", styles.headerContainer)}>
         <p className={clsx("hero__subtitle", styles.headerStatement)}>
           {siteConfig.customFields.statement}
         </p>
@@ -24,6 +24,7 @@ export default function HomepageHeader() {
         >
           Find out
         </Link>
+        <div className={styles.overlay}></div>
         {/* <ClimateClock /> */}
       </div>
     </header>

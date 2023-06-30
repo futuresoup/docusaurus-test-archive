@@ -5,24 +5,23 @@
   background-repeat: no-repeat;
   background-position: center;
   height: 80vh;
-  margin-top: -96px; /* puts the hero banner partially behind the navbar */
+  margin-top: -96px; /* puts the hero banner partially behind the navbar for opacity */
   font-family: "Roboto";
   font-style: normal;
   padding: 4rem 0;
   position: relative;
   overflow: hidden;
-  z-index: -2;
+  /* z-index: -2; */
 }
 
-.heroBanner::before { /* Overlay color with 50% opacity */
+.overlay { /*Overlay color with 50% opacity */
   content: "";
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.5); 
-  z-index:-1;
+  height: 80vh;
+  background-color: rgba(0, 0, 0, 0.4); 
 }
 
 .headerContainer {
@@ -43,6 +42,7 @@
   letter-spacing: .1rem; /* adjusts the kerning */
   max-width: 60%;
   line-height: 150%;
+  z-index: 10;
 }
 
 .headerSubtitle {
@@ -54,6 +54,7 @@
   line-height: 130%;
   max-width: 75%;
   margin-bottom: 40px;
+  z-index: 10;
 }
 
 .cthLink {
@@ -68,6 +69,7 @@
   justify-content: center; /* Center horizontally */
   width: 30%;
   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 10;
 }
 
 .cthLink:hover {
@@ -83,6 +85,11 @@
   }
   .headerSubtitle {
     font-size: 5vmin;
+    max-width: 100%;
+  }
+  .headerStatement {
+    font-size: 5vmin;
+    max-width: 100%;
   }
 }
 

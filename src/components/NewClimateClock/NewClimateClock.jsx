@@ -51,6 +51,13 @@ export default function NewClimateClock({ countDown }) {
             <span className="label">Seconds</span>
           </div>
 
+          <span className={clsx(styles.hideMilliseconds)}> : </span>
+
+          <div className={clsx(styles.section, styles.hideMilliseconds)}>
+            <div className={clsx(styles.number)}>{countDown.milliseconds}</div>
+            <span className="label">Milliseconds</span>
+          </div>
+
           {/* <span> : </span>
 
           <div className={clsx(styles.section)}>
