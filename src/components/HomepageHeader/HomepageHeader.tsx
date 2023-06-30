@@ -8,7 +8,7 @@ export default function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
-      <div className={clsx("container", styles.headerContainer)}>
+      <div className={clsx("container", styles.headerContainer, styles.overlay)}>
         <p className={clsx("hero__subtitle", styles.headerStatement)}>
           {siteConfig.customFields.statement}
         </p>
