@@ -1,0 +1,62 @@
+.solutionsContainer {
+  width: 90%;
+  margin: 3rem auto;
+  display: grid;
+  grid-template-columns: 20% 80%;
+  gap: 2rem;
+
+  /* width: 100%;
+  margin: auto;
+  display: flex;
+  gap: 2rem;
+  padding: 3rem; */
+}
+
+.leftSide {
+  min-width: 15rem;
+}
+
+.rightSide {
+  min-width: 40rem;
+}
+
+/* .headerBackground {
+  background-color: white;
+} */
+
+.headerStatement {
+  font-size: 1.5rem;
+  font-weight:400;
+  letter-spacing: .1rem; /* adjusts the kerning */
+  max-width: 100%;
+  line-height: 150%;
+  color: black;
+}
+
+@media screen and (min-width: 966px) {
+  .solutionsContainer {
+    width: 90%;
+    margin: 3rem auto;
+    display: grid;
+    grid-template-columns: 20% 80%;
+    gap: 2rem;
+  
+    /* width: 100%;
+    margin: auto;
+    display: flex;
+    gap: 2rem;
+    padding: 3rem; */
+  }
+
+  .leftSide {
+    width: 100%;
+    min-width: 14rem;
+  }
+
+  .rightSide {
+    width: 100%;
+    min-width: 40rem;
+  }
+}
+
+  
