@@ -73,7 +73,6 @@ export default function Home(): JSX.Element {
           title="Climate Startups"
           description="If you're a founder, investor, philanthropist, or government funder - we can help you spend money wisely for the greatest impact"
           imageUrl={useBaseUrl("/img/climate-startups.webp")}
-          customStyles={{ flexDirection: "row-reverse" }}
           linkUrl="/sectors"
         />
       </main>

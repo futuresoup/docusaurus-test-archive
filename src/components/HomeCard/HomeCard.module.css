@@ -26,6 +26,11 @@
   .cardContainer {
     flex-direction: row;
   }
+  /* Applies to the second .cardContainer div inside the main section */
+  /* This selector is more specific, so it overrides the .cardContainer one */
+  main .cardContainer:nth-child(2) { 
+    flex-direction: row-reverse;
+  }
   .cardImg{
     width: 42%;
     height: 100%;
