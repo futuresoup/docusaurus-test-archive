@@ -76,17 +76,18 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               position: "right",
               label: "About Us",
             },
-            {
-              to: "solutions",
-              label: "Solutions",
-              position: "right",
-            },
+            // {
+            //   to: "solutions",
+            //   label: "Solutions",
+            //   position: "right",
+            // },
             { to: "/blog", label: "News", position: "right" },
             {
               to: "/contribute",
-              label: "Contribute",
+              className: "contribute-button",
               position: "right",
-              target: "_blank",
+              // target: "_blank",
+              label: "Contribute"
             },
           ],
         },
@@ -112,7 +113,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               ],
             },
             {
-              title: "Job Seekers",
+              title: "Resources",
               items: [
                 {
                   label: "Resource Library",
@@ -133,11 +134,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               ],
             },
             {
-              title: "Startups",
+              title: "Climate Solutions",
               items: [
                 {
                   label: "Choose a Sector",
-                  to: "/sectors",
+                  to: "/solutions",
                 },
               ],
             },
@@ -145,7 +146,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               title: "About Us",
               items: [
                 {
-                  label: "About Handbook",
+                  label: "About The Handbook",
                   to: "/about",
                 },
                 {

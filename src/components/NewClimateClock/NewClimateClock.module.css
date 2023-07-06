@@ -40,6 +40,10 @@
   .countdown {
     gap: 0.5rem;
   }
+
+  .hideMilliseconds {
+    display: none !important;
+  }
 }
 
 .countdown {
