@@ -18,7 +18,7 @@ import Link from "@docusaurus/Link";
     }) => {
     return (
         <div className={clsx("cardContainer", styles.cardContainer)}>
-            <img className={clsx("img", styles.img)} src={imageUrl} alt={title} />
+            <img className={clsx("img", styles.cardImg)} src={imageUrl} alt={title} />
             <div className={clsx("content", styles.content)}>
                 <h2>{title}</h2>
                 <p>{description}
