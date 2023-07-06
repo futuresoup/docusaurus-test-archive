@@ -75,7 +75,6 @@ export default function Home(): JSX.Element {
           title="Climate Startups"
           description="The climate tech landscape is changing rapidly. Whether you're a founder, investor, philanthropist, or government funders - we want to help you spend money wisely for the greatest impact"
           imageUrl={useBaseUrl("/img/climate-startups.webp")}
-          customStyles={{ flexDirection: "row-reverse" }}
           linkUrl="/sectors"
         />
       </main>

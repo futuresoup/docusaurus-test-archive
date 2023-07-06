@@ -8,18 +8,16 @@ interface CardProps {
   description: string;
   imageUrl: string;
   linkUrl: string;
-  customStyles?: CSSProperties;
 }
 
 const HomeCard: React.FC<CardProps> = ({
   title,
   description,
   imageUrl,
-  customStyles,
   linkUrl,
 }) => {
   return (
-    <div className={clsx("container", styles.cardContainer)} style={customStyles}>
+    <div className={clsx("container", styles.cardContainer)}>
       <img className={clsx(styles.cardImg)} src={imageUrl} alt={title} />
       <div className={clsx(styles.cardText)}>
         <h2>{title}</h2>
