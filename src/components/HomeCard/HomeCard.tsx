@@ -28,7 +28,7 @@ const HomeCard: React.FC<CardProps> = ({
             "button button--secondary button--lg cthLink_src-components-HomepageHeader-HomePage-module"
           )}
         >
-          Learn More
+          Show me
         </Link>
       </div>
     </div>
