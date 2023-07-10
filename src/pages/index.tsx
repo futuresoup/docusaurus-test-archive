@@ -65,13 +65,13 @@ export default function Home(): JSX.Element {
         <NewClimateClock countDown={climateCountdown} />
         <HomeCard
           title="Climate Job Seekers"
-          description="You can have a dream job and save the world."
+          description="You don't have to choose between doing what you love and solving the climate emergency."
           imageUrl={useBaseUrl("/img/climate-job.png")}
           linkUrl="/resources"
         />
         <HomeCard
-          title="Climate Startups"
-          description="If you're a founder, investor, philanthropist, or government funder - we can help you spend money wisely for the greatest impact"
+          title="Founders, Investors, Philanthropists, and Government Funders"
+          description="Our open source AI assistant will save you precious time and money. We want you to make the greatest impact possible."
           imageUrl={useBaseUrl("/img/climate-startups.webp")}
           linkUrl="/sectors"
         />
