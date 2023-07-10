@@ -25,7 +25,7 @@ const HomeCard: React.FC<CardProps> = ({
         <Link
           to={linkUrl}
           className={clsx(
-            "button button--secondary button--lg cthLink_src-components-HomepageHeader-HomePage-module"
+            styles.buttonMain, "button button--secondary button--lg cthLink_src-components-HomepageHeader-HomePage-module"
           )}
         >
           Learn More
