@@ -68,19 +68,14 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               type: "doc",
               docId: "sectors",
               position: "right",
-              label: "Startups",
+              label: "Founders",
             },
             {
               type: "doc",
               docId: "about",
               position: "right",
-              label: "About Us",
+              label: "Investors",
             },
-            // {
-            //   to: "solutions",
-            //   label: "Solutions",
-            //   position: "right",
-            // },
             { to: "/blog", label: "News", position: "right" },
             {
               to: "/contribute",
@@ -99,14 +94,14 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               items: [
                 {
                   html: `
+                    <a href="https://www.linkedin.com/company/climate-tech-handbook/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
+                      <img src="img/design/icons/linkedin_icon.svg" alt="LinkedIn Icon"/>
+                    </a>
                     <a href="https://www.facebook.com" target="_blank" rel="noreferrer noopener" aria-label="Facebook">
-                      <img src="img/design/icons/fbook_icon.svg" alt="Facebook Icon" style="margin-right: 8px;"/>
+                      <img src="img/design/icons/github-mark-white.svg" alt="Facebook Icon" style="margin-right: 8px;"/>
                     </a>
                     <a href="https://www.instagram.com" target="_blank" rel="noreferrer noopener" aria-label="Instagram">
                       <img src="img/design/icons/insta_icon.svg" alt="Instagram Icon" style="margin-right: 8px;"/>
-                    </a>
-                    <a href="https://www.linkedin.com/company/climate-tech-handbook/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
-                      <img src="img/design/icons/linkedin_icon.svg" alt="LinkedIn Icon"/>
                     </a>
                   `,
                 },
