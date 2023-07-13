@@ -93,7 +93,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
           // Public API key: it is safe to commit it
           apiKey: '9a1b1732754cadba8e8410cc3df7e021',
 
-          indexName: 'climatetechhandbook1',
+          indexName: 'Docusaurus',
 
           // Optional: see doc section below
           contextualSearch: false,
