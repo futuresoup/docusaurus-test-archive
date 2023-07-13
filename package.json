@@ -21,6 +21,7 @@
     "@mdx-js/react": "^1.6.21",
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.2.1",
+    "docusaurus-lunr-search": "^2.3.2",
     "file-loader": "^6.2.0",
     "github-markdown-css": "^5.2.0",
     "gray-matter": "^4.0.3",

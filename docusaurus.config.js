@@ -14,6 +14,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
     favicon: "img/main/favicon.ico",
     organizationName: "The Climate Tech Handbook", // Usually your GitHub org/user name.
     projectName: "The Climate Tech Handbook", // Usually your repo name.
+    plugins: [require.resolve('docusaurus-lunr-search')],
 
     presets: [
       [
@@ -85,18 +86,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               label: "Contribute"
             },
           ],
-        },
-        algolia: {
-          // The application ID provided by Algolia
-          appId: 'E9TXPNXP1B',
-
-          // Public API key: it is safe to commit it
-          apiKey: '9a1b1732754cadba8e8410cc3df7e021',
-
-          indexName: 'Docusaurus',
-
-          // Optional: see doc section below
-          contextualSearch: false,
         },
         footer: {
           style: "dark",
