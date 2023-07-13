@@ -86,6 +86,33 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             },
           ],
         },
+        algolia: {
+          // The application ID provided by Algolia
+          appId: 'E9TXPNXP1B',
+
+          // Public API key: it is safe to commit it
+          apiKey: '9a1b1732754cadba8e8410cc3df7e021',
+
+          indexName: 'climatetechhandbook1',
+
+          // Optional: see doc section below
+          contextualSearch: true,
+
+          // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+          externalUrlRegex: 'external\\.com|domain\\.com',
+
+          // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+          replaceSearchResultPathname: {
+            from: '/', // or as RegExp: /\/docs\//
+            to: '/search',
+          },
+
+          // Optional: Algolia search parameters
+          searchParameters: {},
+
+          // Optional: path for search page that enabled by default (`false` to disable it)
+          searchPagePath: 'search',
+        },
         footer: {
           style: "dark",
           links: [
@@ -100,10 +127,35 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                     <a href="https://www.facebook.com" target="_blank" rel="noreferrer noopener" aria-label="Facebook">
                       <img src="img/design/icons/github-mark-white.svg" alt="Facebook Icon" style="margin-right: 8px;"/>
                     </a>
+                    <a href="https://climatetechh.substack.com/" target="_blank" rel="noreferrer noopener" aria-label="Substack">
+                      <img src="img/design/icons/substack-icon.svg" alt="Substack Icon" style="margin-right: 8px;"/>
+                    </a>
                     <a href="https://www.instagram.com" target="_blank" rel="noreferrer noopener" aria-label="Instagram">
                       <img src="img/design/icons/insta_icon.svg" alt="Instagram Icon" style="margin-right: 8px;"/>
                     </a>
                   `,
+                },
+              ],
+            },
+            {
+              title: "About Us",
+              items: [
+                {
+                  label: "About The Handbook",
+                  to: "/about",
+                },
+                {
+                  label: "Contribute",
+                  to: "/contribute",
+                },
+              ],
+            },
+            {
+              title: "News",
+              items: [
+                {
+                  label: "Blog",
+                  href: "/blog",
                 },
               ],
             },
@@ -132,30 +184,24 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               title: "Climate Solutions",
               items: [
                 {
+                  label: "Sector A",
+                  to: "/solutions",
+                },
+                {
                   label: "Choose a Sector",
                   to: "/solutions",
                 },
-              ],
-            },
-            {
-              title: "About Us",
-              items: [
                 {
-                  label: "About The Handbook",
-                  to: "/about",
+                  label: "Choose a Sector",
+                  to: "/solutions",
                 },
                 {
-                  label: "Contribute",
-                  to: "/contribute",
+                  label: "Choose a Sector",
+                  to: "/solutions",
                 },
-              ],
-            },
-            {
-              title: "News",
-              items: [
                 {
-                  label: "Blog",
-                  href: "/blog",
+                  label: "Additional Sectors",
+                  to: "/solutions",
                 },
               ],
             },
