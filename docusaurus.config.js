@@ -97,7 +97,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
           // Optional: see doc section below
           contextualSearch: false,
-
         },
         footer: {
           style: "dark",
