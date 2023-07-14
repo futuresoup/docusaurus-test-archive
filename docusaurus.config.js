@@ -134,7 +134,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                 {
                   label: "Choose a Sector",
                   to: "/solutions",
-                },
+                }
               ],
             },
             {
