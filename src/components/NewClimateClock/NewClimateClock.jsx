@@ -13,49 +13,49 @@ export default function NewClimateClock({ countDown }) {
         <main className={clsx(styles.clockMain)}>
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.years}</div>
-            <div className="label">Years</div>
+            <div className="label">Yrs</div>
           </div>
 
           <span> : </span>
 
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.months}</div>
-            <div className="label">Months</div>
+            <div className="label">Min</div>
           </div>
 
           <span> : </span>
 
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.days}</div>
-            <span className="label">Days</span>
+            <span className="label">Day</span>
           </div>
 
           <span> : </span>
 
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.hours}</div>
-            <span className="label">Hours</span>
+            <span className="label">Hrs</span>
           </div>
 
           <span> : </span>
 
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.minutes}</div>
-            <span className="label">Minutes</span>
+            <span className="label">Min</span>
           </div>
 
           <span> : </span>
 
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.seconds}</div>
-            <span className="label">Seconds</span>
+            <span className="label">Sec</span>
           </div>
 
           <span className={clsx(styles.hideMilliseconds)}> : </span>
 
           <div className={clsx(styles.section, styles.hideMilliseconds)}>
             <div className={clsx(styles.number)}>{countDown.milliseconds}</div>
-            <span className="label">Milliseconds</span>
+            <span className="label">Ms</span>
           </div>
 
           {/* <span> : </span>
