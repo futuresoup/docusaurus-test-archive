@@ -3,15 +3,11 @@ title: Industry
 Description: null
 icon: material/factory
 ---
-# :material-factory: Industry
 
 ## Sector Overview
 
-<div class="grid cards" markdown>
-
-* :material-check-bold:{ .lg .middle } 143.4–166 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
-
-</div>
+:::tip 143.4–166 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::
 
 ![](/../static/img/industry.jpg)
 
@@ -38,9 +34,6 @@ Examples:
 * [Recycling](../solution-recycling)
 * [Alternative Refrigerants](../solution-alternative-refrigerants)
 * [Refrigerant Management](../solution-refrigerant-management)
-*
-*
-*
 
 - - -
 

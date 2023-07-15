@@ -3,15 +3,11 @@ title: Media and Journalism
 Description: null
 icon: fontawesome/solid/pencil
 ---
-# :fontawesome-solid-pencil: Media and Journalism
 
 ## Sector Overview
 
-<div class="grid cards" markdown>
-
-* :material-check-bold:{ .lg .middle } 6.3-10 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
-
-</div>
+:::tip 196.8–420.6 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::
 
 ![](/../static/img/journalism.jpg)
 

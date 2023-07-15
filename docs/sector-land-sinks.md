@@ -3,15 +3,11 @@ title: Land Sinks
 Description: null
 icon: material/grass
 ---
-# :material-grass: Land Sinks
 
 ## Sector Overview
 
-<div class="grid cards" markdown>
-
-* :material-check-bold:{ .lg .middle } 248.2–392.7 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
-
-</div>
+:::tip 248.2–392.7 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::
 
 ![](/../static/img/land-sinks.jpg)
 
@@ -47,9 +43,6 @@ Examples:
 * [Tropical Forest Restoration](../solution-tropical-forest-restoration)
 * [Plant-Rich Diets](../solution-plant-rich-diets)
 * [Reduced Food Waste](../solution-reduced-food-waste)
-*
-*
-*
 
 - - -
 

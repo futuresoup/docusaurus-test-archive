@@ -5,13 +5,11 @@ Tags:
   - Sector
   - Transportation
 ---
-# :material-plane-car: Transportation
 
-<div class="grid cards" markdown>
+## Sector Overview
 
-* :material-check-bold:{ .lg .middle } **61.7–88.4** Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
-
-</div>
+:::tip 61.7–88.4 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::
 
 ![](/../static/img/transportation.jpeg)
 

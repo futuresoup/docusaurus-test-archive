@@ -3,13 +3,11 @@ title: Electricity
 Description: null
 icon: material/lightning-bolt
 ---
-# :material-lightning-bolt:  Electricity
 
-<div class="grid cards" markdown>
+## Sector Overview
 
-* :material-check-bold:{ .lg .middle } 196.8–420.6 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
-
-</div>
+:::tip 196.8–420.6 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::
 
 ![](/../static/img/electricity.png)
 
@@ -57,9 +55,6 @@ The last two examples are included in what is often referred to as the "electrif
 * [Distributed Solar Photovoltaics](../solution-distributed-solar-photovoltaics)
 * [Utility-Scale Solar Photovoltaics](../solution-utility-scale-solar-photovoltaics)
 * [Onshore Wind Turbines](../solution-onshore-wind-turbines)
-*
-*
-*
 
 - - -
 

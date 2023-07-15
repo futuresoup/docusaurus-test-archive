@@ -3,15 +3,11 @@ title: Buildings
 Description: null
 icon: fontawesome/solid/city
 ---
-# :fontawesome-solid-city: Buildings
 
 ## Sector Overview
 
-<div class="grid cards" markdown>
-
-* :material-check-bold:{ .lg .middle } 72–144.3 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
-
-</div>
+:::tip 72-144.3 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::
 
 ![](/../static/img/buildings.jpg)
 
@@ -41,9 +37,6 @@ Examples:
 * [Clean Cooking](../solution-clean-cooking)
 * [Alternative Refrigerants](../solution-alternative-refrigerants)
 * [Refrigerant Management](../solution-refrigerant-management)
-*
-*
-*
 
 - - -
 

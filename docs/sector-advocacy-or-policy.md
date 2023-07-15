@@ -3,7 +3,6 @@ title: Advocacy or Policy
 Description: null
 icon: fontawesome/solid/hand
 ---
-# :fontawesome-solid-hand: Advocacy or Policy
 
 ## Sector Overview
 

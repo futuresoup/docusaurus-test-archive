@@ -3,15 +3,11 @@ title: Food, Agriculture and Land Use
 Description: null
 icon: material/food-apple
 ---
-# :material-food-apple:  Food, Agriculture and Land Use
 
 ## Sector Overview
 
-<div class="grid cards" markdown>
-
-* :material-check-bold:{ .lg .middle } 226.5–312 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
-
-</div>
+:::tip 226.5–312 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::
 
 ![](/../static/img/food-agriculture-and-land-use.jpg)
 
@@ -44,10 +40,6 @@ Examples:
 * [Peatland Protection and Rewetting](../solution-peatland-protection-and-rewetting)
 * [Plant-Rich Diets](../solution-plant-rich-diets)
 * [Reduced Food Waste](../solution-reduced-food-waste)
-*
-*
-*
-
 - - -
 
 !!! info "[Help us](../../contribute) track this Sector"

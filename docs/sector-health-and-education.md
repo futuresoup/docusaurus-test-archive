@@ -3,13 +3,11 @@ title: Health and Education
 Description: null
 icon: material/heart-plus
 ---
-# :material-heart-plus: Health and Education
 
-<div class="grid cards" markdown>
+## Sector Overview
 
-* :material-check-bold:{ .lg .middle } 68.9 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
-
-</div>
+:::tip 68.9 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::
 
 ![](/../static/img/healthy-lifestyle.jpg)
 

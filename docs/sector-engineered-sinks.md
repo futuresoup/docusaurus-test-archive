@@ -3,13 +3,11 @@ title: Engineered Sinks
 Description: null
 icon: material/chart-bubble
 ---
-# :material-chart-bubble: Engineered Sinks
 
-<div class="grid cards" markdown>
+## Sector Overview
 
-* :material-check-bold:{ .lg .middle } 1.4–3 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
-
-</div>
+:::tip 1.4–3 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::
 
 ![Biochar use cases for climate change mitigation](/../static/img/biochar-production.jpg)
 

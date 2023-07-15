@@ -3,7 +3,6 @@ title: Climate Adaptation
 Description: null
 icon: material/thermometer-chevron-up
 ---
-# :material-thermometer-chevron-up: Climate Adaptation
 
 ## Sector Overview
 

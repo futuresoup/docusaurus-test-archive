@@ -3,15 +3,11 @@ title: Coastal and Ocean Sinks
 Description: null
 icon: fontawesome/solid/water
 ---
-# :fontawesome-solid-water:  Coastal and Ocean Sinks
 
 ## Sector Overview
 
-<div class="grid cards" markdown>
-
-* :material-check-bold:{ .lg .middle } 6.3-10 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
-
-</div>
+:::tip 6.3-10 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::
 
 ![](/../static/img/coastal-and-ocean-sinks.png)
 
@@ -30,9 +26,6 @@ Examples:
 * [Coastal Wetland Protection](../solution-coastal-wetland-protection)
 * [Seaweed Farming](../solution-seaweed-farming)
 * [Macroalgae Protection and Restoration](../solution-macroalgae-protection-and-restoration)
-*
-*
-*
 
 - - -
 
