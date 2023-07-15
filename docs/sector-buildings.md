@@ -1,4 +1,3 @@
-
 ---
 title: Buildings
 Description: null
