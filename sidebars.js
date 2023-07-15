@@ -21,6 +21,12 @@ module.exports = {
       label: '✅ Climate Solutions',
       items: [
         {
+          type: 'link',
+          label: 'Intro to the Solutions Framework',
+          href: '/solutions',
+        },
+        
+        {
           type: 'doc',
           label: 'Electricity',
           id: 'sector-electricity',
@@ -92,7 +98,12 @@ module.exports = {
         },
       ],
     },
-        {
+    {
+      type: 'doc',
+      label: '👩🏽‍🚀 Job seekers',
+      id: 'jobseekers',
+    },
+    {
       type: 'doc',
       label: '⚡️ Startups',
       id: 'startups',
