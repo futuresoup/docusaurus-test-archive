@@ -56,12 +56,10 @@ It is important be skeptical while displaying a respectful attitude when critiqu
 
 If you are the one whose ideas are being critiqued, understand that the person critiquing is just trying to help.
 
-<br> 
 #### Productive debate
 
 Criticize ideas not people.
 
-<br>
 #### Community health
 
 Some online communities are remarkably successful, while others are toxic.
