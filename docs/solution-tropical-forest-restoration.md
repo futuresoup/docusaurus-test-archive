@@ -1,7 +1,7 @@
 ---
 title: Tropical Forest Restoration
 ---
-![The graphic displays the recovery of soil, ecosystem functioning, forest structure, and tree biodiversity as tropical forests regrow on former agricultural lands.](/../static/img/tropical-forest-restoration.avif)
+![The graphic displays the recovery of soil, ecosystem functioning, forest structure, and tree biodiversity as tropical forests regrow on former agricultural lands.](/../static/img/tropical-forest-restoration.jpg)
 
 *Changes in soil, ecosystem functioning, forest structure and tree biodiversity as tropical rainforests restoration ([The Conversation](https://theconversation.com/tropical-forests-can-recover-surprisingly-quickly-on-deforested-lands-and-letting-them-regrow-naturally-is-an-effective-and-low-cost-way-to-slow-climate-change-173302))*
 
