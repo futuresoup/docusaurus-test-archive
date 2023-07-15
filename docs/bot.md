@@ -1,12 +1,5 @@
 ---
 title: Climate Bot
-description:
-authors:
-  - 
-date: 
-tags:
-  -
-  -
 ---
 
 # Climate Bot

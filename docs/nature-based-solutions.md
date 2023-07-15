@@ -1,12 +1,5 @@
 ---
 title: Nature Based Solutions
-description:
-authors:
-  - 
-date: 
-tags:
-  -
-  -
 ---
 
 !!! info "[Help us](../../contribute) track this Solution"

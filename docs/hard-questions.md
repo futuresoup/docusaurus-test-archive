@@ -1,13 +1,5 @@
 ---
 title: Hard Questions
-description: null
-authors:
-  - name: Jacob Caggiano
-    description: Hello
-    avatar: Hello
-date: null
-tags:
-  - ""
 ---
 !!! Warning "Heavy work in progress"
 
