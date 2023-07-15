@@ -1,7 +1,7 @@
 ---
 title: Utility-Scale Solar Photovoltaics
 ---
-![NREL Illustration of Typical Ground-Mounted Utility-Scale Solar PV Installation](/img/utility-scale-solar-photovoltaics.jpg)
+![NREL Illustration of Typical Ground-Mounted Utility-Scale Solar PV Installation](/../static/img/utility-scale-solar-photovoltaics.jpg)
 
 *NREL Illustration of Typical Ground-Mounted Utility-Scale Solar PV Installation ([Northwest Power and Conservation Council](https://www.nwcouncil.org/2021powerplan_utility-scale-solar-pv_generating-resource-reference-plants/))*
 

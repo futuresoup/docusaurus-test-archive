@@ -2,7 +2,7 @@
 title: Clean Cooking
 ---
 
-![Cover Image](img/clean-cooking.jpg)
+![Cover Image](../static/img/clean-cooking.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

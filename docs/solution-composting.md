@@ -2,7 +2,7 @@
 title: Composting
 ---
 
-![Cover Image](img/commercial-composting.jpg)
+![Cover Image](../static/img/commercial-composting.jpg)
 
 _Aerating a compost pile at a commercial compost facility_
 

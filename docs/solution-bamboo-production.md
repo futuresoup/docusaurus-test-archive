@@ -2,7 +2,7 @@
 title: Bamboo Production
 ---
 
-![Cover Image](img/bamboo-farm.jpg)
+![Cover Image](../static/img/bamboo-farm.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

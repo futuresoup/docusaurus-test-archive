@@ -1,7 +1,7 @@
 ---
 title: Onshore Wind Turbines
 ---
-![Wind farms, either onshore or offshore, can include floating turbines in deep sea areas.](/img/onshore-wind-turbines.jpg)
+![Wind farms, either onshore or offshore, can include floating turbines in deep sea areas.](/../static/img/onshore-wind-turbines.jpg)
 
 *Types of wind farms ([Mare Wind](https://www.marewind.eu/news/wind-energy-basics/))*
 

@@ -2,7 +2,7 @@
 title: Electric Cars
 ---
 
-![Cover Image](img/electric-car.jpg)
+![Cover Image](../static/img/electric-car.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

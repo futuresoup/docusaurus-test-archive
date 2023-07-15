@@ -1,7 +1,7 @@
 ---
 title: System of Rice Intensification
 ---
-![Integrated System of Rice Intensification blended SRI water management with diversified farming (polyculture). A 350m2 plot comprised rice fields, a small pond for irrigation and fish, and bunds for horticultural crops.](/img/system-of-rice-intensification.jpg)
+![Integrated System of Rice Intensification blended SRI water management with diversified farming (polyculture). A 350m2 plot comprised rice fields, a small pond for irrigation and fish, and bunds for horticultural crops.](/../static/img/system-of-rice-intensification.jpg)
 
 *Lay-out design of Integrated System of Rice Intensification ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S037837741530055X#fig0005))*
 

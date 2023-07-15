@@ -2,7 +2,7 @@
 title: High-Performance Glass
 ---
 
-![Cover Image](img/high-performance-glass.png)
+![Cover Image](../static/img/high-performance-glass.png)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

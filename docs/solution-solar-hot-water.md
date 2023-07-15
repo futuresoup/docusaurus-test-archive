@@ -1,7 +1,7 @@
 ---
 title: Solar Hot Water
 ---
-![](/img/solar-hot-water.webp)
+![](/../static/img/solar-hot-water.webp)
 
 *Schematic of solar hot water system ([This Old House](https://www.thisoldhouse.com/green-home/21014968/solar-hot-water))*
 

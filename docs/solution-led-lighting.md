@@ -1,7 +1,7 @@
 ---
 title: LED Lighting
 ---
-![](/img/led-lighting.jpg)
+![](/../static/img/led-lighting.jpg)
 
 *Environmental protection of LED lighting ([Solar Electric Power Company](https://www.sepco-solarlighting.com/blog/the-advantages-of-led-lights-for-the-environment))*
 

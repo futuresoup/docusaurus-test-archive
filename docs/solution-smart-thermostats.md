@@ -1,7 +1,7 @@
 ---
 title: Smart Thermostats
 ---
-![Smart thermostat with local and wireless UI and secure cloud data upload vs. traditional AC system control.](/img/smart-thermostats.webp)
+![Smart thermostat with local and wireless UI and secure cloud data upload vs. traditional AC system control.](/../static/img/smart-thermostats.webp)
 
 *Smart Thermostat Control Design w/ Rapid IoT vs Traditional AC system Control Design ([NXP](https://www.nxp.com/company/blog/build-a-smart-thermostat-control-unit-in-minutes:BL-BUILD-SMART-THERMOSTAT-CONTROL-UNIT))*
 

@@ -1,7 +1,7 @@
 ---
 title: Nutrient Management
 ---
-![Nutrient availability and their interaction with soil significantly impact crop development.](/img/nutrient-management.webp)
+![Nutrient availability and their interaction with soil significantly impact crop development.](/../static/img/nutrient-management.webp)
 
 *Soil nutrient management ([Earth Smart Solutions](https://www.earth-smart-solutions.com/blogs/blog/soil-nutrient-management-tips))*
 

@@ -2,7 +2,7 @@
 title: Improved Rice Production
 ---
 
-![Cover Image](img/improved-rice-production.jpg)
+![Cover Image](../static/img/improved-rice-production.jpg)
 
 _Rice production in Eastern Uruguay_ 
 

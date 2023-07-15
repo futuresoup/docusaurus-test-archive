@@ -2,7 +2,7 @@
 title: Distributed Energy Storage
 ---
 
-![Distributed Energy Storage diagram](img/distributed-energy-storage.jpg)
+![Distributed Energy Storage diagram](../static/img/distributed-energy-storage.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

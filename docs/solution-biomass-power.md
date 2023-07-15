@@ -2,7 +2,7 @@
 title: Biomass Power
 ---
 
-![Cover Image](img/biomass-power-plant.jpg)
+![Cover Image](../static/img/biomass-power-plant.jpg)
 
 _SICET, Biomass power plant in Ospitale di Cadore, Italy._
 

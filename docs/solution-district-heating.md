@@ -2,7 +2,7 @@
 title: District Heating
 ---
 
-![Cover Image](img/district-heating.jpg)
+![Cover Image](../static/img/district-heating.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

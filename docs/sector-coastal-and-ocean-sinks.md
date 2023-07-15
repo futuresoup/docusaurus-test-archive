@@ -13,7 +13,7 @@ icon: fontawesome/solid/water
 
 </div>
 
-![](/img/coastal-and-ocean-sinks.png)
+![](/../static/img/coastal-and-ocean-sinks.png)
 
 Coastal and ocean sinks can absorb and sequester large amounts of carbon dioxide from the atmosphere, also known as "blue carbon".
 

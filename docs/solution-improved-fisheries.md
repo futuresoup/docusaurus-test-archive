@@ -2,7 +2,7 @@
 title: Improved Fisheries
 ---
 
-![Cover Image](img/improved-fisheries.jpg)
+![Cover Image](../static/img/improved-fisheries.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

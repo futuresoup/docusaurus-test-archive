@@ -11,7 +11,7 @@ icon: material/heart-plus
 
 </div>
 
-![](/img/healthy-lifestyle.jpg)
+![](/../static/img/healthy-lifestyle.jpg)
 
 While health and education may not directly influence the physical mechanisms of climate change, they can contribute to building resilience, promoting sustainable practices, and fostering informed decision-making.
 

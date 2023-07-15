@@ -2,7 +2,7 @@
 title: Green and Cool Roofs
 ---
 
-![Cover Image](img/green-roofing.png)
+![Cover Image](../static/img/green-roofing.png)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

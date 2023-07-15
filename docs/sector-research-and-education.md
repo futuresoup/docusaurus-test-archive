@@ -7,7 +7,7 @@ icon: fontawesome/solid/user-graduate
 
 ## Sector Overview
 
-![](/img/education.jpg)
+![](/../static/img/education.jpg)
 
 By combining research and education, society can benefit from a solid scientific foundation, informed decision-making, and empowered individuals who actively contribute to climate change mitigation, adaptation, and sustainability efforts.
 

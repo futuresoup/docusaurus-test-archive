@@ -1,7 +1,7 @@
 ---
 title: Regenerative Annual Cropping
 ---
-![Regenerative agriculture enhances ecosystem function, maximizing water absorption, photosynthesis, and carbon sequestration.](/img/regenerative-annual-cropping.jpg)
+![Regenerative agriculture enhances ecosystem function, maximizing water absorption, photosynthesis, and carbon sequestration.](/../static/img/regenerative-annual-cropping.jpg)
 
 *Benefits of Regeneration ([Means&Matters ](https://meansandmatters.bankofthewest.com/article/financial-perspectives/industries/how-regenerative-agriculture-tackles-climate-change-from-the-ground-up/))*
 
@@ -31,7 +31,7 @@ Organizations that have been at the forefront of developing Regenerative Annual 
 !!! Info "Case Study - [Aigen](https://aigen.io)"    
     [Aigen](https://aigen.io) creates autonomous agricultural robots to reduce pesticide use through tasks such as weeding. They are solar powered, and do not rely on fossil fuels like other farm equipment. ([CNBC article](https://www.cnbc.com/2023/06/30/ex-tesla-engineer-builds-aigen-robots-to-get-weeds-without-pesticides.html) to learn more)
 
-![Aigen robot](/img/aigen-robotics.png "Aigen robot")
+![Aigen robot](/../static/img/aigen-robotics.png "Aigen robot")
 
 ## Lessons Learned
 

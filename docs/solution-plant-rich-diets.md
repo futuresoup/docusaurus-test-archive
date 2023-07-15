@@ -1,7 +1,7 @@
 ---
 title: Plant-Rich Diets
 ---
-![](/img/plant-rich-diets.png)
+![](/../static/img/plant-rich-diets.png)
 
 *Plant-Rich Diets ([ESRAG](https://esragdev.com/project/plant-rich-diets/))*
 

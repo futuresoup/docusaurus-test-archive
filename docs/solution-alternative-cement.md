@@ -6,7 +6,7 @@ authors:
     avatar: example.com
 ---
 
-![Cement Factory](img/cement-factory.jpg)
+![Cement Factory](../static/img/cement-factory.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

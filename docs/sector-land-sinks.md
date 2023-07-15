@@ -13,7 +13,7 @@ icon: material/grass
 
 </div>
 
-![](/img/land-sinks.jpg)
+![](/../static/img/land-sinks.jpg)
 
 Land sinks are a type of carbon sequestration that refers to the capture and storage of carbon dioxide in the soil. 
 

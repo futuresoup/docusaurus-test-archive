@@ -2,7 +2,7 @@
 title: Carpooling
 ---
 
-![Cover Image](img/carpooling.png)
+![Cover Image](../static/img/carpooling.png)
 
 !!! info "[Help us](../../contribute) track this Solution"
 

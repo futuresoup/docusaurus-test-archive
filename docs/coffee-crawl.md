@@ -19,7 +19,7 @@ description: It's as simple and fun as it sounds. We drink coffee and roam the n
 
 **You must register in order to be invited to the Slack group with overflow instructions.**
 
-![Coffee photo from Bellingham crawl](/img/belligham-climate-tech-coffee-crawl.jpg)
+![Coffee photo from Bellingham crawl](/../static/img/belligham-climate-tech-coffee-crawl.jpg)
 _Photo from the recent crawl in Bellingham, WA_
 
 ## What is this?

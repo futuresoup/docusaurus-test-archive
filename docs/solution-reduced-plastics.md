@@ -1,7 +1,7 @@
 ---
 title: Reduced Plastics
 ---
-![Ways to reduce plastic waste such as bringing your own reusable shopping bags](/img/reduced-plastics.webp)
+![Ways to reduce plastic waste such as bringing your own reusable shopping bags](/../static/img/reduced-plastics.webp)
 
 *Simple Ways to Reduce Plastic Waste ([Treehugger](https://www.treehugger.com/easy-ways-reduce-your-plastic-waste-today-4858814))*
 

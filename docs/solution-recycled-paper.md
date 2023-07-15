@@ -1,7 +1,7 @@
 ---
 title: Recycled Paper
 ---
-![](/img/recycled-paper.jpg)
+![](/../static/img/recycled-paper.jpg)
 
 *Recycled Paper ([How to Start An LLC](https://howtostartanllc.com/business-ideas/paper-recycling))*
 

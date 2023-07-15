@@ -1,7 +1,7 @@
 ---
 title: Recycling
 ---
-![](/img/recycling.png)
+![](/../static/img/recycling.png)
 
 *Classified recycling ([Heritage](https://www.heritage-enviro.com/news/general-recycling-the-basics/))*
 

@@ -1,7 +1,7 @@
 ---
 title: Recycled Metals
 ---
-![](/img/recycled-metals.jpg)
+![](/../static/img/recycled-metals.jpg)
 
 *Recycled Metals ([Zore's Recycling](https://www.zoresrecycling.com/blog/3-categories-of-metal-that-can-be-recycled/))*
 

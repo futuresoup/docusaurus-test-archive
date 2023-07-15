@@ -2,7 +2,7 @@
 title: Abandoned Farmland Restoration
 ---
 
-![Abandoned farm](img/abandoned-farm.jpg)
+![Abandoned farm](../static/img/abandoned-farm.jpg)
 
 ## Progress Made
 

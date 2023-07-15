@@ -2,7 +2,7 @@
 title: Improved Cattle Feed
 ---
 
-![Cover Image](img/improved-cattle-feed.png)
+![Cover Image](../static/img/improved-cattle-feed.png)
 
 _Frank Mitloehner, UC Davis professor and air quality specialist, is researching feed alternatives, such as seaweed, that reduce methane from cow burps._ ([UC Davis](https://www.ucdavis.edu/food/news/making-cattle-more-sustainable))
 

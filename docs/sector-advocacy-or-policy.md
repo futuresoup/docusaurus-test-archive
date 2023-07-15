@@ -7,7 +7,7 @@ icon: fontawesome/solid/hand
 
 ## Sector Overview
 
-![](/img/advocacy-and-policy.jpg)
+![](/../static/img/advocacy-and-policy.jpg)
 
 Advocacy acts as a catalyst for change, mobilizing individuals, communities, and decision-makers to take meaningful action against climate change. It empowers people to have a voice in shaping policies, promotes sustainable practices, and holds stakeholders accountable for climate-related actions.
 

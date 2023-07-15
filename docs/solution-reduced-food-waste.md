@@ -1,7 +1,7 @@
 ---
 title: Reduced Food Waste
 ---
-![](/img/reduced-food-waste.png)
+![](/../static/img/reduced-food-waste.png)
 
 *Reducing Food Waste ([BooneHealth](https://boone.health/2022/10/19/reducing-food-waste/))*
 

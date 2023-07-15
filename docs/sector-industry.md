@@ -13,7 +13,7 @@ icon: material/factory
 
 </div>
 
-![](/img/industry.jpg)
+![](/../static/img/industry.jpg)
 
 The industry sector can contribute to low-carbon innovation, by developing and manufacturing technologies necessary for the energy transition, such as batteries, wind turbines, and solar panels.
 

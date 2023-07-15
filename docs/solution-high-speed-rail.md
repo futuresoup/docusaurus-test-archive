@@ -2,7 +2,7 @@
 title: High-Speed Rail
 ---
 
-![Cover Image](img/high-speed-rail.jpg)
+![Cover Image](../static/img/high-speed-rail.jpg)
 
 _Image from the California High-Speed Rail Authority_
 

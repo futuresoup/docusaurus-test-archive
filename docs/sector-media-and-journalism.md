@@ -13,7 +13,7 @@ icon: fontawesome/solid/pencil
 
 </div>
 
-![](/img/journalism.jpg)
+![](/../static/img/journalism.jpg)
 
 The influence of media and journalism can drive systemic change, mobilize public support, and hold those in power accountable for their actions or inactions related to climate change.
 

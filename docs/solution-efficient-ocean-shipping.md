@@ -2,7 +2,7 @@
 title: Efficient Ocean Shipping
 ---
 
-![Cover Image](img/efficient-ocean-shipping.png)
+![Cover Image](../static/img/efficient-ocean-shipping.png)
 _Image Credit: [Marine Insight](https://www.marineinsight.com/maritime-law/energy-efficiency-design-index/)_
 
 !!! info "[Help us](../../contribute) track this Solution"

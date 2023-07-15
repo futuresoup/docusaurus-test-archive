@@ -1,7 +1,7 @@
 ---
 title: Tree Plantations (on Degraded Land)
 ---
-![](/img/tree-plantations-on-degraded-land-.jpg)
+![](/../static/img/tree-plantations-on-degraded-land-.jpg)
 
 *Benefits of tree-based restoration ([Nature](https://www.nature.org/content/dam/tnc/nature/en/documents/Business_of_Planting_Trees_Report.pdf))*
 

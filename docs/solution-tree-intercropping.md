@@ -1,7 +1,7 @@
 ---
 title: Tree Intercropping
 ---
-![Wheat-Pea intercropping increased water use efficiency ](/img/tree-intercropping.jpg)
+![Wheat-Pea intercropping increased water use efficiency ](/../static/img/tree-intercropping.jpg)
 
 *Intercropping Systems of Wheat ([MDPI Open Access Journals](https://www.mdpi.com/2073-4395/11/2/283))*
 

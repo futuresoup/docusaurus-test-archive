@@ -2,7 +2,7 @@
 title: Conservation Agriculture
 ---
 
-![Cover Image](img/conservation-agriculture.jpg)
+![Cover Image](../static/img/conservation-agriculture.jpg)
 
 _Examples of Conservation Agriculture include: no tillage, crop residue retention as mulch, and crop rotations. Work with your local [Conservation District](https://www.nacdnet.org/) for assistance._
 

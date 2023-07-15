@@ -1,7 +1,7 @@
 ---
 title: Micro Wind Turbines
 ---
-![Four micro-wind turbines on the roof of Hoff Hall](/img/micro-wind-turbines.jpg)
+![Four micro-wind turbines on the roof of Hoff Hall](/../static/img/micro-wind-turbines.jpg)
 
 *Micro-wind turbines on the roof ([Castleton University](https://www.castleton.edu/news-media/article/castleton-is-first-to-add-micro-wind-turbine-technology/))*
 

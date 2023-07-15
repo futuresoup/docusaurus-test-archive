@@ -2,7 +2,7 @@
 title: Building Automation Systems
 ---
 
-![Cover Image](img/building-automation.png)
+![Cover Image](../static/img/building-automation.png)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

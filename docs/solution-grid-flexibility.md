@@ -2,7 +2,7 @@
 title: Grid Flexibility
 ---
 
-![Cover Image](img/grid-flexibility.jpg)
+![Cover Image](../static/img/grid-flexibility.jpg)
 _Image from the [Alliance for an Energy Efficient Economy](https://aeee.in/why-indian-grid-operators-need-to-acknowledge-demand-flexibility-for-optimal-grid-operation/) in India_
 
 !!! info "[Help us](../../contribute) track this Solution"

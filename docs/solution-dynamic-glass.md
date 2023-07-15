@@ -2,7 +2,7 @@
 title: Dynamic Glass
 ---
 
-![Cover Image](img/dynamic-glass.jpg)
+![Cover Image](../static/img/dynamic-glass.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

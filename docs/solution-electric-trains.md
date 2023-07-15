@@ -2,7 +2,7 @@
 title: Electric Trains
 ---
 
-![Cover Image](img/electric-train.jpg)
+![Cover Image](../static/img/electric-train.jpg)
 
 _Siemens battery-electric train ([Green Car Reports](https://www.greencarreports.com/news/1127629_battery-powered-electric-trains-will-soon-bring-cleaner-air-especially-in-europe))_
 

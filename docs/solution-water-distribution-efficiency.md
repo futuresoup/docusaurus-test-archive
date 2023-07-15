@@ -1,7 +1,7 @@
 ---
 title: Water Distribution Efficiency
 ---
-![The smart park irrigation system calculates the amount of water each area needs depending on the state of the soil, weather forecast, and irrigation calendar.](/img/water-distribution-efficiency.webp)
+![The smart park irrigation system calculates the amount of water each area needs depending on the state of the soil, weather forecast, and irrigation calendar.](/../static/img/water-distribution-efficiency.webp)
 
 *Smart City Water Management ([SOFTEQ](https://www.softeq.com/blog/smart-water-management-using-iot-real-world-examples))*
 

@@ -2,7 +2,7 @@
 title: Improved Manure Management
 ---
 
-![Cover Image](img/manure-management.jpg)
+![Cover Image](../static/img/manure-management.jpg)
 
 _Learn about manure management from the [University of Minnesota Extension](https://extension.umn.edu/livestock-operations/manure-management)_
 

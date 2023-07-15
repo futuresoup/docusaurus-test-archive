@@ -1,7 +1,7 @@
 ---
 title: Recycled Plastics
 ---
-![The process of plastic recycling: collection, sorting, baling, shredding and cleaning, melting and extrusion, pelletizing.](/img/recycled-plastics.png)
+![The process of plastic recycling: collection, sorting, baling, shredding and cleaning, melting and extrusion, pelletizing.](/../static/img/recycled-plastics.png)
 
 *Plastic Recycling Process ([Suez](https://www.suez.co.uk/en-gb/our-offering/communities-and-individuals/education-tools-and-resources/what-happens-to-waste/recycling/plastic))*
 

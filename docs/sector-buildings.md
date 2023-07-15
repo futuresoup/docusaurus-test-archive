@@ -13,7 +13,7 @@ icon: fontawesome/solid/city
 
 </div>
 
-![](/img/buildings.jpg)
+![](/../static/img/buildings.jpg)
 
 Buildings account for nearly 40% of global energy consumption and around one-third of global greenhouse gas emissions, mainly due to the use of fossil fuels for heating, cooling, and electricity. This high level of energy consumption and related emissions makes the building sector a key area for climate change mitigation efforts.
 

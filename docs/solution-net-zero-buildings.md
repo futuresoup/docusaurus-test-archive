@@ -2,7 +2,7 @@
 title: Net Zero Buildings
 ---
 
-![Cover Image](img/net-zero-buildings.jpg)
+![Cover Image](../static/img/net-zero-buildings.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

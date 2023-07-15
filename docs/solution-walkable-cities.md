@@ -1,7 +1,7 @@
 ---
 title: Walkable Cities
 ---
-![](/img/walkable-cities.webp)
+![](/../static/img/walkable-cities.webp)
 
 *15 minutes of walkable city ([Yes Magazine](https://www.yesmagazine.org/economy/2021/05/05/15-minute-city-walk))*
 

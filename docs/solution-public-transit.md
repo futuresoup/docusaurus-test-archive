@@ -1,7 +1,7 @@
 ---
 title: Public Transit
 ---
-![](/img/public-transit.webp)
+![](/../static/img/public-transit.webp)
 
 *Public Transit ([Calmatters](https://calmatters.org/commentary/2022/07/restoring-a-sense-of-safety-could-boost-public-transit-ridership/))*
 

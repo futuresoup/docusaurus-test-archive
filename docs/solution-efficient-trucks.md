@@ -2,7 +2,7 @@
 title: Efficient Trucks
 ---
 
-![Cover Image](img/fuel-efficient-trucks.jpg)
+![Cover Image](../static/img/fuel-efficient-trucks.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

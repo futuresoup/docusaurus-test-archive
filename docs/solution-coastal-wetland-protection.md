@@ -2,7 +2,7 @@
 title: Coastal Wetland Protection
 ---
 
-![Cover Image](img/living-shorelines.png)
+![Cover Image](../static/img/living-shorelines.png)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

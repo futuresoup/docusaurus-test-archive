@@ -2,7 +2,7 @@
 title: Building Retrofitting
 ---
 
-![Cover Image](img/building-retrofitting.jpg)
+![Cover Image](../static/img/building-retrofitting.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

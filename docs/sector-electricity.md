@@ -11,7 +11,7 @@ icon: material/lightning-bolt
 
 </div>
 
-![](/img/electricity.png)
+![](/../static/img/electricity.png)
 
 Electricity, once a significant greenhouse gas contributor, is now crucial to climate change solutions, as renewable sources replace carbon-intensive energy, driving sustainable economic transformations and emission reductions.
 

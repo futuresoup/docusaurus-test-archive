@@ -2,7 +2,7 @@
 title: High-Efficiency Heat Pumps
 ---
 
-![Cover Image](img/high-efficiency-heat-pumps.png)
+![Cover Image](../static/img/high-efficiency-heat-pumps.png)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

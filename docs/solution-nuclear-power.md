@@ -1,7 +1,7 @@
 ---
 title: Nuclear Power
 ---
-![ A nuclear power plant is similar to a large coal-fired power plant, with pumps, valves, steam generators, turbines, electric generators, condensers, and associated equipment.](/img/nuclear-power.webp)
+![ A nuclear power plant is similar to a large coal-fired power plant, with pumps, valves, steam generators, turbines, electric generators, condensers, and associated equipment.](/../static/img/nuclear-power.webp)
 
 *Nuclear power plant diagram ([Britannica](https://www.britannica.com/technology/nuclear-power))*
 

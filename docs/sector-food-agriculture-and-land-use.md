@@ -13,7 +13,7 @@ icon: material/food-apple
 
 </div>
 
-![](/img/food-agriculture-and-land-use.jpg)
+![](/../static/img/food-agriculture-and-land-use.jpg)
 
 The Food, Agriculture, and Land Use sector is essential in the worldwide effort to combat climate change. Beyond decreasing its emissions, it also presents opportunities for carbon capture and enhancing resilience to climate-related impacts.
 

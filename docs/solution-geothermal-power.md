@@ -2,7 +2,7 @@
 title: Geothermal Power
 ---
 
-![Cover Image](img/geothermal-power.jpg)
+![Cover Image](../static/img/geothermal-power.jpg)
 
 _Krafla, a geothermal power station in Iceland_
 

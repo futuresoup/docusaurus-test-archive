@@ -13,7 +13,7 @@ Tags:
 
 </div>
 
-![](/img/transportation.jpeg)
+![](/../static/img/transportation.jpeg)
 
 Transportation emits CO2 from fossil fuels in vehicles. Infrastructure like roads and airports adds to land-use change and habitat loss, worsening environmental challenges.
 

@@ -1,7 +1,7 @@
 ---
 title: Methane Digesters
 ---
-![Manure is heated in tanks, collecting gas and extracting liquid fertilizer. The remaining solids become odorless, bacteria-free compost and cow bedding.](/img/methane-digesters.jpg)
+![Manure is heated in tanks, collecting gas and extracting liquid fertilizer. The remaining solids become odorless, bacteria-free compost and cow bedding.](/../static/img/methane-digesters.jpg)
 
 *Methane digester working process ([Farm Credit](https://www.findfarmcredit.com/landscapes-articles/methane-digesters-101))*
 

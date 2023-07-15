@@ -1,7 +1,7 @@
 ---
 title: Seaweed Farming
 ---
-![](/img/seaweed-farming.jpg)
+![](/../static/img/seaweed-farming.jpg)
 
 *Seaweed farm near Kia Village ([Khaled bin Sultan Living Oceans Foundation](https://www.livingoceansfoundation.org/sustainable-seaweed-farming-part-1/))*
 

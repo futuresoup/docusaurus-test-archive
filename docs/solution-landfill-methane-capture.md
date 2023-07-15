@@ -2,7 +2,7 @@
 title: Landfill Methane Capture
 ---
 
-![Cover Image](/img/landfill-methane-capture.gif)
+![Cover Image](/../static/img/landfill-methane-capture.gif)
 
 _Methane capture process ([EPA](https://archive.epa.gov/climatechange/kids/solutions/technologies/methane.html))_
 

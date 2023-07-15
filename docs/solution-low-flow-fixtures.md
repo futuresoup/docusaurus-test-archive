@@ -1,7 +1,7 @@
 ---
 title: Low-Flow Fixtures
 ---
-![](/img/low-flow-fixtures.png)
+![](/../static/img/low-flow-fixtures.png)
 
 *Save water with low-flow fixtures ([Firewood for Life](https://www.firewood-for-life.com/low-flow-fixtures.html))*
 

@@ -2,7 +2,7 @@
 title: Bioplastics
 ---
 
-![Packaging peanuts made from bioplastics (thermoplastic starch) ](img/bioplastic-packing-peanuts.jpg)
+![Packaging peanuts made from bioplastics (thermoplastic starch) ](../static/img/bioplastic-packing-peanuts.jpg)
 
 _Packing peanuts made from bioplastics (thermoplastic starch) ([Wikipedia](https://commons.wikimedia.org/wiki/File:St%C3%A4rke-Packstoff_P%C3%B6mpel_CG.jpg))_
 

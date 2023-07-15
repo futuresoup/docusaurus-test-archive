@@ -1,7 +1,7 @@
 ---
 title: Offshore Wind Turbines
 ---
-![Cover Image](/img/offshore-wind-turbines.jpg)
+![Cover Image](/../static/img/offshore-wind-turbines.jpg)
 
 *Offshore Wind Turbines ([Environment America](https://environmentamerica.org/center/resources/offshore-wind-for-america-3/))*
 

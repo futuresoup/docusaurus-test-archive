@@ -1,7 +1,7 @@
 ---
 title: Methane Leak Management
 ---
-![The "Open Path" sensors on drones use a single wavelength laser light, detecting reflections off the ground or objects.](/img/methane-leak-management.jpg)
+![The "Open Path" sensors on drones use a single wavelength laser light, detecting reflections off the ground or objects.](/../static/img/methane-leak-management.jpg)
 
 *Drone methane detection over a landfill ([Pergam Suisse AG](https://pergam-suisse.ch/tpost/t53ju5ami0-uav-methane-detection-latest-advances-an))*
 
