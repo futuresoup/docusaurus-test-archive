@@ -5,8 +5,11 @@ title: Sustainable Intensification for Smallholders
 
 *Schematic diagram of a smallholder farming system ([British Ecological Society](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10295))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

@@ -3,16 +3,17 @@ title: Career Guide
 ---
 # Career Guide
 
-!!! Question "How do I get a job without experience?"
+:::tip How do I get a job without experience?
 
-    Tech pays well, but requires hard skills and experience to get noticed.
- 
-    This is challenging if you're young, or in the middle of a career change.
-    
-    **We can help!**
+Tech pays well, but requires hard skills and experience to get noticed.
 
-    [:material-star: Join our free mentorship program :material-star:](https://www.democracylab.org/projects/1232){ .md-button .md-button--primary }
+This is challenging if you're young, or in the middle of a career change.
+:::
 
+:::info We can help!
+
+**[👉 Join our free mentorship program 👈](https://www.democracylab.org/projects/1232)**
+:::
 
 ## Start here:
 

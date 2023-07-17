@@ -8,6 +8,3 @@ Other refers to a wide variety of climate tech solutions that don't fall neatly 
 
 ---
 
-!!! info "[Help us](../../contribute) track this Sector"
-
-Thousands of organizations working in this sector are listed on [Climatebase](https://climatebase.org/organizations)

@@ -2,7 +2,9 @@
 title: Nature Based Solutions
 ---
 
-!!! info "[Help us](../../contribute) track this Solution"
+:::info [Help us track this Solution](contribute)
+[Click here to contribute content and feedback](contribute)
+:::
 
 **The Big Question:**
 

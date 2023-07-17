@@ -16,11 +16,6 @@ Climate adaptation is the process of adjusting and responding to the impacts of 
 * Water management
 * Ecosystem restoration
 
-!!! tip "Featured Example"
-    See the [progress made and lessons learned from New York City's effort](../climate-adaptation-new-york-city) toward climate adaptation.
-
-- - -
-
-!!! info "[Help us](../../contribute) track this Sector"
-
-Thousands of organizations working in this sector are listed on [Climatebase](https://climatebase.org/organizations)
+:::tip Featured Example - New York City
+See the [progress made and lessons learned from New York City's effort](../climate-adaptation-new-york-city) toward climate adaptation.
+:::

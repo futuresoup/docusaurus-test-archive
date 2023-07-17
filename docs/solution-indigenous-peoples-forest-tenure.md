@@ -5,8 +5,11 @@ title: Indigenous Peoples’ Forest Tenure
 
 *Benefits of securing land tenure for indigenous people* **([Rights and Resouces](https://rightsandresources.org/learnmore/))**
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

@@ -6,8 +6,11 @@ title: Electric Trains
 
 _Siemens battery-electric train ([Green Car Reports](https://www.greencarreports.com/news/1127629_battery-powered-electric-trains-will-soon-bring-cleaner-air-especially-in-europe))_
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

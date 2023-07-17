@@ -5,8 +5,11 @@ title: Methane Digesters
 
 *Methane digester working process ([Farm Credit](https://www.findfarmcredit.com/landscapes-articles/methane-digesters-101))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

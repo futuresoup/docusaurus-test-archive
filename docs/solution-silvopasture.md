@@ -5,8 +5,11 @@ title: Silvopasture
 
 *An example layout of a silvopasture system ([Silvopasture Systems](https://woodlandstewards.osu.edu/sites/woodlands/files/imce/Silvopasture%20-%20Roger%20Williams.pdf))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

@@ -5,8 +5,11 @@ title: Small Hydropower
 
 *Scheme of a typical Micro-Hydro Power Plants ([MDPI Open Access Journals](https://www.mdpi.com/1996-1073/12/5/878))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

@@ -5,8 +5,11 @@ title: Smart Thermostats
 
 *Smart Thermostat Control Design w/ Rapid IoT vs Traditional AC system Control Design ([NXP](https://www.nxp.com/company/blog/build-a-smart-thermostat-control-unit-in-minutes:BL-BUILD-SMART-THERMOSTAT-CONTROL-UNIT))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

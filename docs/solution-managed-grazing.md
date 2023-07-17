@@ -5,8 +5,11 @@ title: Managed Grazing
 
 *Benefits of management rotational grazing ([Environmental and Energy Study Institute](https://www.eesi.org/articles/view/the-climate-and-economic-benefits-of-rotational-livestock-grazing))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

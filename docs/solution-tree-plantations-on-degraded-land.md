@@ -5,8 +5,11 @@ title: Tree Plantations (on Degraded Land)
 
 *Benefits of tree-based restoration ([Nature](https://www.nature.org/content/dam/tnc/nature/en/documents/Business_of_Planting_Trees_Report.pdf))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

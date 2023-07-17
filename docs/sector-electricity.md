@@ -58,6 +58,7 @@ The last two examples are included in what is often referred to as the "electrif
 
 - - -
 
-!!! info "[Help us](../../contribute) track this Sector"
+:::info [Help us track this Sector](contribute)
 
-Thousands of organizations working in this sector are listed on [Climatebase](https://climatebase.org/organizations)
+[Click here to contribute content and feedback](contribute)
+:::

@@ -5,8 +5,11 @@ title: Nutrient Management
 
 *Soil nutrient management ([Earth Smart Solutions](https://www.earth-smart-solutions.com/blogs/blog/soil-nutrient-management-tips))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

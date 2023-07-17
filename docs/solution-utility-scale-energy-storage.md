@@ -5,8 +5,10 @@ title: Utility-Scale Energy Storage
 
 *Solar PV and Wind energy Storage ([NREL](https://www.nrel.gov/news/program/2021/grid-scale-storage-us-storage-capacity-could-grow-five-fold-by-2050.html))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](../../contribute)
+This a sample ChatGPT page to get the ball rolling.
+[Contribute content and feedback](contribute)
+:::
 
 ## Overview
 

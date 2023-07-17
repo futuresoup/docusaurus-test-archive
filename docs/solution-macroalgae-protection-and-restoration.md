@@ -5,8 +5,11 @@ title: Macroalgae Protection and Restoration
 
 *Expanding macroalgae to respond to climate change ([The Proceedings of the National Academy of Sciences ](https://www.pnas.org/doi/10.1073/pnas.2121705119))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

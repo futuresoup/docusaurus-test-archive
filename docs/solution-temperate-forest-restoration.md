@@ -5,8 +5,11 @@ title: Temperate Forest Restoration
 
 *Assisted migration of Abies religiosa 275 m upwards in altitude to mitigate changes in climate ([Springer](https://link.springer.com/article/10.1007/s11056-015-9504-6))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 
