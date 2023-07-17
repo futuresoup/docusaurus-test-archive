@@ -22,7 +22,7 @@ export default function HomepageHeader() {
           )}
           to="/intro"
         >
-          Find out
+          Show me
         </Link>
         <div className={styles.overlay}></div>
         {/* <ClimateClock /> */}

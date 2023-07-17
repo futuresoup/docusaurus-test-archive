@@ -8,18 +8,16 @@ interface CardProps {
   description: string;
   imageUrl: string;
   linkUrl: string;
-  customStyles?: CSSProperties;
 }
 
 const HomeCard: React.FC<CardProps> = ({
   title,
   description,
   imageUrl,
-  customStyles,
   linkUrl,
 }) => {
   return (
-    <div className={clsx("container", styles.cardContainer)} style={customStyles}>
+    <div className={clsx("container", styles.cardContainer)}>
       <img className={clsx(styles.cardImg)} src={imageUrl} alt={title} />
       <div className={clsx(styles.cardText)}>
         <h2>{title}</h2>
@@ -27,10 +25,10 @@ const HomeCard: React.FC<CardProps> = ({
         <Link
           to={linkUrl}
           className={clsx(
-            "button button--secondary button--lg cthLink_src-components-HomepageHeader-HomePage-module"
+            styles.buttonMain, "button button--secondary button--lg cthLink_src-components-HomepageHeader-HomePage-module"
           )}
         >
-          Learn More
+          Show me
         </Link>
       </div>
     </div>

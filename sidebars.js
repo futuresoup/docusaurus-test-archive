@@ -12,23 +12,33 @@
 module.exports = {
   docSidebar: [
     {
-      type: "category",
-      label: "Handbook",
-      items: ["intro", "about", "contribute"],
+      type: 'category',
+      label: '🏁 Quick Start',
+      items: ['intro', 'about', { type: 'link', label: 'Climate Solutions', href: '/solutions' }, 'contribute'],
     },
     {
-      type: "category",
-      label: "Job Seekers",
-      items: ["resources", "career-guide", "technologies", "glossary"],
+      type: "doc",
+      label: "👩🏽‍🚀 Job Seekers",
+      id: 'jobseeker',
     },
     {
-      type: "category",
-      label: "Startups",
-      items: ["sectors"],
+      type: "doc",
+      label: "⚡️ Startups",
+      id:'about',
+    },
+    {
+      type: 'doc',
+      label: '💰 Investors',
+      id: 'about',
+    },
+    {
+      type: 'doc',
+      label: '🌍 Resources',
+      id: 'about',
     },
     {
       type: "link",
-      label: "Blog",
+      label: "🗞️ News",
       href: "/blog",
     },
   ],

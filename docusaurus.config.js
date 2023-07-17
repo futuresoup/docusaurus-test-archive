@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 (
   module.exports = {
     title: "Climate Tech Handbook",
-    tagline: "How am I going to make a difference?",
+    tagline: "Get paid to save planet earth",
     url: "https://www.climatetechhandbook.com",
     baseUrl: "/",
     onBrokenLinks: "ignore",
@@ -14,6 +14,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
     favicon: "img/main/favicon.ico",
     organizationName: "The Climate Tech Handbook", // Usually your GitHub org/user name.
     projectName: "The Climate Tech Handbook", // Usually your repo name.
+    plugins: [require.resolve('docusaurus-lunr-search')],
 
     presets: [
       [
@@ -45,7 +46,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
     customFields: {
       statement:
-        "We are here to help you answer the most important question in the world:",
+        "We are here to help you",
     },
 
     themeConfig:
@@ -68,19 +69,14 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               type: "doc",
               docId: "sectors",
               position: "right",
-              label: "Startups",
+              label: "Founders",
             },
             {
               type: "doc",
               docId: "about",
               position: "right",
-              label: "About Us",
+              label: "Investors",
             },
-            // {
-            //   to: "solutions",
-            //   label: "Solutions",
-            //   position: "right",
-            // },
             { to: "/blog", label: "News", position: "right" },
             {
               to: "/contribute",
@@ -99,16 +95,41 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               items: [
                 {
                   html: `
+                    <a href="https://www.linkedin.com/company/climate-tech-handbook/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
+                      <img src="img/design/icons/linkedin_icon.svg" alt="LinkedIn Icon"/>
+                    </a>
                     <a href="https://www.facebook.com" target="_blank" rel="noreferrer noopener" aria-label="Facebook">
-                      <img src="img/design/icons/fbook_icon.svg" alt="Facebook Icon" style="margin-right: 8px;"/>
+                      <img src="img/design/icons/github-mark-white.svg" alt="Facebook Icon" style="margin-right: 8px;"/>
+                    </a>
+                    <a href="https://climatetechh.substack.com/" target="_blank" rel="noreferrer noopener" aria-label="Substack">
+                      <img src="img/design/icons/substack-icon.svg" alt="Substack Icon" style="margin-right: 8px;"/>
                     </a>
                     <a href="https://www.instagram.com" target="_blank" rel="noreferrer noopener" aria-label="Instagram">
                       <img src="img/design/icons/insta_icon.svg" alt="Instagram Icon" style="margin-right: 8px;"/>
                     </a>
-                    <a href="https://www.linkedin.com/company/climate-tech-handbook/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
-                      <img src="img/design/icons/linkedin_icon.svg" alt="LinkedIn Icon"/>
-                    </a>
                   `,
+                },
+              ],
+            },
+            {
+              title: "About Us",
+              items: [
+                {
+                  label: "About The Handbook",
+                  to: "/about",
+                },
+                {
+                  label: "Contribute",
+                  to: "/contribute",
+                },
+              ],
+            },
+            {
+              title: "News",
+              items: [
+                {
+                  label: "Blog",
+                  href: "/blog",
                 },
               ],
             },
@@ -137,30 +158,24 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               title: "Climate Solutions",
               items: [
                 {
+                  label: "Sector A",
+                  to: "/solutions",
+                },
+                {
                   label: "Choose a Sector",
                   to: "/solutions",
                 },
-              ],
-            },
-            {
-              title: "About Us",
-              items: [
                 {
-                  label: "About The Handbook",
-                  to: "/about",
+                  label: "Choose a Sector",
+                  to: "/solutions",
                 },
                 {
-                  label: "Contribute",
-                  to: "/contribute",
+                  label: "Choose a Sector",
+                  to: "/solutions",
                 },
-              ],
-            },
-            {
-              title: "News",
-              items: [
                 {
-                  label: "Blog",
-                  href: "/blog",
+                  label: "Additional Sectors",
+                  to: "/solutions",
                 },
               ],
             },
