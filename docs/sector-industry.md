@@ -3,13 +3,17 @@ title: Industry
 Description: null
 icon: material/factory
 ---
+# :material-factory: Industry
 
 ## Sector Overview
 
-:::tip 143.4–166 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
-:::
+<div class="grid cards" markdown>
 
-![](/../static/img/industry.jpg)
+* :material-check-bold:{ .lg .middle } 143.4–166 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+
+</div>
+
+![](/img/industry.jpg)
 
 The industry sector can contribute to low-carbon innovation, by developing and manufacturing technologies necessary for the energy transition, such as batteries, wind turbines, and solar panels.
 
@@ -34,6 +38,12 @@ Examples:
 * [Recycling](../solution-recycling)
 * [Alternative Refrigerants](../solution-alternative-refrigerants)
 * [Refrigerant Management](../solution-refrigerant-management)
+*
+*
+*
 
 - - -
 
+!!! info "[Help us](../../contribute) track this Sector"
+
+Thousands of organizations working in this sector are listed on [Climatebase](https://climatebase.org/organizations)

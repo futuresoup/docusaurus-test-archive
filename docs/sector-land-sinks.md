@@ -3,13 +3,22 @@ title: Land Sinks
 Description: null
 icon: material/grass
 ---
+# Land Sinks
+
+<div class="grid cards" markdown>
+
+
+</div>
+
+![](/img/land-sinks.jpg)
 
 ## Sector Overview
 
-:::tip 248.2–392.7 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
-:::
+:::tip Greenhouse Reduction
 
-![](/../static/img/land-sinks.jpg)
+248.2–392.7 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+
+:::
 
 Land sinks are a type of carbon sequestration that refers to the capture and storage of carbon dioxide in the soil. 
 
@@ -46,3 +55,8 @@ Examples:
 
 - - -
 
+:::info Help us track this Sector
+
+[Learn how to contribute to the Handbook](../../contribute)
+
+:::

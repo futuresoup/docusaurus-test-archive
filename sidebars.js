@@ -14,113 +14,35 @@ module.exports = {
     {
       type: 'category',
       label: '🏁 Quick Start',
-      items: ['intro', 'about', 'contribute'],
+      items: ['intro', 'about', { type: 'link', label: 'Climate Solutions', href: '/solutions' }, 'contribute'],
     },
     {
-      type: 'category',
-      label: '✅ Climate Solutions',
-      items: [
-        {
-          type: 'link',
-          label: 'Intro to the Solutions Framework',
-          href: '/solutions',
-        },
-        
-        {
-          type: 'doc',
-          label: 'Electricity',
-          id: 'sector-electricity',
-        },
-        {
-          type: 'doc',
-          label: 'Food, Agriculture, and Land Use',
-          id: 'sector-food-agriculture-and-land-use',
-        },
-        {
-          type: 'doc',
-          label: 'Industry',
-          id: 'sector-industry',
-        },
-        {
-          type: 'doc',
-          label: 'Transportation',
-          id: 'sector-transportation',
-        },
-        {
-          type: 'doc',
-          label: 'Buildings',
-          id: 'sector-buildings',
-        },
-        {
-          type: 'doc',
-          label: 'Land Sinks',
-          id: 'sector-land-sinks',
-        },
-        {
-          type: 'doc',
-          label: 'Coastal and Ocean Sinks',
-          id: 'sector-coastal-and-ocean-sinks',
-        },
-        {
-          type: 'doc',
-          label: 'Engineered Sinks',
-          id: 'sector-engineered-sinks',
-        },
-        {
-          type: 'doc',
-          label: 'Health and Education',
-          id: 'sector-health-and-education',
-        },
-        {
-          type: 'doc',
-          label: 'Climate Adaptation',
-          id: 'sector-climate-adaptation',
-        },
-        {
-          type: 'doc',
-          label: 'Research and Education',
-          id: 'sector-research-and-education',
-        },
-        {
-          type: 'doc',
-          label: 'Media and Journalism',
-          id: 'sector-media-and-journalism',
-        },
-        {
-          type: 'doc',
-          label: 'Advocacy or Policy',
-          id: 'sector-advocacy-or-policy',
-        },
-        {
-          type: 'doc',
-          label: 'Other',
-          id: 'sector-other',
-        },
-      ],
+      type: "doc",
+      label: "👩🏽‍🚀 Job Seekers",
+      id: 'jobseeker',
+    },
+    {
+      type: "doc",
+      label: "⚡️ Startups",
+      id:'about',
     },
     {
       type: 'doc',
-      label: '👩🏽‍🚀 Job seekers',
-      id: 'jobseekers',
-    },
-    {
-      type: 'doc',
-      label: '⚡️ Startups',
-      id: 'startups',
+      label: '💰 Investors',
+      id: 'about',
     },
     {
       type: 'doc',
       label: '🌍 Resources',
-      id: 'resources',
+      id: 'about',
     },
     {
-      type: 'link',
-      label: '🗞️ News',
-      href: '/blog',
+      type: "link",
+      label: "🗞️ News",
+      href: "/blog",
     },
   ],
 };
-
 
 // By default, Docusaurus generates a sidebar from the docs folder structure
 // docSidebar: [

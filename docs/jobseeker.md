@@ -17,6 +17,3 @@ We are tracking --hundreds/thousands of resources
 Having a tech salary is the american dream.
 
 There are companies out there making a difference that will pay you
-
-
---green skill gap report

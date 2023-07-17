@@ -1,15 +1,20 @@
+
 ---
 title: Buildings
 Description: null
 icon: fontawesome/solid/city
 ---
+# :fontawesome-solid-city: Buildings
 
 ## Sector Overview
 
-:::tip 72-144.3 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
-:::
+<div class="grid cards" markdown>
 
-![](/../static/img/buildings.jpg)
+* :material-check-bold:{ .lg .middle } 72–144.3 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+
+</div>
+
+![](/img/buildings.jpg)
 
 Buildings account for nearly 40% of global energy consumption and around one-third of global greenhouse gas emissions, mainly due to the use of fossil fuels for heating, cooling, and electricity. This high level of energy consumption and related emissions makes the building sector a key area for climate change mitigation efforts.
 
@@ -37,6 +42,12 @@ Examples:
 * [Clean Cooking](../solution-clean-cooking)
 * [Alternative Refrigerants](../solution-alternative-refrigerants)
 * [Refrigerant Management](../solution-refrigerant-management)
+*
+*
+*
 
 - - -
 
+!!! info "[Help us](../../contribute) track this Sector"
+
+Thousands of organizations working in this sector are listed on [Climatebase](https://climatebase.org/organizations)
