@@ -5,15 +5,13 @@ Tags:
   - Sector
   - Transportation
 ---
-# :material-plane-car: Transportation
 
-<div class="grid cards" markdown>
+## Sector Overview
 
-* :material-check-bold:{ .lg .middle } **61.7–88.4** Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::tip 61.7–88.4 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::
 
-</div>
-
-![](/img/transportation.jpeg)
+![](/../static/img/transportation.jpeg)
 
 Transportation emits CO2 from fossil fuels in vehicles. Infrastructure like roads and airports adds to land-use change and habitat loss, worsening environmental challenges.
 
@@ -41,6 +39,3 @@ Examples:
 
 - - -
 
-!!! info "[Help us](../../contribute) track this Sector"
-
-Thousands of organizations working in this sector are listed on [Climatebase](https://climatebase.org/organizations)

@@ -3,17 +3,13 @@ title: Food, Agriculture and Land Use
 Description: null
 icon: material/food-apple
 ---
-# :material-food-apple:  Food, Agriculture and Land Use
 
 ## Sector Overview
 
-<div class="grid cards" markdown>
+:::tip 226.5–312 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::
 
-* :material-check-bold:{ .lg .middle } 226.5–312 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
-
-</div>
-
-![](/img/food-agriculture-and-land-use.jpg)
+![](/../static/img/food-agriculture-and-land-use.jpg)
 
 The Food, Agriculture, and Land Use sector is essential in the worldwide effort to combat climate change. Beyond decreasing its emissions, it also presents opportunities for carbon capture and enhancing resilience to climate-related impacts.
 
@@ -44,12 +40,5 @@ Examples:
 * [Peatland Protection and Rewetting](../solution-peatland-protection-and-rewetting)
 * [Plant-Rich Diets](../solution-plant-rich-diets)
 * [Reduced Food Waste](../solution-reduced-food-waste)
-*
-*
-*
-
 - - -
 
-!!! info "[Help us](../../contribute) track this Sector"
-
-Thousands of organizations working in this sector are listed on [Climatebase](https://climatebase.org/organizations)
