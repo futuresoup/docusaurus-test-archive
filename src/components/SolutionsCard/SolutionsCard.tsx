@@ -1,8 +1,7 @@
 import React from 'react'
-import styles from "./ImageCard.module.css";
+import styles from "./SolutionsCard.module.css";
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
-import { AiOutlineArrowRight } from 'react-icons/ai';
 
     interface CardProps {
         title: string;
@@ -11,7 +10,7 @@ import { AiOutlineArrowRight } from 'react-icons/ai';
         linkUrl: string;
     }
 
-    const ImageCard: React.FC<CardProps> = ({
+    const SolutionsCard: React.FC<CardProps> = ({
         title,
         description,
         imageUrl,
@@ -28,7 +27,7 @@ import { AiOutlineArrowRight } from 'react-icons/ai';
                         className={clsx(
                             styles.cardButton,
                         )}
-                    ><AiOutlineArrowRight />
+                    > ➡
                     </Link>
                 </p>
                 
@@ -37,4 +36,4 @@ import { AiOutlineArrowRight } from 'react-icons/ai';
     )
 }
 
-export default ImageCard
+export default SolutionsCard
