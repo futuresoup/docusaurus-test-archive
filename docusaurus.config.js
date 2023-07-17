@@ -61,23 +61,22 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
           items: [
             {
               type: "doc",
-              docId: "resources",
+              docId: "jobseekers",
               position: "right",
               label: "Job Seekers",
             },
             {
               type: "doc",
-              docId: "sectors",
+              docId: "startups",
               position: "right",
-              label: "Founders",
+              label: "Startups",
             },
             {
               type: "doc",
-              docId: "about",
+              docId: "resources",
               position: "right",
-              label: "Investors",
+              label: "Resources",
             },
-            { to: "/blog", label: "News", position: "right" },
             {
               to: "/contribute",
               className: "contribute-button",

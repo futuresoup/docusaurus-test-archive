@@ -3,15 +3,13 @@ title: Electricity
 Description: null
 icon: material/lightning-bolt
 ---
-# :material-lightning-bolt:  Electricity
 
-<div class="grid cards" markdown>
+## Sector Overview
 
-* :material-check-bold:{ .lg .middle } 196.8–420.6 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::tip 196.8–420.6 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::
 
-</div>
-
-![](/img/electricity.png)
+![](/../static/img/electricity.png)
 
 Electricity, once a significant greenhouse gas contributor, is now crucial to climate change solutions, as renewable sources replace carbon-intensive energy, driving sustainable economic transformations and emission reductions.
 
@@ -20,6 +18,8 @@ Examples:
 * Renewable and zero-emission energy production
 * Electrification of industrial processes
 * Building electrification
+
+The last two examples are included in what is often referred to as the "electrify everything" movement.  The goal is to switch all domestic and industrial processes (cooktops, water heaters, furnaces, industrial heat, etc.) to use electricity, which subsequently allows major decarbonization efforts to be focused on electricty generation.
 
 ## Solutions in this Sector
 
@@ -55,12 +55,10 @@ Examples:
 * [Distributed Solar Photovoltaics](../solution-distributed-solar-photovoltaics)
 * [Utility-Scale Solar Photovoltaics](../solution-utility-scale-solar-photovoltaics)
 * [Onshore Wind Turbines](../solution-onshore-wind-turbines)
-*
-*
-*
 
 - - -
 
-!!! info "[Help us](../../contribute) track this Sector"
+:::info [Help us track this Sector](contribute)
 
-Thousands of organizations working in this sector are listed on [Climatebase](https://climatebase.org/organizations)
+[Click here to contribute content and feedback](contribute)
+:::
