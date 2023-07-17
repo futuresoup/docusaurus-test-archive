@@ -1,5 +1,4 @@
 import React from "react";
-import Link from "@docusaurus/Link";
 import clsx from "clsx";
 import styles from "./Solutions.module.css";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
