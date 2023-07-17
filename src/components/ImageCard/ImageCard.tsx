@@ -3,6 +3,7 @@ import styles from "./ImageCard.module.css";
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import { AiOutlineArrowRight } from 'react-icons/ai';
+import { AiIconName } from 'react-icons/ai';
 
     interface CardProps {
         title: string;
