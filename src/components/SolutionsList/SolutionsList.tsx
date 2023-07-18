@@ -21,7 +21,7 @@ const SolutionsList = () => {
         />
         <ImageCard 
             title="Industry"
-            description="The industry sector can contribute to low-carbon innovation"
+            description="The industry sector can contribute to low-carbon innovation."
             imageUrl={useBaseUrl("/img/industry.jpg")}
             linkUrl={useBaseUrl("sector-industry")}
         />
@@ -86,12 +86,13 @@ const SolutionsList = () => {
             imageUrl={useBaseUrl("/img/advocacy-and-policy.jpg")}
             linkUrl={useBaseUrl("sector-advocacy-or-policy")}
         />
-        <ImageCard 
+        {/* hidden for now */}
+        {/* <ImageCard 
             title="Other"
             description="Other refers to a wide variety of climate tech solutions that don't fall neatly into any one category."
             imageUrl={useBaseUrl("https://www.silverinstitute.org/wp-content/uploads/2017/05/silverinindustry.jpg")}
             linkUrl={useBaseUrl("sector-other")}
-        />
+        /> */}
     </div>
   )
 }

@@ -3,6 +3,7 @@ import styles from "./ImageCard.module.css";
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import { AiOutlineArrowRight } from 'react-icons/ai';
+import { useHistory } from 'react-router-dom';
 
     interface CardProps {
         title: string;
@@ -17,8 +18,15 @@ import { AiOutlineArrowRight } from 'react-icons/ai';
         imageUrl,
         linkUrl,
     }) => {
+
+    const history = useHistory();
+
+    const handleClick = () => {
+        history.push(linkUrl);
+      };
+
     return (
-        <div className={clsx("cardContainer", styles.cardContainer)}>
+        <div className={clsx("cardContainer", styles.cardContainer)} onClick={handleClick}>
             <img className={clsx("img", styles.cardImg)} src={imageUrl} alt={title} />
             <div className={clsx("content", styles.content)}>
                 <h2>{title}</h2>
