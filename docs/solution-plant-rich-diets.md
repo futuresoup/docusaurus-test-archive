@@ -1,19 +1,19 @@
 ---
-title: Plant-Rich Diets
+title: Plant-Rich Diets / Meat alternatives
 ---
 ![](/../static/img/plant-rich-diets.png)
 
 *Plant-Rich Diets ([ESRAG](https://esragdev.com/project/plant-rich-diets/))*
 
-!!! note "[Help us](../../contribute) track this Solution - [learn how to contribute](../contribute)"
+:::info success 🏅Ranked in the top 5 most effective climate solutions on the planet.
+ With the potential to reduce **78.33 Gigatons** from our 1050.91 Gigaton Drawdown Goal, supporting meat alternatives are the 2nd highest out of 93 total [Project Drawdown Solutions](../solutions-explorer).
+:::
 
-!!! success "🏅Ranked in the top 5 most effective climate solutions on the planet."
-     With the potential to reduce **78.33 Gigatons** from our 1050.91 Gigaton Drawdown Goal, supporting meat alternatives are the 2nd highest out of 93 total [Project Drawdown Solutions](../solutions-explorer).
-
-!!! tip "If you want a tech job supporting meat alternatives"
-    * Search job descriptions filtered by this solution directly from [ClimateBase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Plant-Rich+Diets&p=0&remote=false)
-    * Keep an eye on emerging brands for "[cultured meat](#progress-made)" - real meat grown in a lab.
-    * Companies like Upside Foods and Good Meat have just received government approval to begin in the US. Cultured meat is currently [only available in Signapore](https://www.bbc.com/news/business-65784505).  Other companies [listed here](https://www.labiotech.eu/best-biotech/cultured-meat-companies/).
+:::tip If you want a tech job supporting meat alternatives
+* Search job descriptions filtered by this solution directly from [ClimateBase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Plant-Rich+Diets&p=0&remote=false)
+* Keep an eye on emerging brands for "[cultured meat](#progress-made)" - real meat grown in a lab.
+* Companies like Upside Foods and Good Meat have just received government approval to begin in the US. Cultured meat is currently [only available in Signapore](https://www.bbc.com/news/business-65784505).  Other companies [listed here](https://www.labiotech.eu/best-biotech/cultured-meat-companies/).
+:::
 
 <!--!!! info "We are tracking closely - join our mailing ist"-->
 

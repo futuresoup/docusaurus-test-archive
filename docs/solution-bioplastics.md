@@ -1,5 +1,6 @@
 ---
 title: Bioplastics
+displayed_sidebar: docSidebar
 ---
 
 ![Packaging peanuts made from bioplastics (thermoplastic starch) ](../static/img/bioplastic-packing-peanuts.jpg)

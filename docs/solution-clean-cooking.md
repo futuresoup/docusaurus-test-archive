@@ -10,7 +10,8 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
-!!! info "the public debate about gas stoves has [received a lot of attention](https://www.npr.org/2023/01/13/1149135773/what-you-need-to-know-about-gas-stoves-and-health-risks) lately"
+:::info "the public debate about gas stoves has [received a lot of attention](https://www.npr.org/2023/01/13/1149135773/what-you-need-to-know-about-gas-stoves-and-health-risks) lately"
+:::
 
 ## Overview
 

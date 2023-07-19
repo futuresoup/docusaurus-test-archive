@@ -1,13 +1,14 @@
 ---
 title: Hard Questions
 ---
-!!! Warning "Heavy work in progress"
+:::caution Heavy work in progress
 
   *[Join us](../contribute) to help fill out this content*
+:::
 
 # Hard Questions
 
-## What is the role of [nature based solutions](../nature-based-solutions)?
+## What is the role of [nature based solutions](/nature-based-solutions)?
 
 The common belief is that tech won't save us fast enough.
 

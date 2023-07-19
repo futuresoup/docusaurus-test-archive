@@ -6,7 +6,12 @@ title: Job Seekers
 
 That's the promise.
 
-[brand spanking new]
+But how?
+
+### This is the Handbook you've been looking for
+
+
+
 
 We are tracking --hundreds/thousands of resources
 
@@ -20,3 +25,5 @@ There are companies out there making a difference that will pay you
 
 
 --green skill gap report
+
+--coders need baseline knowledge as well.
