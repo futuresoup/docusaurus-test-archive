@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 (
   module.exports = {
     title: "Climate Tech Handbook",
-    tagline: "Get paid to save planet earth",
+    tagline: "We're here to help you get paid to save planet earth",
     url: "https://www.climatetechhandbook.com",
     baseUrl: "/",
     onBrokenLinks: "ignore",
@@ -52,6 +52,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
     themeConfig:
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
+        displayedSidebar: 'docSidebar',
         navbar: {
           title: "The Climate Tech Handbook",
           // logo: {

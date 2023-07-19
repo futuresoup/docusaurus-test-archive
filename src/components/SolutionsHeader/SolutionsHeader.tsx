@@ -14,11 +14,11 @@ export default function SolutionsHeader() {
       Yes we know exactly how to solve the climate crisis
       </h1>
       <p style={{ color:"black"}}>
-      The last 40+ years are not a complete waste. <br/>
-      We have all the science and tech needed to win this critical decade.<br/>
-      Climate solutions are organized by sector.<br/>
-      Together, we are tracking all progress made toward net zero pollution.
+      We have all the science and technology needed to win this critical decade, thanks to the <a href="glossary#project-drawdown">Project Drawdown framework</a>.<br/>
       </p>
+      <h2>
+      Pick a climate solution below, organized by sector.<br/>
+      </h2>
       </div>
 
       <img className={clsx("leftSide", styles.rightSide)} src={imageToAdd}/>

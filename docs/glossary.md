@@ -3,11 +3,11 @@ title: Glossary
 ---
 # Glossary
 
-!!! Warning "Heavy work in progress"
+:::info [Help us improve this page](contribute)
 
-<!-- ## Category A -->
+[Click here to contribute content and feedback](contribute)
+:::
 
-<!-- ### Category B -->
 
 #### Carbon Budget
 
