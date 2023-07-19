@@ -12,7 +12,7 @@ export default function Solutions(): JSX.Element {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="The number one resource for job seekers and investors alike to get involed in Climate Tech!"
+      description="We have all the science and technology we need to solve the climate crisis before it's too late"
     >
       <SolutionsHeader />
       <main className={clsx(styles.mainBody)}>
