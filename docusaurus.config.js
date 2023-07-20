@@ -53,6 +53,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
         displayedSidebar: 'docSidebar',
+        docs: {
+          sidebar: {
+            hideable: true,
+            autoCollapseCategories: true,
+          },
+        },
         navbar: {
           title: "The Climate Tech Handbook",
           // logo: {
