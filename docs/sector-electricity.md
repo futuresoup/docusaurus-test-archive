@@ -24,10 +24,7 @@ The last two examples are included in what is often referred to as the "electrif
 
 ## Solutions in this Sector
 
-:::ImageCard Utility-Scale Energy Storage [linkUrl](solution-utility-scale-energy-storage)description="The development of Utility-Scale Energy Storage has made great strides in reversing climate change."
-:::
-
-<div style={{ display: 'flex', flexWrap: 'wrap' }}>
+<div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
   <ImageCard
     title="Utility-Scale Energy Storage"
     description="The development of Utility-Scale Energy Storage has made great strides in reversing climate change."
@@ -187,70 +184,40 @@ The last two examples are included in what is often referred to as the "electrif
   <ImageCard
     title="LED Lighting"
     description=""
-    imageUrl=""
+    imageUrl="img/led-lighting.jpg"
     linkUrl="../solution-led-lighting"
   />
   <ImageCard
     title="Insulation"
     description=""
-    imageUrl=""
+    imageUrl="https://images.unsplash.com/photo-1607400201889-565b1ee75f8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxJbnN1bGF0aW9ufGVufDB8fHx8MTY4MzY1OTM5NQ&ixlib=rb-4.0.3&q=80&w=1080"
     linkUrl="../solution-insulation"
   />
   <ImageCard
     title="Concentrated Solar Power"
     description=""
-    imageUrl=""
+    imageUrl="https://images.unsplash.com/photo-1641959165241-9ba4a661ecb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxDb25jZW50cmF0ZWQlMjBTb2xhciUyMFBvd2VyfGVufDB8fHx8MTY4MzY1ODMzOQ&ixlib=rb-4.0.3&q=80&w=1080"
     linkUrl="../solution-concentrated-solar-power"
   />
   <ImageCard
     title="Distributed Solar Photovoltaics"
     description=""
-    imageUrl=""
+    imageUrl="https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxEaXN0cmlidXRlZCUyMFNvbGFyJTIwUGhvdG92b2x0YWljc3xlbnwwfHx8fDE2ODM2NTg0MzY&ixlib=rb-4.0.3&q=80&w=1080"
     linkUrl="../solution-distributed-solar-photovoltaics"
   />
   <ImageCard
     title="Utility-Scale Solar Photovoltaics"
     description=""
-    imageUrl=""
+    imageUrl="img/utility-scale-solar-photovoltaics.jpg"
     linkUrl="../solution-utility-scale-solar-photovoltaics"
   />
   <ImageCard
     title="Onshore Wind Turbines"
     description=""
-    imageUrl=""
+    imageUrl="img/onshore-wind-turbines.jpg"
     linkUrl="../solution-onshore-wind-turbines"
   />
 </div>
-
-* [Grid Flexibility](../solution-grid-flexibility)
-* [Net Zero Buildings](../solution-net-zero-buildings)
-* [Building Retrofitting](../solution-building-retrofitting)
-* [Micro Wind Turbines](../solution-micro-wind-turbines)
-* [Dynamic Glass](../solution-dynamic-glass)
-* [Green and Cool Roofs](../solution-green-and-cool-roofs)
-* [Water Distribution Efficiency](../solution-water-distribution-efficiency)
-* [Low-Flow Fixtures](../solution-low-flow-fixtures)
-* [Ocean Power](../solution-ocean-power)
-* [Small Hydropower](../solution-small-hydropower)
-* [Biomass Power](../solution-biomass-power)
-* [Nuclear Power](../solution-nuclear-power)
-* [Solar Hot Water](../solution-solar-hot-water)
-* [Landfill Methane Capture](../solution-landfill-methane-capture)
-* [High-Efficiency Heat Pumps](../solution-high-efficiency-heat-pumps)
-* [Methane Digesters](../solution-methane-digesters)
-* [Geothermal Power](../solution-geothermal-power)
-* [District Heating](../solution-district-heating)
-* [Waste to Energy](../solution-waste-to-energy)
-* [Smart Thermostats](../solution-smart-thermostats)
-* [High-Performance Glass](../solution-high-performance-glass)
-* [Building Automation Systems](../solution-building-automation-systems)
-* [Offshore Wind Turbines](../solution-offshore-wind-turbines)
-* [LED Lighting](../solution-led-lighting)
-* [Insulation](../solution-insulation)
-* [Concentrated Solar Power](../solution-concentrated-solar-power)
-* [Distributed Solar Photovoltaics](../solution-distributed-solar-photovoltaics)
-* [Utility-Scale Solar Photovoltaics](../solution-utility-scale-solar-photovoltaics)
-* [Onshore Wind Turbines](../solution-onshore-wind-turbines)
 
 - - -
 
