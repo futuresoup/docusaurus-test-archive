@@ -17,90 +17,33 @@ module.exports = {
       items: ['intro', 'about', 'contribute'],
     },
     {
+      type: 'doc',
+      label: '👩🏽‍🚀 Job seekers',
+      id: 'jobseekers',
+    },
+    {
       type: 'category',
       label: '✅ Climate Solutions',
       items: [
         {
           type: 'link',
-          label: 'Intro to the Solutions Framework',
+          label: 'Solutions Overview',
           href: '/solutions',
-        },       
+        },
         {
-          type: 'category',
+          type: 'doc',
           label: 'Electricity',
-          items: [
-            {
-              type: 'doc',
-              label: 'Electricity Overview', // Labeled as "Electricity Overview"
-              id: 'sector-electricity', // ID of the overview .md file
-            },
-            'solution-biomass-power',
-            'solution-building-automation-systems',
-            'solution-building-retrofitting',
-            'solution-concentrated-solar-power',
-            'solution-distributed-energy-storage',
-            'solution-distributed-solar-photovoltaics',
-            'solution-district-heating',
-            'solution-dynamic-glass',
-            'solution-geothermal-power',
-            'solution-green-and-cool-roofs',
-            'solution-grid-flexibility',
-            'solution-high-efficiency-heat-pumps',
-            'solution-high-performance-glass',
-            'solution-insulation',
-            'solution-landfill-methane-capture',
-            'solution-led-lighting',
-            'solution-low-flow-fixtures',
-            'solution-methane-digesters',
-            'solution-micro-wind-turbines',
-            'solution-microgrids',
-            'solution-net-zero-buildings',
-            'solution-nuclear-power',
-            'solution-ocean-power',
-            'solution-offshore-wind-turbines',
-            'solution-onshore-wind-turbines',
-            'solution-small-hydropower',
-            'solution-smart-thermostats',
-            'solution-solar-hot-water',
-            'solution-utility-scale-energy-storage',
-            'solution-utility-scale-solar-photovoltaics',
-            'solution-waste-to-energy',
-            'solution-water-distribution-efficiency',
-          ],
+          id: 'sector-electricity',
         },
         {
-          type: 'category',
-          label: 'Industry',
-          items: [
-            {
-              type: 'doc',
-              label: 'Electricity Overview', // Labeled as "Electricity Overview"
-              id: 'sector-industry', // ID of the overview .md file
-            },
-            'solution-alternative-cement',
-            'solution-alternative-refrigerants',
-            'solution-bioplastics',
-            'solution-composting',
-            'solution-landfill-methane-capture',
-            'solution-methane-digesters',
-            'solution-recycled-metals',
-            'solution-recycled-paper',
-            'solution-recycled-plastics',
-            'solution-recycling',
-            'solution-reduced-plastics',
-            'solution-refrigerant-management',
-            'solution-waste-to-energy',
-          ],
-        },
-        {
-          type: 'category',
+          type: 'doc',
           label: 'Food, Agriculture, and Land Use',
-          items: [
-            'solution-coastal-wetland-protection',
-            'solution-conservation-agriculture',
-            'solution-farm-irrigation-efficiency',
-            // Add other pages under this category
-          ],
+          id: 'sector-food-agriculture-and-land-use',
+        },
+        {
+          type: 'doc',
+          label: 'Industry',
+          id: 'sector-industry',
         },
         {
           type: 'doc',
@@ -156,13 +99,8 @@ module.exports = {
     },
     {
       type: 'doc',
-      label: '👩🏽‍🚀 Job seekers',
-      id: 'jobseekers',
-    },
-    {
-      type: 'doc',
-      label: '⚡️ Startups',
-      id: 'startups',
+      label: '⚡️ Founders',
+      id: 'founders',
     },
     {
       type: 'doc',
