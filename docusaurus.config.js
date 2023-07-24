@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 (
   module.exports = {
     title: "Climate Tech Handbook",
-    tagline: "We're here to help you get paid to save planet earth",
+    tagline: "Get paid to save planet earth",
     url: "https://www.climatetechhandbook.com",
     baseUrl: "/",
     onBrokenLinks: "ignore",
@@ -74,9 +74,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             },
             {
               type: "doc",
-              docId: "startups",
+              docId: "founders",
               position: "right",
-              label: "Startups",
+              label: "Founders",
             },
             {
               type: "doc",
