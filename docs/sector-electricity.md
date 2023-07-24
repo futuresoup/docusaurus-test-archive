@@ -3,6 +3,7 @@ title: Electricity
 Description: null
 icon: material/lightning-bolt
 ---
+import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
@@ -23,9 +24,204 @@ The last two examples are included in what is often referred to as the "electrif
 
 ## Solutions in this Sector
 
-* [Utility-Scale Energy Storage](../solution-utility-scale-energy-storage)
-* [Distributed Energy Storage](../solution-distributed-energy-storage)
-* [Microgrids](../solution-microgrids)
+:::ImageCard Utility-Scale Energy Storage [linkUrl](solution-utility-scale-energy-storage)description="The development of Utility-Scale Energy Storage has made great strides in reversing climate change."
+:::
+
+<div style={{ display: 'flex', flexWrap: 'wrap' }}>
+  <ImageCard
+    title="Utility-Scale Energy Storage"
+    description="The development of Utility-Scale Energy Storage has made great strides in reversing climate change."
+    imageUrl="img/utility-scale-energy-storage.jpg"
+    linkUrl="solution-utility-scale-energy-storage"
+  />
+  <ImageCard
+    title="Distributed Energy Storage"
+    description="The development of distributed energy storage is a key element in reversing climate change."
+    imageUrl="img/distributed-energy-storage.jpg"
+    linkUrl="solution-distributed-energy-storage"
+  />
+  <ImageCard
+    title="Microgrids"
+    description="Progress has been made in developing microgrids to reverse climate change by developing breakthrough technologies."
+    imageUrl="img/microgrids.jpg"
+    linkUrl="solution-microgrids"
+  />
+  <ImageCard
+    title="Grid Flexibility"
+    description="In the last few years, there have been a number of breakthrough technologies that have contributed to the reduction of greenhouse gas emissions."
+    imageUrl="img/grid-flexibility.jpg"
+    linkUrl="../solution-grid-flexibility"
+  />
+  <ImageCard
+    title="Net Zero Buildings"
+    description="The progress that has been made in developing Net Zero Buildings to reverse climate change is significant."
+    imageUrl="img/net-zero-buildings.jpg"
+    linkUrl="../solution-net-zero-buildings"
+  />
+  <ImageCard
+    title="Building Retrofitting"
+    description="Building retrofitting is the process of making improvements to an existing building to make it more energy efficient and reduce its carbon footprint."
+    imageUrl="img/building-retrofitting.jpg"
+    linkUrl="../solution-building-retrofitting"
+  />
+  <ImageCard
+    title="Micro Wind Turbines"
+    description="In the past decade, there have been many breakthrough technologies that have been developed."
+    imageUrl="img/micro-wind-turbines.jpg"
+    linkUrl="../solution-micro-wind-turbines"
+  />
+  <ImageCard
+    title="Dynamic Glass"
+    description="The key breakthrough in developing Dynamic Glass to combat climate change has been advanced coatings."
+    imageUrl="img/dynamic-glass.jpg"
+    linkUrl="../solution-dynamic-glass"
+  />
+  <ImageCard
+    title="Green and Cool Roofs"
+    description="Green and cool roofs mitigate the urban heat island effect and cut energy consumption as low-impact developments."
+    imageUrl="img/green-roofing.png"
+    linkUrl="../solution-green-and-cool-roofs"
+  />
+  <ImageCard
+    title="Water Distribution Efficiency"
+    description="Water Distribution Efficiency is the technology and process of using less water to achieve the same goal."
+    imageUrl="img/water-distribution-efficiency.webp"
+    linkUrl="../solution-water-distribution-efficiency"
+  />
+  <ImageCard
+    title="Low-Flow Fixtures"
+    description="The progress that has been made in developing Low-Flow Fixtures to reverse climate change is significant."
+    imageUrl="img/low-flow-fixtures.png"
+    linkUrl="../solution-low-flow-fixtures"
+  />
+  <ImageCard
+    title="Ocean Power"
+    description=""
+    imageUrl="img/ocean-power.png"
+    linkUrl="../solution-ocean-power"
+  />
+  <ImageCard
+    title="Small Hydropower"
+    description=""
+    imageUrl="img/small-hydropower.png"
+    linkUrl="../solution-small-hydropower"
+  />
+  <ImageCard
+    title="Biomass Power"
+    description=""
+    imageUrl="img/biomass-power-plant.jpg"
+    linkUrl="../solution-biomass-power"
+  />
+  <ImageCard
+    title="Nuclear Power"
+    description=""
+    imageUrl="img/nuclear-power.webp"
+    linkUrl="../solution-nuclear-power"
+  />
+  <ImageCard
+    title="Solar Hot Water"
+    description=""
+    imageUrl="img/solar-hot-water.webp"
+    linkUrl="../solution-solar-hot-water"
+  />
+  <ImageCard
+    title="Landfill Methane Capture"
+    description=""
+    imageUrl="img/landfill-methane-capture.gif"
+    linkUrl="../solution-landfill-methane-capture"
+  />
+  <ImageCard
+    title="High-Efficiency Heat Pumps"
+    description=""
+    imageUrl="img/high-efficiency-heat-pumps.png"
+    linkUrl="../solution-high-efficiency-heat-pumps"
+  />
+  <ImageCard
+    title="Methane Digesters"
+    description=""
+    imageUrl="img/methane-digesters.jpg"
+    linkUrl="../solution-methane-digesters"
+  />
+  <ImageCard
+    title="Geothermal Power"
+    description=""
+    imageUrl="img/geothermal-power.jpg"
+    linkUrl="../solution-geothermal-power"
+  />
+  <ImageCard
+    title="District Heating"
+    description=""
+    imageUrl="img/district-heating.jpg"
+    linkUrl="../solution-district-heating"
+  />
+  <ImageCard
+    title="Waste to Energy"
+    description=""
+    imageUrl="img/waste-to-energy.jpg"
+    linkUrl="../solution-waste-to-energy"
+  />
+  <ImageCard
+    title="Smart Thermostats"
+    description=""
+    imageUrl="img/smart-thermostats.webp"
+    linkUrl="../solution-smart-thermostats"
+  />
+  <ImageCard
+    title="High-Performance Glass"
+    description=""
+    imageUrl="img/high-performance-glass.png"
+    linkUrl="../solution-high-performance-glass"
+  />
+  <ImageCard
+    title="Building Automation Systems"
+    description=""
+    imageUrl="img/building-automation.png"
+    linkUrl="../solution-building-automation-systems"
+  />
+  <ImageCard
+    title="Offshore Wind Turbines"
+    description=""
+    imageUrl="img/offshore-wind-turbines.jpg"
+    linkUrl="../solution-offshore-wind-turbines"
+  />
+  <ImageCard
+    title="LED Lighting"
+    description=""
+    imageUrl=""
+    linkUrl="../solution-led-lighting"
+  />
+  <ImageCard
+    title="Insulation"
+    description=""
+    imageUrl=""
+    linkUrl="../solution-insulation"
+  />
+  <ImageCard
+    title="Concentrated Solar Power"
+    description=""
+    imageUrl=""
+    linkUrl="../solution-concentrated-solar-power"
+  />
+  <ImageCard
+    title="Distributed Solar Photovoltaics"
+    description=""
+    imageUrl=""
+    linkUrl="../solution-distributed-solar-photovoltaics"
+  />
+  <ImageCard
+    title="Utility-Scale Solar Photovoltaics"
+    description=""
+    imageUrl=""
+    linkUrl="../solution-utility-scale-solar-photovoltaics"
+  />
+  <ImageCard
+    title="Onshore Wind Turbines"
+    description=""
+    imageUrl=""
+    linkUrl="../solution-onshore-wind-turbines"
+  />
+</div>
+
 * [Grid Flexibility](../solution-grid-flexibility)
 * [Net Zero Buildings](../solution-net-zero-buildings)
 * [Building Retrofitting](../solution-building-retrofitting)

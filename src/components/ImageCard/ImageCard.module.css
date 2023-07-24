@@ -8,6 +8,10 @@
     margin: 0 3rem 3rem 0;
 }
 
+.cardContainer:hover {
+    cursor: pointer;
+}
+
 .cardImg {
     width: 300px;
     height: 200px;
