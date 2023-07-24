@@ -69,12 +69,12 @@ export default function Home(): JSX.Element {
           imageUrl={useBaseUrl("/img/climate-job.png")}
           linkUrl="/resources"
         />
-        <HomeCard
-          title="Founders, Investors, Philanthropists, and Government Funders"
-          description="Our open source AI assistant will save you precious time and money. We want you to make the greatest impact possible."
+{/*        <HomeCard
+          title="Startup Founders"
+          description="Our open source industry research will save you precious time and money. We'd rather you focus on making the greatest impact possible for our planet."
           imageUrl={useBaseUrl("/img/climate-startups.webp")}
           linkUrl="/sectors"
-        />
+        />*/}
       </main>
     </Layout>
   );
