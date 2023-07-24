@@ -16,10 +16,7 @@ Electricity, once a significant greenhouse gas contributor, is now crucial to cl
 
 ## Solutions in this Sector
 
-:::ImageCard Utility-Scale Energy Storage [linkUrl](solution-utility-scale-energy-storage)description="The development of Utility-Scale Energy Storage has made great strides in reversing climate change."
-:::
-
-<div style={{ display: 'flex', flexWrap: 'wrap' }}>
+<div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
   <ImageCard
     title="Utility-Scale Energy Storage"
     description="The development of Utility-Scale Energy Storage has made great strides in reversing climate change."
@@ -179,37 +176,37 @@ Electricity, once a significant greenhouse gas contributor, is now crucial to cl
   <ImageCard
     title="LED Lighting"
     description=""
-    imageUrl=""
+    imageUrl="img/led-lighting.jpg"
     linkUrl="../solution-led-lighting"
   />
   <ImageCard
     title="Insulation"
     description=""
-    imageUrl=""
+    imageUrl="https://images.unsplash.com/photo-1607400201889-565b1ee75f8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxJbnN1bGF0aW9ufGVufDB8fHx8MTY4MzY1OTM5NQ&ixlib=rb-4.0.3&q=80&w=1080"
     linkUrl="../solution-insulation"
   />
   <ImageCard
     title="Concentrated Solar Power"
     description=""
-    imageUrl=""
+    imageUrl="https://images.unsplash.com/photo-1641959165241-9ba4a661ecb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxDb25jZW50cmF0ZWQlMjBTb2xhciUyMFBvd2VyfGVufDB8fHx8MTY4MzY1ODMzOQ&ixlib=rb-4.0.3&q=80&w=1080"
     linkUrl="../solution-concentrated-solar-power"
   />
   <ImageCard
     title="Distributed Solar Photovoltaics"
     description=""
-    imageUrl=""
+    imageUrl="https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxEaXN0cmlidXRlZCUyMFNvbGFyJTIwUGhvdG92b2x0YWljc3xlbnwwfHx8fDE2ODM2NTg0MzY&ixlib=rb-4.0.3&q=80&w=1080"
     linkUrl="../solution-distributed-solar-photovoltaics"
   />
   <ImageCard
     title="Utility-Scale Solar Photovoltaics"
     description=""
-    imageUrl=""
+    imageUrl="img/utility-scale-solar-photovoltaics.jpg"
     linkUrl="../solution-utility-scale-solar-photovoltaics"
   />
   <ImageCard
     title="Onshore Wind Turbines"
     description=""
-    imageUrl=""
+    imageUrl="img/onshore-wind-turbines.jpg"
     linkUrl="../solution-onshore-wind-turbines"
   />
 </div>
