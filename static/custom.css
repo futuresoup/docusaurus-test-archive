@@ -25,6 +25,19 @@
   --ifm-color-secondary-lightest: lighten(#be4721, 30%);
 }
 
+a {
+  color: #33985C;
+}
+
+a:hover {
+  color: #33985C;
+}
+
+html, body { /*prevent mobile scrolling horizontally*/
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
   background-color: #EEEEEE;
@@ -106,22 +119,4 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 
 .footer__link-item:hover {
   color: white;
-}
-
-.buttonMain { /* overwrites default button styling */
-  background-color: var(--ifm-color-secondary) !important;
-  color: white !important;
-  font-size: 1.25rem !important;
-  height: 60px !important;
-  display: flex;
-  align-items: center; /* Center vertically */
-  justify-content: center; /* Center horizontally */
-  min-width: fit-content;
-  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
-}
-
-.buttonMain:hover {
-  background-color: white;
-  transition: ease-in-out 0.25s;
-  color: var(--ifm-color-secondary);
 }

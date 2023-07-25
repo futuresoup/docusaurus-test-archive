@@ -231,7 +231,7 @@
   display: block;
   position: absolute;
   content: '';
-  width: 14px;
+  width: 4px;
   height: 14px;
   background: #373940;
   z-index: 1000;
