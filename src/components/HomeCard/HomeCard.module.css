@@ -26,12 +26,14 @@
   background-color: var(--ifm-color-secondary) !important;
   color: white !important;
   font-size: 1.25rem !important;
+  font-weight: bold;
   height: 60px !important;
   display: flex;
   align-items: center; /* Center vertically */
   justify-content: center; /* Center horizontally */
   min-width: fit-content;
   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
 }
 
 .buttonMain:hover {

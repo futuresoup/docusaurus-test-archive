@@ -16,10 +16,7 @@ export default function HomepageHeader() {
           {siteConfig.tagline}
         </p>
         <Link
-          className={clsx(
-            "button button--secondary button--lg",
-            styles.cthLink
-          )}
+          className={styles.cthLink}
           to="/intro"
         >
           Show me
