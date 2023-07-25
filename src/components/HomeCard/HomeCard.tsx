@@ -24,7 +24,10 @@ const HomeCard: React.FC<CardProps> = ({
         <p className={clsx(styles.cardDescription)}>{description}</p>
         <Link
           to={linkUrl}
-          className={styles.buttonMain}
+          className={clsx(
+            "button button--secondary button--lg",
+            styles.buttonMain
+          )}
         >
           Show me
         </Link>
