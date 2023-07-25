@@ -78,6 +78,7 @@
   color: var(--ifm-color-secondary) !important;
   background: white;
   border: 2px solid var(--ifm-color-secondary);
+  text-decoration: none;
 }
 
 @media screen and (max-width: 966px) {

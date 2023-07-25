@@ -37,9 +37,11 @@
 }
 
 .buttonMain:hover {
-  background-color: white !important;
   transition: ease-in-out 0.25s;
-  color: var(--ifm-color-secondary);
+  color: var(--ifm-color-secondary) !important;
+  background: white;
+  border: 2px solid var(--ifm-color-secondary);
+  text-decoration: none;
 }
 
 @media screen and (min-width: 966px) {
