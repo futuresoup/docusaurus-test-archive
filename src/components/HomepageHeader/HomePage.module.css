@@ -62,7 +62,7 @@
   border: 2px solid var(--ifm-color-secondary);
   color: white !important;
   border-radius: 10px;
-  font-size: 1rem;
+  font-size: 1.25rem;
   height: 60px;
   display: flex;
   align-items: center; /* Center vertically */
@@ -90,6 +90,9 @@
   .headerStatement {
     font-size: 5vmin;
     max-width: 100%;
+  }
+  .cthLink{
+    width: 66%;
   }
 }
 
