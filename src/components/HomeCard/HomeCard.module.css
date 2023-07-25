@@ -22,7 +22,29 @@
   border-radius: 10px;
 }
 
+.buttonMain { /* overwrites default button styling */
+  background-color: var(--ifm-color-secondary) !important;
+  color: white !important;
+  font-size: 1.25rem !important;
+  height: 60px !important;
+  display: flex;
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  min-width: fit-content;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.buttonMain:hover {
+  background-color: white !important;
+  transition: ease-in-out 0.25s;
+  color: var(--ifm-color-secondary);
+}
+
 @media screen and (min-width: 966px) {
+  .buttonMain {
+    width: 66%;
+  }
+
   .cardContainer {
     flex-direction: row;
   }

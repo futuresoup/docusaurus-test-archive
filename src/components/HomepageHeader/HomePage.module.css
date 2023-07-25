@@ -49,7 +49,7 @@
   text-transform: uppercase;
   font-size: 4rem;
   font-weight: 500;
-  letter-spacing: .2rem; /* adjusts the kerning */
+  letter-spacing: .1rem; /* adjusts the kerning */
   width: auto;
   line-height: 130%;
   max-width: 75%;
