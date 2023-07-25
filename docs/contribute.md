@@ -4,9 +4,7 @@ This is your resource!
 
 We can make it better together.
 
-![Climate tech handbook team](/../static/img/climate-tech-handbook-team-zoom.png)
-
-:::info Get involved
+![Climate tech handbook team](../static/img/climate-tech-handbook-team-zoom.png)
 
 Please [join us on GitHub](https://github.com/climate-tech-handbook) to:
 
@@ -14,13 +12,11 @@ Please [join us on GitHub](https://github.com/climate-tech-handbook) to:
 * Financially support the project
 * Provide advice and expertise
 
-:::
-
 ---
 
 ## Contribution Guidelines
 
-![XKCD citation needed](/../static/img/xkcd-citation-needed.png)
+![XKCD citation needed](/img/xkcd-citation-needed.png)
 
 To have the best handbook possible, we need three things:
 
