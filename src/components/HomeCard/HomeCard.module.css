@@ -39,8 +39,8 @@
 .buttonMain:hover {
   transition: ease-in-out 0.25s;
   color: var(--ifm-color-secondary) !important;
-  background: white;
-  border: 2px solid var(--ifm-color-secondary);
+  background: white  !important;
+  border: 2px solid var(--ifm-color-secondary) !important;
   text-decoration: none;
 }
 
