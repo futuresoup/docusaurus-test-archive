@@ -3,6 +3,7 @@ title: Engineered Sinks
 Description: null
 icon: material/chart-bubble
 ---
+import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
@@ -11,16 +12,18 @@ icon: material/chart-bubble
 
 ![Biochar use cases for climate change mitigation](/../static/img/biochar-production.jpg)
 
-By reducing water usage and promoting eco-friendly behaviors, engineered sinks can help conserve resources and reduce the carbon footprint associated with water consumption.
+There are plenty of startups working to engineer non-nature solutions to capture carbon.
 
-Examples:
+However, Project Drawdown has only assessed biochar, which is ready today and its feasible to scale. 
 
-* Water Conservation
-* Greywater and Rainwater Recycling
-
-## Solutions in this Sector
-
-* [Biochar Production](../solution-biochar-production)
+<div style={{ display: 'flex', flexWrap: 'wrap'}}>
+    <ImageCard
+    title="Biochar Production"
+    description="Biochar retains most of the carbon produced by decomposing biomass."
+    imageUrl="img/biochar-kiln.jpg"
+    linkUrl="../solution-biochar-production"
+    />
+</div>
 
 - - -
 

@@ -36,7 +36,7 @@ Beyond decreasing its emissions, it also presents opportunities for carbon captu
 <ImageCard
   title="Farm Irrigation Efficiency"
   description="Efficient water management techniques for agricultural irrigation."
-  imageUrl="img/farm-irrigation-efficiency.jpg"
+  imageUrl="img/farm-irrigation-efficiency.png"
   linkUrl="../solution-farm-irrigation-efficiency"
 />
 
@@ -57,14 +57,14 @@ Beyond decreasing its emissions, it also presents opportunities for carbon captu
 <ImageCard
   title="Improved Aquaculture"
   description="Sustainable practices in aquaculture to reduce environmental impacts."
-  imageUrl="img/improved-aquaculture.jpg"
+  imageUrl="img/aquaculture.jpg"
   linkUrl="../solution-improved-aquaculture"
 />
 
 <ImageCard
   title="Improved Cattle Feed"
   description="Innovative feed practices to reduce greenhouse gas emissions from cattle."
-  imageUrl="img/improved-cattle-feed.jpg"
+  imageUrl="img/improved-cattle-feed.png"
   linkUrl="../solution-improved-cattle-feed"
 />
 
@@ -78,7 +78,7 @@ Beyond decreasing its emissions, it also presents opportunities for carbon captu
 <ImageCard
   title="Improved Manure Management"
   description="Techniques to reduce methane emissions from livestock manure."
-  imageUrl="img/improved-manure-management.jpg"
+  imageUrl="img/manure-management.jpg"
   linkUrl="../solution-improved-manure-management"
 />
 
@@ -99,28 +99,28 @@ Beyond decreasing its emissions, it also presents opportunities for carbon captu
 <ImageCard
   title="Nutrient Management"
   description="Optimized use of nutrients in agriculture to minimize emissions and improve yields."
-  imageUrl="img/nutrient-management.jpg"
+  imageUrl="img/nutrient-management.webp"
   linkUrl="../solution-nutrient-management"
 />
 
 <ImageCard
   title="Peatland Protection and Rewetting"
   description="Conservation and restoration of peatlands to reduce greenhouse gas emissions."
-  imageUrl="img/peatland-protection-and-rewetting.jpg"
+  imageUrl="img/peatland-protection-and-rewetting.png"
   linkUrl="../solution-peatland-protection-and-rewetting"
 />
 
 <ImageCard
   title="Plant-Rich Diets"
   description="Promotion of diets rich in plant-based foods to reduce environmental impact."
-  imageUrl="img/plant-rich-diets.jpg"
+  imageUrl="img/plant-rich-diets.png"
   linkUrl="../solution-plant-rich-diets"
 />
 
 <ImageCard
   title="Reduced Food Waste"
   description="Efforts to minimize food waste and its contribution to climate change."
-  imageUrl="img/reduced-food-waste.jpg"
+  imageUrl="img/reduced-food-waste.png"
   linkUrl="../solution-reduced-food-waste"
 />
 

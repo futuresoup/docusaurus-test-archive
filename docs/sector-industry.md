@@ -1,7 +1,7 @@
 ---
 title: Industry
 Description: null
-icon: material/factory
+hide_table_of_contents: true
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
