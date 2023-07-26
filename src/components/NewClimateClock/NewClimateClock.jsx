@@ -20,7 +20,7 @@ export default function NewClimateClock({ countDown }) {
 
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.months}</div>
-            <div className="label">Min</div>
+            <div className="label">Mon</div>
           </div>
 
           <span> : </span>
