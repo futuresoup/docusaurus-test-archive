@@ -14,7 +14,9 @@ _Biochar helps farmers get more life out of dead plants_ ([vnews.com](https://ww
 
 ## Overview
 
-Significant progress has been made in developing Biochar Production to reverse climate change. Technologies such as efficient biochar production methods, carbon capture and storage, and emission-reducing agricultural practices have played a key role. Organizations like the Biochar Industry Consortium, International Biochar Initiative, Carbon Sequestration Leadership Forum, and Climate Change Mitigation Initiative have been at the forefront of this solution.
+Biochar retains most of the carbon produced by decomposing biomass.
+
+Significant progress has been made toward efficient biochar production methods, carbon capture and storage, and emission-reducing agricultural practices. Organizations like the Biochar Industry Consortium, International Biochar Initiative, Carbon Sequestration Leadership Forum, and Climate Change Mitigation Initiative have been at the forefront of this solution.
 
 ## Progress Made
 

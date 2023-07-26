@@ -1,5 +1,6 @@
 ---
 title: District Heating
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/district-heating.jpg)

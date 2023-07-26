@@ -1,12 +1,6 @@
 ---
 title: Alternative Cement
-displayedSidebar: docSidebar
-authors:
-  - name: Muxi
-    description: Is great
-    avatar: example.com
 ---
-displayedSidebar: docSidebar
 
 ![Cement Factory](../static/img/cement-factory.jpg)
 
