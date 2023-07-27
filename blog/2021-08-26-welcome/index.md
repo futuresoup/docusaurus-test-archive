@@ -1,4 +1,5 @@
 ---
+draft: true
 slug: welcome
 title: Welcome
 authors: [slorber, yangshun]
