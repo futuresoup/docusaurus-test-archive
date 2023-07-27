@@ -1,7 +1,13 @@
 .listContainer {
-    width: 90%;
+    /* width: 90%; */
     margin: auto;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
     gap: 2rem;
+    display: grid;
+    grid-template-columns: 1fr; /* Single column for small screens */
+}
+
+@media screen and (min-width: 768px) { /* For larger screens */
+    .listContainer {
+        grid-template-columns: repeat(3, 1fr); /* Three columns */
+    }
 }
