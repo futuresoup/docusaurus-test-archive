@@ -3,6 +3,7 @@
     margin: auto;
     gap: 2rem;
     display: grid;
+    padding: 10px;
     grid-template-columns: 1fr; /* Single column for small screens */
 }
 
