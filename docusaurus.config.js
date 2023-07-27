@@ -74,12 +74,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             },
             {
               type: "doc",
-              docId: "founders",
-              position: "right",
-              label: "Founders",
-            },
-            {
-              type: "doc",
               docId: "resources",
               position: "right",
               label: "Resources",
@@ -164,20 +158,20 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               title: "Climate Solutions",
               items: [
                 {
-                  label: "Sector A",
-                  to: "/solutions",
+                  label: "Electricity",
+                  to: "/sector-electricity",
                 },
                 {
-                  label: "Choose a Sector",
-                  to: "/solutions",
+                  label: "Food, Agriculture, & Land Use",
+                  to: "/sector-food-agriculture-and-land-use",
                 },
                 {
-                  label: "Choose a Sector",
-                  to: "/solutions",
+                  label: "Industry",
+                  to: "/sector-industry",
                 },
                 {
-                  label: "Choose a Sector",
-                  to: "/solutions",
+                  label: "Transportation",
+                  to: "/sector-transportation",
                 },
                 {
                   label: "Additional Sectors",

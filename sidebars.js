@@ -27,7 +27,7 @@ module.exports = {
       items: [
         {
           type: 'link',
-          label: 'Solutions Overview',
+          label: '⭐️ What are Climate Solutions?',
           href: '/solutions',
         },
         {
@@ -91,11 +91,6 @@ module.exports = {
           id: 'sector-advocacy-or-policy',
         },
       ],
-    },
-    {
-      type: 'doc',
-      label: '⚡️ Founders',
-      id: 'founders',
     },
     {
       type: 'doc',
