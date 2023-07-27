@@ -68,12 +68,6 @@ const SolutionsList = () => {
             linkUrl={useBaseUrl("sector-climate-adaptation")}
         />
         <ImageCard 
-            title="Research and Education"
-            description="Society can benefit from a solid scientific foundation, informed decision-making, and empowered individuals."
-            imageUrl={useBaseUrl("/img/education.jpg")}
-            linkUrl={useBaseUrl("sector-research-and-education")}
-        />
-        <ImageCard 
             title="Media and Journalism"
             description="Media and journalism can drive systemic change, mobilize public support, and hold those in power accountable."
             imageUrl={useBaseUrl("/img/journalism.jpg")}

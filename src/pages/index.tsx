@@ -67,7 +67,7 @@ export default function Home(): JSX.Element {
           title="Climate Job Seekers"
           description="You don't have to choose between doing what you love and solving the climate emergency."
           imageUrl={useBaseUrl("/img/climate-job.png")}
-          linkUrl="/resources"
+          linkUrl="/jobseekers"
         />
 {/*        <HomeCard
           title="Startup Founders"

@@ -62,7 +62,6 @@ The Bamboo Society of China is a national organization that works to promote bam
 The best path forward for the continued development and implementation of Bamboo Production to effectively mitigate the effects of climate change is to continue to support and fund research and development into this area. In addition, it is important to work with companies and organizations that have been at the forefront of this solution to ensure that it is adopted on a large scale and is effective. Some of these companies and organizations include the World Bamboo Organization, the International Bamboo and Rattan Organization, and the Bamboo and Rattan Initiative.
 
 ---
-displayedSidebar: docSidebar
 
 Photo by <a href="https://unsplash.com/@masbuuun?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">bubun</a> on <a href="https://unsplash.com/photos/xGyUk97LpOc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
