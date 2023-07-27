@@ -120,3 +120,20 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 .footer__link-item:hover {
   color: white;
 }
+
+.navbar__logo {
+  display: none;
+}
+
+@media (max-width: 425px) {
+  .navbar__logo {
+    display: block;
+    width: 100px;
+  }
+
+  /* Hide the title on mobile */
+  .navbar__title {
+    display: none;
+  }
+}
+

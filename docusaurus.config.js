@@ -61,10 +61,10 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
         },
         navbar: {
           title: "The Climate Tech Handbook",
-          // logo: {
-          //   alt: "CTH Earth Logo",
-          //   src: "img/main/cth-earth-logo.png",
-          // },
+          logo: {
+            alt: "CTH Earth Logo",
+            src: "img/main/cth-earth-logo.png",
+          },
           items: [
             {
               type: "doc",
