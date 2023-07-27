@@ -2,7 +2,7 @@
 title: Hybrid Cars
 ---
 
-![Cover Image](../static/img/hyrid-car.jpg)
+![Cover Image](../static/img/hybrid-car.jpg)
 
 :::info [Help us track this Solution](contribute)
 This a sample ChatGPT page to get the ball rolling.

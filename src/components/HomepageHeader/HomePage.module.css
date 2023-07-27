@@ -86,11 +86,11 @@
     padding: 2rem 0;
   }
   .headerSubtitle {
-    font-size: 5vmin;
+    font-size: 10vmin;
     max-width: 100%;
   }
   .headerStatement {
-    font-size: 5vmin;
+    font-size: 6vmin;
     max-width: 100%;
   }
   .cthLink{

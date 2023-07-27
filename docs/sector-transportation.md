@@ -1,10 +1,11 @@
 ---
 title: Transportation
-icon: material/plane-car
 Tags:
   - Sector
   - Transportation
+hide_table_of_contents: true
 ---
+import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
@@ -13,29 +14,104 @@ Tags:
 
 ![](/../static/img/transportation.jpeg)
 
-Transportation emits CO2 from fossil fuels in vehicles. Infrastructure like roads and airports adds to land-use change and habitat loss, worsening environmental challenges.
 
-Examples:
-
-* Shifting to Low-Carbon Fuels
-* Improving fuel efficiency
-* Promoting public transportation
 
 ## Solutions in this Sector
 
-* [High-Speed Rail](../solution-high-speed-rail)
-* [Electric Bicycles](../solution-electric-bicycles)
-* [Hybrid Cars](../solution-hybrid-cars)
-* [Electric Trains](../solution-electric-trains)
-* [Telepresence](../solution-telepresence)
-* [Bicycle Infrastructure](../solution-bicycle-infrastructure)
-* [Walkable Cities](../solution-walkable-cities)
-* [Efficient Aviation](../solution-efficient-aviation)
-* [Efficient Ocean Shipping](../solution-efficient-ocean-shipping)
-* [Electric Cars](../solution-electric-cars)
-* [Carpooling](../solution-carpooling)
-* [Efficient Trucks](../solution-efficient-trucks)
-* [Public Transit](../solution-public-transit)
+<div style={{ display: 'flex', flexWrap: 'wrap'}}>
+
+<ImageCard
+  title="Bicycle Infrastructure"
+  description="Infrastructure designed to support and encourage bicycle use for transportation."
+  imageUrl="img/bicycle-infrastructure.jpg"
+  linkUrl="../solution-bicycle-infrastructure"
+/>
+
+<ImageCard
+  title="Efficient Aviation"
+  description="Advancements in aviation technology aimed at reducing fuel consumption and emissions."
+  imageUrl="img/electric-aircraft.jpg"
+  linkUrl="../solution-efficient-aviation"
+/>
+
+<ImageCard
+  title="Efficient Ocean Shipping"
+  description="Innovations in ocean shipping to optimize fuel usage and minimize emissions."
+  imageUrl="img/efficient-ocean-shipping.png"
+  linkUrl="../solution-efficient-ocean-shipping"
+/>
+
+<ImageCard
+  title="Efficient Trucks"
+  description="Technological improvements in trucking to increase fuel efficiency and decrease emissions."
+  imageUrl="img/fuel-efficient-trucks.jpg"
+  linkUrl="../solution-efficient-trucks"
+/>
+
+<ImageCard
+  title="Electric Bicycles"
+  description="Bicycles powered by electric motors, providing emission-free transportation options."
+  imageUrl="img/electric-bicycles.jpg"
+  linkUrl="../solution-electric-bicycles"
+/>
+
+<ImageCard
+  title="Electric Cars"
+  description="Vehicles powered by electric motors instead of internal combustion engines, reducing reliance on fossil fuels."
+  imageUrl="img/electric-car.jpg"
+  linkUrl="../solution-electric-cars"
+/>
+
+<ImageCard
+  title="Electric Trains"
+  description="Railway systems utilizing electric power sources for sustainable transportation."
+  imageUrl="img/electric-train.jpg"
+  linkUrl="../solution-electric-trains"
+/>
+
+<ImageCard
+  title="High-Speed Rail"
+  description="Development of fast and efficient rail systems for low-emission travel."
+  imageUrl="img/high-speed-rail.jpg"
+  linkUrl="../solution-high-speed-rail"
+/>
+
+<ImageCard
+  title="Hybrid Cars"
+  description="Vehicles combining electric motors and traditional engines for enhanced fuel efficiency."
+  imageUrl="img/hybrid-car.jpg"
+  linkUrl="../solution-hybrid-cars"
+/>
+
+<ImageCard
+  title="Public Transit"
+  description="Promotion and enhancement of mass transit systems for sustainable urban mobility."
+  imageUrl="img/public-transit.webp"
+  linkUrl="../solution-public-transit"
+/>
+
+<ImageCard
+  title="Telepresence"
+  description="Remote communication technologies that enable virtual meetings and reduce travel-related emissions."
+  imageUrl="img/telepresence.png"
+  linkUrl="../solution-telepresence"
+/>
+
+<ImageCard
+  title="Walkable Cities"
+  description="Urban design focused on creating pedestrian-friendly cities, reducing reliance on cars."
+  imageUrl="img/walkable-cities.webp"
+  linkUrl="../solution-walkable-cities"
+/>
+
+<ImageCard
+  title="Carpooling"
+  description="A system where multiple individuals share a single vehicle for commuting or traveling together."
+  imageUrl="img/carpooling.png"
+  linkUrl="../solution-carpooling"
+/>
+
+</div>
 
 - - -
 

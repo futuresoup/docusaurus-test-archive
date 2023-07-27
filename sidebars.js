@@ -82,11 +82,6 @@ module.exports = {
         },
         {
           type: 'doc',
-          label: 'Research and Education',
-          id: 'sector-research-and-education',
-        },
-        {
-          type: 'doc',
           label: 'Media and Journalism',
           id: 'sector-media-and-journalism',
         },
