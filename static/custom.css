@@ -121,7 +121,13 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   color: white;
 }
 
-.navbar__logo {
+@media (max-width: 425px) {
+  .search-bar {
+    width: 83px;
+  }
+}
+
+/* .navbar__logo {
   display: none;
 }
 
@@ -131,9 +137,8 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
     width: 100px;
   }
 
-  /* Hide the title on mobile */
   .navbar__title {
     display: none;
   }
-}
+} */
 
