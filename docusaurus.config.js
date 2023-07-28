@@ -23,6 +23,10 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
         ({
           docs: {
             sidebarPath: require.resolve("./sidebars.js"),
+            admonitions: {
+              keywords: ['question', 'note', 'info', 'caution', 'danger'],
+              // extendDefaults: true,
+            },
             // Please change this to your repo.
             editUrl:
               "https://www.climatetechhandbook.com/admin/#/edit/",
