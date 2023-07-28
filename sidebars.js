@@ -26,9 +26,9 @@ module.exports = {
       label: '✅ Climate Solutions',
       items: [
         {
-          type: 'link',
+          type: 'doc',
           label: '⭐️ What are Climate Solutions?',
-          href: '/solutions',
+          id: 'solutions',
         },
         {
           type: 'doc',
