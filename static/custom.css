@@ -121,9 +121,21 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   color: white;
 }
 
+@media (max-width: 320px) {
+  .search-bar {
+    display: none;
+  }
+}
+
+@media (max-width: 375px) {
+  .search-bar {
+    width: 90px;
+  }
+}
+
 @media (max-width: 425px) {
   .search-bar {
-    width: 83px;
+    width: 100px;
   }
 }
 
