@@ -5,7 +5,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (
   module.exports = {
-    title: "Climate Tech Handbook",
+    title: "The Climate Tech Handbook",
     tagline: "Get paid to save planet earth",
     url: "https://www.climatetechhandbook.com",
     baseUrl: "/",
@@ -60,7 +60,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
           },
         },
         navbar: {
-          title: "The Climate Tech Handbook",
+          title: "Climate Tech Handbook",
           // logo: {
           //   alt: "CTH Earth Logo",
           //   src: "img/main/cth-earth-logo.png",
