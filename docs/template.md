@@ -7,7 +7,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 Heavy work in progress
 :::
 
-:::info "[Help us](../../contribute) track this Solution"
+:::info [Help us](contribute) track this Solution
 :::
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
@@ -30,6 +30,11 @@ Heavy work in progress
     linkUrl="../solution-recycled-plastics"
     />
 </div>
+
+:::info Feel free to skip ahead 👉
+If you already know what job function you want, you go straight to selecting your [Climate Solution](solutions)
+:::
+
 
 ---
 
