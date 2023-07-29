@@ -27,6 +27,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             editUrl:
               "https://www.climatetechhandbook.com/admin/#/edit/",
             routeBasePath: "/",
+            showLastUpdateTime: true,
           },
           blog: {
             showReadingTime: true,
@@ -46,7 +47,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
     customFields: {
       statement:
-        "We are here to help you",
+        "We are here to show you how to",
     },
 
     themeConfig:
@@ -68,7 +69,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
           items: [
             {
               type: "doc",
-              docId: "jobseekers",
+              docId: "intro",
               position: "right",
               label: "Job Seekers",
             },
@@ -77,6 +78,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               docId: "resources",
               position: "right",
               label: "Resources",
+            },
+            {
+              type: "doc",
+              docId: "about",
+              position: "right",
+              label: "About Us",
             },
             {
               to: "/contribute",
