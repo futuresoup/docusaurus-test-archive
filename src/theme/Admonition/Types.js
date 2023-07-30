@@ -1,7 +1,8 @@
 import React from 'react';
 import DefaultAdmonitionTypes from '@theme-original/Admonition/Types';
-import './CustomAdmonition.css';
-import '../../../static/custom.css';
+// import './CustomAdmonition.css';
+// import '../../../static/custom.css';
+import './styles.module.css';
 
 function Question(props) {
     return (
@@ -13,11 +14,11 @@ function Question(props) {
 }
 
 const AdmonitionTypes = {
-    extendsDefaults: false,
     ...DefaultAdmonitionTypes,
 
     // custom admonition types go here. 
     'question': Question,
+    extendsDefaults: false,
 };
 
 export default AdmonitionTypes;
