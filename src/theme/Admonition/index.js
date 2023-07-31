@@ -1,6 +1,6 @@
 import React from 'react';
 import clsx from 'clsx';
-import {ThemeClassNames} from '@docusaurus/theme-common';
+import { ThemeClassNames } from '@docusaurus/theme-common';
 import Translate from '@docusaurus/Translate';
 import styles from './styles.module.css';
 function NoteIcon() {
@@ -110,6 +110,19 @@ const AdmonitionConfigs = {
       </Translate>
     ),
   },
+  question: {
+    infimaClassName: 'question',
+    // iconComponent: need to get one of these
+    iconComponent: CautionIcon,
+    label: (
+      <Translate
+        id="theme.admonition.question"
+        description='The default label used for the Question admonition (:::question)'
+      >
+        question
+      </Translate>
+    )
+  }
 };
 // Legacy aliases, undocumented but kept for retro-compatibility
 const aliases = {
@@ -145,7 +158,7 @@ function extractMDXAdmonitionTitle(children) {
   };
 }
 function processAdmonitionProps(props) {
-  const {mdxAdmonitionTitle, rest} = extractMDXAdmonitionTitle(props.children);
+  const { mdxAdmonitionTitle, rest } = extractMDXAdmonitionTitle(props.children);
   return {
     ...props,
     title: props.title ?? mdxAdmonitionTitle,
@@ -153,20 +166,26 @@ function processAdmonitionProps(props) {
   };
 }
 export default function Admonition(props) {
-  const {children, type, title, icon: iconProp} = processAdmonitionProps(props);
+  const { children, type, title, icon: iconProp } = processAdmonitionProps(props);
   const typeConfig = getAdmonitionConfig(type);
   const titleLabel = title ?? typeConfig.label;
-  const {iconComponent: IconComponent} = typeConfig;
+  const { iconComponent: IconComponent } = typeConfig;
   const icon = iconProp ?? <IconComponent />;
+
+  const isQuestionAdmonition = type === 'question';
+  const admonitionClassName = clsx(
+    ThemeClassNames.common.admonition,
+    ThemeClassNames.common.admonitionType(props.type),
+    'alert',
+    `alert--${typeConfig.infimaClassName}`,
+    styles.admonition,
+    {
+      [styles.question]: isQuestionAdmonition,
+    }
+  );
   return (
     <div
-      className={clsx(
-        ThemeClassNames.common.admonition,
-        ThemeClassNames.common.admonitionType(props.type),
-        'alert',
-        `alert--${typeConfig.infimaClassName}`,
-        styles.admonition,
-      )}>
+      className={admonitionClassName}>
       <div className={styles.admonitionHeading}>
         <span className={styles.admonitionIcon}>{icon}</span>
         {titleLabel}

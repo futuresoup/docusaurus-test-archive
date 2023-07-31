@@ -1,8 +1,3 @@
-.admonition__keywords.question {
-  margin-bottom: 1em;
-  color: red;
-}
-
 .admonitionHeading {
   font: var(--ifm-heading-font-weight) var(--ifm-h5-font-size) /
     var(--ifm-heading-line-height) var(--ifm-heading-font-family);
@@ -31,12 +26,15 @@
   margin-bottom: 0;
 }
 
-/* .custom-admonition-container {
-  border: solid red;
+.question {
+  border: 1px solid #64dd17;
+  background-color: #e0fff8;
+  color: #ff9800;
   padding: 10px;
+  margin-bottom: 20px;
 }
-
-.custom-admonition-title {
-  color: green;
-  font-size: 30px;
-} */
+.questionTitle {
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+}
