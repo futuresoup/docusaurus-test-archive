@@ -11,15 +11,41 @@
 
 module.exports = {
   docSidebar: [
+    // {
+    //   type: 'category',
+    //   label: '🏁 Quick Start',
+    //   items: [
+    //     {
+    //       type: 'doc',
+    //       id: 'intro',
+    //       label: 'Intro',
+    //     },
+    //     {
+    //       type: 'doc',
+    //       id: 'level-0',
+    //       label: 'Level 0',
+    //     },
+    //     {
+    //       type: 'doc',
+    //       id: 'level-1',
+    //       label: 'Level 1',
+    //     },
+    //     {
+    //       type: 'doc',
+    //       id: 'level-2',
+    //       label: 'Level 2',
+    //     },
+    //   ],
+    // },
     {
-      type: 'category',
-      label: '🏁 Quick Start',
-      items: ['intro', 'about', 'contribute'],
+      type: 'doc',
+      label: '📓 Intro',
+      id: 'intro',
     },
     {
       type: 'doc',
-      label: '👩🏽‍🚀 Job seekers',
-      id: 'jobseekers',
+      label: '👩🏽‍🚀 Career Guide',
+      id: 'career-guide',
     },
     {
       type: 'category',
@@ -99,12 +125,16 @@ module.exports = {
     },
     {
       type: 'link',
-      label: '🗞️ News',
+      label: '🗞️ Blog',
       href: '/blog',
+    },
+    {
+      type: 'doc',
+      label: '🔥 Contribute',
+      id: 'contribute',
     },
   ],
 };
-
 
 // By default, Docusaurus generates a sidebar from the docs folder structure
 // docSidebar: [
