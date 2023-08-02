@@ -31,6 +31,14 @@ Greentown labs definition, my definition.
 
 ---
 
+How?
+
+Open source content, code, and a community of contributors ready to roll up our sleeves.
+
+We are here to help you show off the perfect climate tech portfolio, change the world, and get paid what you're worth.
+
+---
+
 ## What Level are you?
 
 ## Level 0
