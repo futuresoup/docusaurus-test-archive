@@ -25,7 +25,7 @@ const docSidebar = require('./sidebars'); // Make sure to update the path if nec
           docs: {
             sidebarPath: require.resolve("./sidebars.js"),
             admonitions: {
-              keywords: ['question', 'note', 'info', 'caution', 'danger'],
+              keywords: ['question', `tip`, 'note', 'info', 'caution', 'danger'],
               // extendDefaults: true,
             },
             // Please change this to your repo.
