@@ -65,9 +65,9 @@ export default function Home(): JSX.Element {
         <NewClimateClock countDown={climateCountdown} />
         <HomeCard
           title="Climate Job Seekers"
-          description="You don't have to choose between doing what you love and solving the climate emergency."
+          description="Get paid what your worth while solving humanity's biggest crisis. Is it too good to be true?"
           imageUrl={useBaseUrl("/img/climate-job.png")}
-          linkUrl="/jobseekers"
+          linkUrl="/intro"
         />
 {/*        <HomeCard
           title="Startup Founders"
