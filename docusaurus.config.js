@@ -1,5 +1,6 @@
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const docSidebar = require('./sidebars'); // Make sure to update the path if necessary
 
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
@@ -35,7 +36,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
           },
           blog: {
             showReadingTime: true,
-            // Please change this to your repo.
             editUrl:
               "https://www.climatetechhandbook.com/admin/#/edit/",
           },
@@ -101,46 +101,41 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
         footer: {
           style: "dark",
           links: [
+            // {
+            //   title: "Social",
+            //   items: [
+            //     {
+            //       html: `
+            //         <a href="https://www.linkedin.com/company/climate-tech-handbook/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
+            //           <img src="img/design/icons/linkedin_icon.svg" alt="LinkedIn Icon"/>
+            //         </a>
+            //         <a href="https://www.facebook.com" target="_blank" rel="noreferrer noopener" aria-label="Facebook">
+            //           <img src="img/design/icons/github-mark-white.svg" alt="Facebook Icon" style="margin-right: 8px;"/>
+            //         </a>
+            //         <a href="https://climatetechh.substack.com/" target="_blank" rel="noreferrer noopener" aria-label="Substack">
+            //           <img src="img/design/icons/substack-icon.svg" alt="Substack Icon" style="margin-right: 8px;"/>
+            //         </a>
+            //         <a href="https://www.instagram.com" target="_blank" rel="noreferrer noopener" aria-label="Instagram">
+            //           <img src="img/design/icons/insta_icon.svg" alt="Instagram Icon" style="margin-right: 8px;"/>
+            //         </a>
+            //       `,
+            //     },
+            //   ],
+            // },
             {
-              title: "Social",
+              title: "About",
               items: [
                 {
-                  html: `
-                    <a href="https://www.linkedin.com/company/climate-tech-handbook/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
-                      <img src="img/design/icons/linkedin_icon.svg" alt="LinkedIn Icon"/>
-                    </a>
-                    <a href="https://www.facebook.com" target="_blank" rel="noreferrer noopener" aria-label="Facebook">
-                      <img src="img/design/icons/github-mark-white.svg" alt="Facebook Icon" style="margin-right: 8px;"/>
-                    </a>
-                    <a href="https://climatetechh.substack.com/" target="_blank" rel="noreferrer noopener" aria-label="Substack">
-                      <img src="img/design/icons/substack-icon.svg" alt="Substack Icon" style="margin-right: 8px;"/>
-                    </a>
-                    <a href="https://www.instagram.com" target="_blank" rel="noreferrer noopener" aria-label="Instagram">
-                      <img src="img/design/icons/insta_icon.svg" alt="Instagram Icon" style="margin-right: 8px;"/>
-                    </a>
-                  `,
-                },
-              ],
-            },
-            {
-              title: "About Us",
-              items: [
-                {
-                  label: "About The Handbook",
+                  label: "About Us",
                   to: "/about",
                 },
                 {
                   label: "Contribute",
                   to: "/contribute",
                 },
-              ],
-            },
-            {
-              title: "News",
-              items: [
                 {
                   label: "Blog",
-                  href: "/blog",
+                  to: "/blog",
                 },
               ],
             },
