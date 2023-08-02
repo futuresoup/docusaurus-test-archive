@@ -10,7 +10,7 @@ const docSidebar = require('./sidebars'); // Make sure to update the path if nec
     tagline: "Get paid to save planet earth",
     url: "https://www.climatetechhandbook.com",
     baseUrl: "/",
-    onBrokenLinks: "ignore",
+    onBrokenLinks: "warn",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/main/favicon.ico",
     organizationName: "The Climate Tech Handbook", // Usually your GitHub org/user name.
