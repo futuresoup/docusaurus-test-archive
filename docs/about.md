@@ -2,7 +2,7 @@
 Title: About the Handbook
 ---
 
-# About the Handbook
+# About Us
 
 ![Cover Image](../static/img/offshore-wind-farm.jpg)
 

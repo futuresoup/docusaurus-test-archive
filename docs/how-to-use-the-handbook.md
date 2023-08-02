@@ -3,7 +3,7 @@ order: 900
 # icon: megaphone
 ---
 
-# How to use this handbook
+# How to use the Handbook
 
 The handbook is designed to be accessible yet comprehensive.
 

@@ -15,3 +15,7 @@ Until we get this formalized, please use the following as guidelines:
 ## Text formatting
 
 * External URLs - use standard hyperlink format - [example hyperlink](https://example.com)
+
+## Word choice & branding
+
+"The Handbook"
