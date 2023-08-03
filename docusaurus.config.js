@@ -23,7 +23,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
         ({
           docs: {
             sidebarPath: require.resolve("./sidebars.js"),
-            // Please change this to your repo.
             editUrl:
               "https://www.climatetechhandbook.com/admin/#/edit/",
             routeBasePath: "/",
@@ -53,7 +52,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
     themeConfig:
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
-        displayedSidebar: 'docSidebar',
         docs: {
           sidebar: {
             hideable: true,
