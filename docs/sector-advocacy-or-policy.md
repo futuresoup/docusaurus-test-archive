@@ -1,8 +1,6 @@
 ---
 title: Advocacy or Policy
 displayed_sidebar: docSidebar
-Description: null
-icon: fontawesome/solid/hand
 ---
 
 ## Sector Overview

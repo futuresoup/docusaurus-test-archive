@@ -1,7 +1,6 @@
 ---
 title: Food, Agriculture and Land Use
 displayed_sidebar: docSidebar
-Description: null
 hide_table_of_contents: true
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';

@@ -1,8 +1,6 @@
 ---
 title: Media and Journalism
 displayed_sidebar: docSidebar
-Description: null
-icon: fontawesome/solid/pencil
 ---
 
 ## Sector Overview

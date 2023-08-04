@@ -1,8 +1,6 @@
 ---
 title: Engineered Sinks
 displayed_sidebar: docSidebar
-Description: null
-icon: material/chart-bubble
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
