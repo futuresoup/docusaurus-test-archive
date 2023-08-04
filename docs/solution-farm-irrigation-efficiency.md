@@ -1,5 +1,6 @@
 ---
 title: Farm Irrigation Efficiency
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](/../static/img/farm-irrigation-efficiency.png)

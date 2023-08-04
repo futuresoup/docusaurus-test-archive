@@ -1,5 +1,6 @@
 ---
 title: Small Hydropower
+displayed_sidebar: docSidebar
 ---
 ![In a basic Micro Hydro Power Plant (MHPP), water is extracted directly from its natural course, driven downhill via a penstock, and led into a powerhouse for power generation.](/../static/img/small-hydropower.png)
 

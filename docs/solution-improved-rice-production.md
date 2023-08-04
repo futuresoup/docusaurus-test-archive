@@ -1,5 +1,6 @@
 ---
 title: Improved Rice Production
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/improved-rice-production.jpg)

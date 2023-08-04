@@ -1,5 +1,6 @@
 ---
 title: Intro
+displayed_sidebar: docSidebar
 ---
 
 :::caution

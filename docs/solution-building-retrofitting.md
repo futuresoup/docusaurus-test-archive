@@ -1,5 +1,6 @@
 ---
 title: Building Retrofitting
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/building-retrofitting.jpg)

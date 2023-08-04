@@ -1,5 +1,6 @@
 ---
 title: Multistrata Agroforestry
+displayed_sidebar: docSidebar
 ---
 
 # Multistrata Agroforestry

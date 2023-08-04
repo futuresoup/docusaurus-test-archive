@@ -1,5 +1,6 @@
 ---
 title: Level 1
+displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 

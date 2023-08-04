@@ -1,5 +1,6 @@
 ---
 title: Industry
+displayed_sidebar: docSidebar
 Description: null
 hide_table_of_contents: true
 ---

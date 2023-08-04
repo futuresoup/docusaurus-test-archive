@@ -1,5 +1,6 @@
 ---
 title: Career Guide
+displayed_sidebar: docSidebar
 ---
 # Career Guide
 

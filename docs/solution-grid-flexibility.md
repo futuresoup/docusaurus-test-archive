@@ -1,5 +1,6 @@
 ---
 title: Grid Flexibility
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/grid-flexibility.jpg)

@@ -1,5 +1,6 @@
 ---
 title: Climate Adaptation - New York City
+displayed_sidebar: docSidebar
 ---
 ![](../static/img/climate-adaptation-new-york.jpg)
 

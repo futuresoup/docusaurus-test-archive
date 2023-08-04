@@ -1,5 +1,6 @@
 ---
 title: Smart Thermostats
+displayed_sidebar: docSidebar
 ---
 ![Smart thermostat with local and wireless UI and secure cloud data upload vs. traditional AC system control.](/../static/img/smart-thermostats.webp)
 

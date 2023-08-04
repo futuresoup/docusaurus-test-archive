@@ -1,5 +1,6 @@
 ---
 title: Silvopasture
+displayed_sidebar: docSidebar
 ---
 ![An example layout of a silvopasture system showing alley width, row spacing, and tree sets for establishing a silvopasture system in the existing pasture](/../static/img/silvopasture.jpg)
 

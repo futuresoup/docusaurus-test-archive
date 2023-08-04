@@ -1,5 +1,6 @@
 ---
 title: Insulation
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](https://images.unsplash.com/photo-1607400201889-565b1ee75f8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxJbnN1bGF0aW9ufGVufDB8fHx8MTY4MzY1OTM5NQ&ixlib=rb-4.0.3&q=80&w=1080)

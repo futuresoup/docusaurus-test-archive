@@ -1,5 +1,6 @@
 ---
 title: Net Zero Buildings
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/net-zero-buildings.jpg)

@@ -1,5 +1,6 @@
 ---
 title: Alternative Refrigerants
+displayed_sidebar: docSidebar
 displayedSidebar: docSidebar
 ---
 

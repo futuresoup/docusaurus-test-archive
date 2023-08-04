@@ -1,5 +1,6 @@
 ---
 title: Recycling
+displayed_sidebar: docSidebar
 ---
 ![](/../static/img/recycling.png)
 

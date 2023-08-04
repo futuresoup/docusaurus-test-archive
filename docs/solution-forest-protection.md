@@ -1,5 +1,6 @@
 ---
 title: Forest Protection
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/forest-protection.jpg)

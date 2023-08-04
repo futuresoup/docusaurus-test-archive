@@ -1,5 +1,6 @@
 ---
 title: Coastal Wetland Protection
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/living-shorelines.png)

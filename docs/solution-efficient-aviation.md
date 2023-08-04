@@ -1,5 +1,6 @@
 ---
 title: Efficient Aviation
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/electric-aircraft.jpg)

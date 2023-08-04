@@ -1,5 +1,6 @@
 ---
 title: Improved Manure Management
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/manure-management.jpg)

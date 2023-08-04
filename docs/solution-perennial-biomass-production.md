@@ -1,5 +1,6 @@
 ---
 title: Perennial Biomass Production
+displayed_sidebar: docSidebar
 ---
 ![This picture compares annual and perennial plants as well as highlight the ability of perennial plants to sequester or hold carbon and decrease runoff and erosion.](/../static/img/perennial-biomass-production.webp)
 

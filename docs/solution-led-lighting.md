@@ -1,5 +1,6 @@
 ---
 title: LED Lighting
+displayed_sidebar: docSidebar
 ---
 ![](/../static/img/led-lighting.jpg)
 

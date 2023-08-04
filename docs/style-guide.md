@@ -1,5 +1,6 @@
 ---
 title: Style Guide
+displayed_sidebar: docSidebar
 ---
 :::caution Heavy work in progress
 :::

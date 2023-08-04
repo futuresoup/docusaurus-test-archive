@@ -1,5 +1,6 @@
 ---
 title: Climate Adaptation
+displayed_sidebar: docSidebar
 Description: null
 icon: material/thermometer-chevron-up
 ---

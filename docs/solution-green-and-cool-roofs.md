@@ -1,5 +1,6 @@
 ---
 title: Green and Cool Roofs
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/green-roofing.png)

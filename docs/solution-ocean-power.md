@@ -1,5 +1,6 @@
 ---
 title: Ocean Power
+displayed_sidebar: docSidebar
 ---
 ![Wave energy converters use surface waves to generate power. Ocean thermal energy converter (OTEC) power plants convert the thermal differences between warm surface seawater and cold deep seawater into power.](/../static/img/ocean-power.png)
 

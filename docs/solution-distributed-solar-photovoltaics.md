@@ -1,5 +1,6 @@
 ---
 title: Distributed Solar Photovoltaics
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxEaXN0cmlidXRlZCUyMFNvbGFyJTIwUGhvdG92b2x0YWljc3xlbnwwfHx8fDE2ODM2NTg0MzY&ixlib=rb-4.0.3&q=80&w=1080)

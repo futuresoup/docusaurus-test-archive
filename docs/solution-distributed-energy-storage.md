@@ -1,5 +1,6 @@
 ---
 title: Distributed Energy Storage
+displayed_sidebar: docSidebar
 ---
 
 ![Distributed Energy Storage diagram](../static/img/distributed-energy-storage.jpg)

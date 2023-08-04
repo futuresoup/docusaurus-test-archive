@@ -1,5 +1,6 @@
 ---
 title: Nature Based Solutions
+displayed_sidebar: docSidebar
 ---
 
 ![soil carbon capture](../static/img/soil-carbon-capture.jpg)

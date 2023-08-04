@@ -1,5 +1,6 @@
 ---
 title: Efficient Trucks
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/fuel-efficient-trucks.jpg)

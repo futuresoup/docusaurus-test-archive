@@ -1,5 +1,6 @@
 ---
 title: Critical Minerals
+displayed_sidebar: docSidebar
 ---
 :::caution
 Heavy work in progress

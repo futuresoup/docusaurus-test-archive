@@ -1,5 +1,6 @@
 ---
 title: Indigenous Peoples’ Forest Tenure
+displayed_sidebar: docSidebar
 ---
 ![image](/../static/img/indigenous-peoples-forest-tenure.jpg)
 

@@ -1,5 +1,6 @@
 ---
 title: Waste to Energy
+displayed_sidebar: docSidebar
 ---
 ![Waste is mixed, combusted, and repeatedly turned for thorough burning. Fly ash and acidic gases are neutralized, metals extracted for recycling, and remaining ash used in construction. Steam powers a generator, with cooling steam reused or diverted for heating. Finally, activated carbon and ammonia injections remove heavy metals and neutralize nitrogen oxides, while high temperatures destroy dioxins and furans.](/../static/img/waste-to-energy.jpg)
 

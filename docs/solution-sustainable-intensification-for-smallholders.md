@@ -1,5 +1,6 @@
 ---
 title: Sustainable Intensification for Smallholders
+displayed_sidebar: docSidebar
 ---
 ![The schematic of a smallholder farming system shows socio-ecological interactions influencing ecosystem services/disservices, production, and social dynamics, all impacting food security.](/../static/img/sustainable-intensification-for-smallholders.jpg)
 

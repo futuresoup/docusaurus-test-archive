@@ -1,5 +1,6 @@
 ---
 title: Geothermal Power
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/geothermal-power.jpg)

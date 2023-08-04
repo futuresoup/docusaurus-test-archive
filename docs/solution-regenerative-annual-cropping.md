@@ -1,5 +1,6 @@
 ---
 title: Regenerative Annual Cropping
+displayed_sidebar: docSidebar
 ---
 ![Regenerative agriculture enhances ecosystem function, maximizing water absorption, photosynthesis, and carbon sequestration.](/../static/img/regenerative-annual-cropping.jpg)
 

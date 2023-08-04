@@ -1,5 +1,6 @@
 ---
 title: Electric Trains
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/electric-train.jpg)

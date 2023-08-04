@@ -1,5 +1,6 @@
 ---
 title: Utility-Scale Energy Storage
+displayed_sidebar: docSidebar
 ---
 ![](/../static/img/utility-scale-energy-storage.jpg)
 
