@@ -1,5 +1,6 @@
 ---
 title: Carpooling
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/carpooling.png)

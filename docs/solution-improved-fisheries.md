@@ -1,5 +1,6 @@
 ---
 title: Improved Fisheries
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/improved-fisheries.jpg)

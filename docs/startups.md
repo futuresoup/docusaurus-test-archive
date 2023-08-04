@@ -1,5 +1,6 @@
 ---
 title: Investors
+displayed_sidebar: docSidebar
 ---
 
 :::caution

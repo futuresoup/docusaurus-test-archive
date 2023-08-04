@@ -1,5 +1,6 @@
 ---
 title: Biomass Power
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/biomass-power-plant.jpg)

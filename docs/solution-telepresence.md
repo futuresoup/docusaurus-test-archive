@@ -1,5 +1,6 @@
 ---
 title: Telepresence
+displayed_sidebar: docSidebar
 ---
 ![CO2 emissions per Lyon-Paris round trip: telepresence robots 0kg, combustion car 179.80kg, electric car 18.44kg, train 2.82kg, airplane 142kg.](/../static/img/telepresence.png)
 

@@ -1,5 +1,6 @@
 ---
 title: Recycled Paper
+displayed_sidebar: docSidebar
 ---
 ![](/../static/img/recycled-paper.jpg)
 

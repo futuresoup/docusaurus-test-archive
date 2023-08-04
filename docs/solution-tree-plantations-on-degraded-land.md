@@ -1,5 +1,6 @@
 ---
 title: Tree Plantations (on Degraded Land)
+displayed_sidebar: docSidebar
 ---
 ![](/../static/img/tree-plantations-on-degraded-land-.jpg)
 

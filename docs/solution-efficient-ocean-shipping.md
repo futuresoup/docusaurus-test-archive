@@ -1,5 +1,6 @@
 ---
 title: Efficient Ocean Shipping
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/efficient-ocean-shipping.png)

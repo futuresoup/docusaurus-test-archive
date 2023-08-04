@@ -1,5 +1,6 @@
 ---
 title: Coastal Wetland Restoration
+displayed_sidebar: docSidebar
 ---
 
 ![NOAA’s Largest Wetland Restoration Project Underway in Louisiana](../static/img/coastal-wetland-restoration.jpg)

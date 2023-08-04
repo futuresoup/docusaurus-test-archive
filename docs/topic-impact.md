@@ -1,5 +1,6 @@
 ---
 title: Impact
+displayed_sidebar: docSidebar
 ---
 :::caution
 Heavy work in progress

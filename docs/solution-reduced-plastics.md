@@ -1,5 +1,6 @@
 ---
 title: Reduced Plastics
+displayed_sidebar: docSidebar
 ---
 ![Ways to reduce plastic waste such as bringing your own reusable shopping bags](/../static/img/reduced-plastics.webp)
 

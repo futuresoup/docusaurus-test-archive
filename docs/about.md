@@ -1,5 +1,6 @@
 ---
-Title: About the Handbook
+title: About the Handbook
+displayed_sidebar: docSidebar
 ---
 
 # About Us

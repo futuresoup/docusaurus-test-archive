@@ -1,5 +1,6 @@
 ---
 title: Landfill Methane Capture
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](/../static/img/landfill-methane-capture.gif)

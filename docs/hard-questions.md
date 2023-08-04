@@ -1,5 +1,6 @@
 ---
 title: Hard Questions
+displayed_sidebar: docSidebar
 ---
 :::caution Heavy work in progress
 

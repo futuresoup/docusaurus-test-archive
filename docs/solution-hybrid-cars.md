@@ -1,5 +1,6 @@
 ---
 title: Hybrid Cars
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/hybrid-car.jpg)

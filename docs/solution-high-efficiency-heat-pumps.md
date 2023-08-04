@@ -1,5 +1,6 @@
 ---
 title: High-Efficiency Heat Pumps
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/high-efficiency-heat-pumps.png)

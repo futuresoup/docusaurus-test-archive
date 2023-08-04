@@ -1,5 +1,6 @@
 ---
 title: Glossary
+displayed_sidebar: docSidebar
 ---
 # Glossary
 

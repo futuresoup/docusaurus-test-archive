@@ -1,5 +1,6 @@
 ---
 title: Refrigerant Management
+displayed_sidebar: docSidebar
 ---
 ![Institutions and governments can slow climate change by regulating and reducing halocarbon refrigerant use.](/../static/img/refrigerant-management.png)
 

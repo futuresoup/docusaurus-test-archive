@@ -1,5 +1,6 @@
 ---
 title: Replace with Page 
+displayed_sidebar: docSidebar
 ---
 :::caution
 Heavy work in progress

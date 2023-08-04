@@ -1,5 +1,6 @@
 ---
 title: Companies
+displayed_sidebar: docSidebar
 ---
 # Climate Tech Companies
 

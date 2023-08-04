@@ -1,5 +1,6 @@
 ---
 title: Offshore Wind Turbines
+displayed_sidebar: docSidebar
 ---
 ![Cover Image](/../static/img/offshore-wind-turbines.jpg)
 

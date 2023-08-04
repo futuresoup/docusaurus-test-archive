@@ -1,6 +1,6 @@
 ---
 title: Bamboo Production
-displayedSidebar: docSidebar
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/bamboo-farm.jpg)

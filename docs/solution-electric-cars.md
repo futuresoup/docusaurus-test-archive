@@ -1,5 +1,6 @@
 ---
 title: Electric Cars
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/electric-car.jpg)

@@ -1,5 +1,6 @@
 ---
 title: Temperate Forest Restoration
+displayed_sidebar: docSidebar
 ---
 ![Assisted migration of Abies religiosa 275m upward might be necessary for climate mitigation and to maintain its function for Danaus plexippus.](/../static/img/temperate-forest-restoration.webp)
 

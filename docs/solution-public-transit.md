@@ -1,5 +1,6 @@
 ---
 title: Public Transit
+displayed_sidebar: docSidebar
 ---
 ![](/../static/img/public-transit.webp)
 

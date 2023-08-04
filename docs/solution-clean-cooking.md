@@ -1,5 +1,6 @@
 ---
 title: Clean Cooking
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/clean-cooking.jpg)

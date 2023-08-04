@@ -1,5 +1,6 @@
 ---
 title: playground
+displayed_sidebar: docSidebar
 ---
 
 A place to experiment with new code or formatting snippets.

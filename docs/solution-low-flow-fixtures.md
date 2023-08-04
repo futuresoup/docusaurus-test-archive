@@ -1,5 +1,6 @@
 ---
 title: Low-Flow Fixtures
+displayed_sidebar: docSidebar
 ---
 ![](/../static/img/low-flow-fixtures.png)
 

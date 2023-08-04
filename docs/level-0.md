@@ -1,5 +1,6 @@
 ---
 title: 🕹️ Welcome to Level 0
+displayed_sidebar: docSidebar
 pagination_label: 🕹️ Level 0
 ---
 

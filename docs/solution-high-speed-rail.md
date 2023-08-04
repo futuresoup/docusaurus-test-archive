@@ -1,5 +1,6 @@
 ---
 title: High-Speed Rail
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/high-speed-rail.jpg)

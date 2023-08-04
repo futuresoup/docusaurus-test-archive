@@ -1,5 +1,6 @@
 ---
 title: Solar Hot Water
+displayed_sidebar: docSidebar
 ---
 ![](/../static/img/solar-hot-water.webp)
 

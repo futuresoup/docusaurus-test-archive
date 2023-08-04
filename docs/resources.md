@@ -1,5 +1,6 @@
 ---
 title: Resource Library
+displayed_sidebar: docSidebar
 ---
 
 # Resource Library

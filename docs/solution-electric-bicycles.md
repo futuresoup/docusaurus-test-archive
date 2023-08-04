@@ -1,5 +1,6 @@
 ---
 title: Electric Bicycles
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](https://images.unsplash.com/photo-1673969694073-23681e038413?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxFbGVjdHJpYyUyMEJpY3ljbGVzfGVufDB8fHx8MTY4MzY1ODY2MA&ixlib=rb-4.0.3&q=80&w=1080)

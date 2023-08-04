@@ -1,5 +1,6 @@
 ---
 title: Reduced Food Waste
+displayed_sidebar: docSidebar
 ---
 ![](/../static/img/reduced-food-waste.png)
 

@@ -1,5 +1,6 @@
 ---
 title: Tree Intercropping
+displayed_sidebar: docSidebar
 ---
 ![Wheat-Pea intercropping increased water use efficiency ](/../static/img/tree-intercropping.jpg)
 

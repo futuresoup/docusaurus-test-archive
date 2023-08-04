@@ -1,5 +1,6 @@
 ---
 title: Dynamic Glass
+displayed_sidebar: docSidebar
 ---
 
 ![Cover Image](../static/img/dynamic-glass.jpg)

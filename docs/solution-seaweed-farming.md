@@ -1,5 +1,6 @@
 ---
 title: Seaweed Farming
+displayed_sidebar: docSidebar
 ---
 ![](/../static/img/seaweed-farming.jpg)
 

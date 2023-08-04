@@ -1,5 +1,6 @@
 ---
 title: Walkable Cities
+displayed_sidebar: docSidebar
 ---
 ![](/../static/img/walkable-cities.webp)
 

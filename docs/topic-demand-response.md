@@ -1,5 +1,6 @@
 ---
 title: Demand Response
+displayed_sidebar: docSidebar
 ---
 
 !!! warning "Heavy work in progress"

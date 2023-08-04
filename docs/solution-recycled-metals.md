@@ -1,5 +1,6 @@
 ---
 title: Recycled Metals
+displayed_sidebar: docSidebar
 ---
 ![](/../static/img/recycled-metals.jpg)
 
