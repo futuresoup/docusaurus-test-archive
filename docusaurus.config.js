@@ -103,14 +103,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                     <a href="https://www.linkedin.com/company/climate-tech-handbook/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
                       <img src="img/design/icons/linkedin_icon.svg" alt="LinkedIn Icon"/>
                     </a>
-                    <a href="https://www.facebook.com" target="_blank" rel="noreferrer noopener" aria-label="Facebook">
-                      <img src="img/design/icons/github-mark-white.svg" alt="Facebook Icon" style="margin-right: 8px;"/>
+                    <a href="https://github.com/climate-tech-handbook" target="_blank" rel="noreferrer noopener" aria-label="Github">
+                      <img src="img/design/icons/github-mark-white.svg" alt="Github Icon" style="margin-right: 8px; width: 40px;" />
                     </a>
-                    <a href="https://climatetechh.substack.com/" target="_blank" rel="noreferrer noopener" aria-label="Substack">
-                      <img src="img/design/icons/substack-icon.svg" alt="Substack Icon" style="margin-right: 8px;"/>
-                    </a>
-                    <a href="https://www.instagram.com" target="_blank" rel="noreferrer noopener" aria-label="Instagram">
-                      <img src="img/design/icons/insta_icon.svg" alt="Instagram Icon" style="margin-right: 8px;"/>
+                    <a href="https://chat.climatetechhandbook.com" target="_blank" rel="noreferrer noopener" aria-label="Slack">
+                      <img src="img/design/icons/slack_icon.png" alt="Instagram Icon" style="margin-right: 8px; width: 40px;"/>
                     </a>
                   `,
                 },
