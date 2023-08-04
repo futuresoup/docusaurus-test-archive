@@ -1,7 +1,6 @@
 ---
 title: Climate Adaptation
 displayed_sidebar: docSidebar
-Description: null
 icon: material/thermometer-chevron-up
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';

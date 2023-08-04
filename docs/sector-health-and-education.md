@@ -1,8 +1,6 @@
 ---
 title: Health and Education
 displayed_sidebar: docSidebar
-Description: null
-icon: material/heart-plus
 ---
 
 ## Sector Overview
