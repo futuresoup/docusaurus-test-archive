@@ -100,15 +100,15 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               items: [
                 {
                   html: `
+                    </a>
+                    <a href="https://chat.climatetechhandbook.com" target="_blank" rel="noreferrer noopener" aria-label="Slack">
+                      <img src="img/design/icons/slack_icon.png" alt="Instagram Icon" style="margin-right: 8px; width: 40px;"/>
+                    </a>
                     <a href="https://www.linkedin.com/company/climate-tech-handbook/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
                       <img src="img/design/icons/linkedin_icon.svg" alt="LinkedIn Icon"/>
                     </a>
                     <a href="https://github.com/climate-tech-handbook" target="_blank" rel="noreferrer noopener" aria-label="Github">
                       <img src="img/design/icons/github-mark-white.svg" alt="Github Icon" style="margin-right: 8px; width: 40px;" />
-                    </a>
-                    <a href="https://chat.climatetechhandbook.com" target="_blank" rel="noreferrer noopener" aria-label="Slack">
-                      <img src="img/design/icons/slack_icon.png" alt="Instagram Icon" style="margin-right: 8px; width: 40px;"/>
-                    </a>
                   `,
                 },
               ],
