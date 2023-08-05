@@ -1,6 +1,7 @@
 ---
 title: Health and Education
 displayed_sidebar: docSidebar
+hide_table_of_contents: true
 ---
 
 ## Sector Overview
