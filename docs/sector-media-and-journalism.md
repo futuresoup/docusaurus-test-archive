@@ -1,6 +1,7 @@
 ---
 title: Media and Journalism
 displayed_sidebar: docSidebar
+hide_table_of_contents: true
 ---
 
 ## Sector Overview
