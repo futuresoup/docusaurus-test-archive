@@ -14,7 +14,10 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
     favicon: "img/main/favicon.ico",
     organizationName: "The Climate Tech Handbook", // Usually your GitHub org/user name.
     projectName: "The Climate Tech Handbook", // Usually your repo name.
-    plugins: [require.resolve('docusaurus-lunr-search')],
+    plugins: [
+      require.resolve('docusaurus-lunr-search')
+      require.resolve('docusaurus-plugin-image-zoom')
+    ],
 
     presets: [
       [
