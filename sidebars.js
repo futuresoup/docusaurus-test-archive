@@ -44,18 +44,17 @@ module.exports = {
     },
     {
       type: 'doc',
-      label: '👩🏽‍🚀 Career Guide',
+      label: '👩🏽‍🚀  Career Guide',
       id: 'career-guide',
     },
     {
       type: 'category',
       label: '✅ Climate Solutions',
+      link: {
+        type: 'doc',
+        id: 'solutions',
+      },
       items: [
-        {
-          type: 'doc',
-          label: '⭐️ What are Climate Solutions?',
-          id: 'solutions',
-        },
         {
           type: 'doc',
           label: 'Electricity',
