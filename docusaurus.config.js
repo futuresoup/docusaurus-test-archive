@@ -15,8 +15,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
     organizationName: "The Climate Tech Handbook", // Usually your GitHub org/user name.
     projectName: "The Climate Tech Handbook", // Usually your repo name.
     plugins: [
-      require.resolve('docusaurus-lunr-search')
-      require.resolve('docusaurus-plugin-image-zoom')
+      require.resolve('docusaurus-lunr-search'),
+      require.resolve('docusaurus-plugin-image-zoom'),
     ],
 
     presets: [
@@ -60,6 +60,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             hideable: true,
             autoCollapseCategories: true,
           },
+        },
+        zoom: {
+          selector: '.markdown :not(em) > img',
+          background: {
+            light: 'rgb(255, 255, 255)',
+            dark: 'rgb(50, 50, 50)'
+            },
         },
         navbar: {
           title: "Climate Tech Handbook",
