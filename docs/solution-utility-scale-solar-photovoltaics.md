@@ -1,6 +1,7 @@
 ---
 title: Utility-Scale Solar Photovoltaics
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![NREL Illustration of Typical Ground-Mounted Utility-Scale Solar PV Installation](/../static/img/utility-scale-solar-photovoltaics.jpg)
 

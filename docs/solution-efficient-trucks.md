@@ -1,6 +1,7 @@
 ---
 title: Efficient Trucks
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](../static/img/fuel-efficient-trucks.jpg)

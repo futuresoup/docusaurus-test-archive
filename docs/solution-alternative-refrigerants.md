@@ -1,6 +1,7 @@
 ---
 title: Alternative Refrigerants
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](../static/img/co2-refrigeration.jpg)

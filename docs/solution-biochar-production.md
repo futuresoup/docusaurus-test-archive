@@ -1,6 +1,7 @@
 ---
 title: Biochar Production
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](../static/img/biochar-kiln.jpg)

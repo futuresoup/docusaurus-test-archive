@@ -1,9 +1,6 @@
 ---
-order: 900
-# icon: megaphone
+title: How to use the Handbook
 ---
-
-# How to use the Handbook
 
 The handbook is designed to be accessible yet comprehensive.
 

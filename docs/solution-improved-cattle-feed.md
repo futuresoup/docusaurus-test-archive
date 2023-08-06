@@ -1,6 +1,7 @@
 ---
 title: Improved Cattle Feed
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](../static/img/improved-cattle-feed.png)

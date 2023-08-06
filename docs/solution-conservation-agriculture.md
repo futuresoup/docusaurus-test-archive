@@ -1,6 +1,7 @@
 ---
 title: Conservation Agriculture
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](../static/img/conservation-agriculture.jpg)

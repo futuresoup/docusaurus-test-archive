@@ -1,6 +1,7 @@
 ---
 title: Recycled Plastics
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![The process of plastic recycling: collection, sorting, baling, shredding and cleaning, melting and extrusion, pelletizing.](/../static/img/recycled-plastics.png)
 

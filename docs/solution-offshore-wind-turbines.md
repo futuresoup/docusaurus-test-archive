@@ -1,6 +1,7 @@
 ---
 title: Offshore Wind Turbines
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![Cover Image](/../static/img/offshore-wind-turbines.jpg)
 

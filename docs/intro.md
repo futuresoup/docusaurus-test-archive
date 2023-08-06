@@ -44,7 +44,7 @@ and we are **building it together**.
 
 With 🌍📓 The Climate Tech Handbook you will:
 
-1. Find the **[right problem](solutions)** to solve
+1. Find the **[right solution](solutions)** to work on
 2. Find the **right organization** solving it
 3. Make sure you **want to work there**
 4. Land the best **job offer**

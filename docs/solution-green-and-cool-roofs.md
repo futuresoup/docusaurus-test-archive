@@ -1,6 +1,7 @@
 ---
 title: Green and Cool Roofs
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](../static/img/green-roofing.png)

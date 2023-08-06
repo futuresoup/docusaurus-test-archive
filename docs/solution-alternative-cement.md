@@ -1,6 +1,7 @@
 ---
 title: Alternative Cement
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cement Factory](../static/img/cement-factory.jpg)

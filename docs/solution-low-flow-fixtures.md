@@ -1,6 +1,7 @@
 ---
 title: Low-Flow Fixtures
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![](/../static/img/low-flow-fixtures.png)
 

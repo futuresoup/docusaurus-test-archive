@@ -5,12 +5,20 @@ hide_table_of_contents: true
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
-# Yes we know exactly how to solve the climate crisis
+# Climate Solutions
 
-We have all the science and technology needed to win this critical decade.
+### Good news!
+
+We already have the science and technology needed to win this critical decade.
+
+We just need to scale up in the next 5-10 years
 
 :::info What is Project Drawdown?
-thanks to the [Project Drawdown framework](../glossary#project-drawdown).
+The Handbook is based off of the [Project Drawdown](drawdown.org) solutions framework.
+
+Below is a list of all 93 Drawdown Solutions organized by sector.
+
+Each solution comes with a calculated number of greenhouse emissions that need to be reduced each year to stay below 2C average temperature.
 :::
 
 
@@ -80,7 +88,7 @@ thanks to the [Project Drawdown framework](../glossary#project-drawdown).
     />
     <ImageCard 
         title="Media and Journalism"
-        description="Media and journalism can drive systemic change, mobilize public support, and hold those in power accountable."
+        description="Essential to drive systemic change, mobilize public support, and hold those in power accountable."
         imageUrl="/img/journalism.jpg"
         linkUrl="sector-media-and-journalism"
     />

@@ -1,6 +1,7 @@
 ---
 title: High-Performance Glass
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](../static/img/high-performance-glass.png)

@@ -1,6 +1,7 @@
 ---
 title: Seaweed Farming
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![](/../static/img/seaweed-farming.jpg)
 

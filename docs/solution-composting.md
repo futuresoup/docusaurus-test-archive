@@ -1,6 +1,7 @@
 ---
 title: Composting
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](../static/img/commercial-composting.jpg)

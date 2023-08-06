@@ -1,6 +1,7 @@
 ---
 title: Solar Hot Water
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![](/../static/img/solar-hot-water.webp)
 

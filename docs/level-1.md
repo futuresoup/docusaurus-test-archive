@@ -43,6 +43,13 @@ If you already know what job function you want, you go straight to selecting you
 
 Text
 
-## Header 2
+## Information Diet
 
-Text
+### Productivity tips
+[video]
+* Tab jockey
+* Slack jockey
+* Keyboard saxaphone
+	* Shortcuts
+	* Paste buffer
+* Podcast habit

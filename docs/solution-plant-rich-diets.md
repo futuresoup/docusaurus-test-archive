@@ -1,6 +1,7 @@
 ---
 title: Plant-Rich Diets / Meat alternatives
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![](/../static/img/plant-rich-diets.png)
 
