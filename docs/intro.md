@@ -5,9 +5,11 @@ displayed_sidebar: docSidebar
 ## What are you doing in the next 5 years?
 
 ![ikigai](../static/img/Climate+Action+Venn+diagram.jpg)
+
 _Climate Action Venn Diagram - by [Ayana Elizabeth Johnson](https://www.ayanaelizabeth.com/climatevenn)_
 
-The truth is that **humanity needs your more than ever**.
+
+### Humanity needs you right now.
 
 :::note the hard reality
 
@@ -48,9 +50,9 @@ With 🌍📓 The Climate Tech Handbook you will:
 4. Land the best **job offer**
 5. Succeed in your **first 90 days**
 
-```
-When you come to a fork in the road, take it.
+<br/>
 
-  - Yogi Berra
-```
+>"_When you come to a fork in the road, take it._"
+>    -Yogi Berra
+
 ## Welcome to your fork in the road
