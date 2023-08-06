@@ -10,8 +10,6 @@ date: 2023-08-06
 
 Hey folks 👋  thanks for stopping by!
 
-![test](jacob-headshot.jpg)
-
 I started The Climate Tech Handbook because I knew two things:
 
 1. I wanted to spend every second I could working on the climate emergency
