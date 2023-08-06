@@ -2,85 +2,55 @@
 title: Intro
 displayed_sidebar: docSidebar
 ---
+## What are you doing in the next 5 years?
 
-:::caution
-Heavy work in progress
+![ikigai](../static/img/Climate+Action+Venn+diagram.jpg)
+_Climate Action Venn Diagram - by [Ayana Elizabeth Johnson](https://www.ayanaelizabeth.com/climatevenn)_
+
+The truth is that **humanity needs your more than ever**.
+
+:::note the hard reality
+
+- **We only have about 5 years** - until we hit 1.5C average warming. <!--make url-->
+- **We are way off target** - we need to reduce greenhouse pollution by 50% before 2030, and 100% before 2050.
+- **People are suffering** - [5 million deaths per year](https://grist.org/climate/how-many-people-has-climate-change-killed-already/) and [billions of economic damage](https://www.climate.gov/news-features/blogs/beyond-data/2021-us-billion-dollar-weather-and-climate-disasters-historical) already.
 :::
 
-# Getting a job is hard
+No wonder you feel **powerless and overwhelmed**.
 
-![stress]
+_but guess what..._
 
-Getting a job in climate tech is even harder.
+:::tip there is hope
+## It's not all bad news!
+- **There are over 4,000 companies** - solving the climate crisis
+- **Many of these organizations are hiring** - and will continue to hire
+- **Hundreds of billions of dollars** - are being poured into this problem, and more money is coming
+:::
 
-### Handbook:
-![example handbooks]
+<!--add emojis?-->
 
-A quick handy guide to get you where you want to go
-
---venn diagram ??
-
-Greentown labs definition, my definition.
-
---3 levels, image cards
-
---The new industrial revolution is here
-
---Optimism
-
---The challenging parts
+## This is the Handbook you've been looking for
 
 ---
 
-How?
+![Golden Book](../static/img/golden-book.png)
 
-Open source content, code, and a community of contributors ready to roll up our sleeves.
+There is a path to **save planet earth and get paid what you're worth**
 
-We are here to help you show off the perfect climate tech portfolio, change the world, and get paid what you're worth.
+and we are **building it together**.
+### We are going to help you every step of the way.
 
----
+With 🌍📓 The Climate Tech Handbook you will:
 
-## What Level are you?
+1. Find the **[right problem](solutions)** to solve
+2. Find the **right organization** solving it
+3. Make sure you **want to work there**
+4. Land the best **job offer**
+5. Succeed in your **first 90 days**
 
-## Level 0
-* don't know what "climate tech is"
-* x
-* x
+```
+When you come to a fork in the road, take it.
 
-## Level 1
-
-## Level 2
-
----
-
-
-
----
-
-# SNIPS
-
-## Get paid to save the world.
-
-That's the promise.
-
-But how?
-
-### This is the Handbook you've been looking for
-
-
-
-
-We are tracking --hundreds/thousands of resources
-
---xx
-
-## Lost in a sea of information
-
-Having a tech salary is the american dream.
-
-There are companies out there making a difference that will pay you
-
-
---green skill gap report
-
---coders need baseline knowledge as well.
+  - Yogi Berra
+```
+## Welcome to your fork in the road
