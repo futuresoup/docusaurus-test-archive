@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 slug: pre-launch
 title: Welcome to version 0.9
 authors: [caggiano]
