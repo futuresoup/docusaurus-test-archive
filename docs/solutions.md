@@ -28,73 +28,73 @@ Each solution comes with a calculated number of greenhouse emissions that need t
 
   <ImageCard 
         title="Electricity"
-        description="Electricity, once a significant greenhouse gas contributor, is now crucial to climate change solutions."
+        description="In order to electrify everything with zero emissions, we need to upgrade our entire infrastructure"
         imageUrl="img/electricity.png"
         linkUrl="/sector-electricity"
     />
     <ImageCard 
         title="Food, Agriculture, and Land Use"
-        description="The Food, Agriculture, and Land Use sector is essential in the worldwide effort to combat climate change."
+        description="Food waste, forest protection, meat production, all play a major role"
         imageUrl="img/food-agriculture-and-land-use.jpg"
         linkUrl="sector-food-agriculture-and-land-use"
     />
     <ImageCard 
         title="Industry"
-        description="The industry sector can contribute to low-carbon innovation."
+        description="Materials such as cement, steel, and iron all need new manufacturing processes"
         imageUrl="/img/industry.jpg"
         linkUrl="sector-industry"
     />
     <ImageCard 
         title="Transportation"
-        description="Transportation emits CO2 from fossil fuels in vehicles."
+        description="Electrification as well as the promotion of public transit and urban design"
         imageUrl="/img/transportation.jpeg"
         linkUrl="sector-transportation"
     />
     <ImageCard 
         title="Buildings"
-        description="Buildings account for nearly 40% of global energy consumption and around one-third of global greenhouse gas emissions."
+        description="Heating, cooling, electricity and more. All need to be reimagined"
         imageUrl="/img/buildings.jpg"
         linkUrl="sector-buildings"
     />
     <ImageCard 
         title="Land Sinks"
-        description="Land sinks are a type of carbon sequestration that refers to the capture and storage of carbon dioxide in the soil."
+        description="Carbon sequestration through plants, soil, and other living systems"
         imageUrl="/img/land-sinks.jpg"
         linkUrl="sector-land-sinks"
     />
     <ImageCard 
         title="Coastal and Ocean Sinks"
-        description="Coastal and ocean sinks can absorb and sequester large amounts of carbon dioxide."
+        description="Coastal and ocean sinks can absorb and sequester large amounts of carbon dioxide"
         imageUrl="/img/coastal-and-ocean-sinks.png"
         linkUrl="sector-coastal-and-ocean-sinks"
     />
     <ImageCard 
         title="Engineered Sinks"
-        description="Engineered sinks can help conserve resources and reduce the carbon footprint associated with water consumption."
+        description="Creating new mechanical systems for capturing carbon in addition to natural sinks"
         imageUrl="/img/biochar-production.jpg"
         linkUrl="sector-engineered-sinks"
     />
     <ImageCard 
         title="Health and Education"
-        description="Health and education can contribute to building resilience, promoting sustainable practices, and fostering informed decision-making."
+        description="Ensuring an equitable transition, building resilience, and fostering informed decision-making"
         imageUrl="/img/healthy-lifestyle.jpg"
         linkUrl="sector-health-and-education"
     />
     <ImageCard 
         title="Climate Adaptation"
-        description="Climate adaptation is the process of adjusting and responding to the impacts of climate change."
+        description="We need to quickly adjust and respond to the impacts of climate change"
         imageUrl="/img/adaptation.jpg"
         linkUrl="sector-climate-adaptation"
     />
     <ImageCard 
         title="Media and Journalism"
-        description="Essential to drive systemic change, mobilize public support, and hold those in power accountable."
+        description="Essential to drive systemic change, mobilize public support, and hold those in power accountable"
         imageUrl="/img/journalism.jpg"
         linkUrl="sector-media-and-journalism"
     />
     <ImageCard 
         title="Advocacy or Policy"
-        description="Advocacy acts as a catalyst for change, mobilizing individuals, communities, and decision-makers to take meaningful action against climate change."
+        description="Ensuring we have enough funding and political support. Reforming bureaucratic systems that slow down progress"
         imageUrl="/img/advocacy-and-policy.jpg"
         linkUrl="sector-advocacy-or-policy"
     />
