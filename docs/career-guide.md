@@ -45,13 +45,13 @@ If you'd like a stronger portfolio for tech skills or climate knowledge:
 
 ### Slack / Discord communities
 
-1. CTH
-2. WoC
-3. MCJ
-4. Women in Climate
-5. DER ([Distributed Energy Resources](glossary#distributed-energy-resources-der))
-6. Tofu
-7. Climate Designers
+1. [The Climate Tech Handbook](https://chat.climatetechhandbook.com)
+2. [Work on Climate](https://workonclimate.org)
+3. [MCJ Collective](https://mcjcollective.com)
+4. [Women in Climate](https://www.womenandclimate.co/slack)
+5. [DER Task Force](https://www.dertaskforce.com/) (DER = [Distributed Energy Resources](glossary#distributed-energy-resources-der))
+6. [Tofu](https://tofu4climate.substack.com/) - for marketers, Tofu = Top of Funnel
+7. [Climate Designers](https://www.climatedesigners.org)
 
 _[More listed here](https://www.climatefinance.xyz/climate-slack-communities)_
 ### Local Meetups
