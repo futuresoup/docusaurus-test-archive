@@ -1,6 +1,7 @@
 ---
 title: Efficient Ocean Shipping
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](../static/img/efficient-ocean-shipping.png)

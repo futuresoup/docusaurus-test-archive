@@ -1,6 +1,7 @@
 ---
 title: Recycled Paper
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![](/../static/img/recycled-paper.jpg)
 

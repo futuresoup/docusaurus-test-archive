@@ -1,6 +1,7 @@
 ---
 title: Improved Aquaculture
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](../static/img/aquaculture.jpg)

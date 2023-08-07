@@ -1,6 +1,7 @@
 ---
 title: Grid Flexibility
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](../static/img/grid-flexibility.jpg)

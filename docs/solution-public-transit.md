@@ -1,6 +1,7 @@
 ---
 title: Public Transit
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![](/../static/img/public-transit.webp)
 

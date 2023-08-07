@@ -1,6 +1,7 @@
 ---
 title: District Heating
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](../static/img/district-heating.jpg)

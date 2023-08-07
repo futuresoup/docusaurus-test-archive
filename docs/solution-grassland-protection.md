@@ -1,6 +1,7 @@
 ---
 title: Grassland Protection
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](https://images.unsplash.com/photo-1680251006645-f81372dee3bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxHcmFzc2xhbmQlMjBQcm90ZWN0aW9ufGVufDB8fHx8MTY4MzY1ODkwMg&ixlib=rb-4.0.3&q=80&w=1080)

@@ -1,6 +1,7 @@
 ---
 title: Clean Cooking
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](../static/img/clean-cooking.jpg)

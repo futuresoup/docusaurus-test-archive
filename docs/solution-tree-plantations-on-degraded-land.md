@@ -1,6 +1,7 @@
 ---
 title: Tree Plantations (on Degraded Land)
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![](/../static/img/tree-plantations-on-degraded-land-.jpg)
 

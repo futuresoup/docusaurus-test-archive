@@ -1,6 +1,7 @@
 ---
 title: Microgrids
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![A microgrid comprises three basic components: an energy generator, a storage unit, and a controller to manage energy flow and usage.](/../static/img/microgrids.jpg)
 

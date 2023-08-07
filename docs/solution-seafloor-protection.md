@@ -1,6 +1,7 @@
 ---
 title: Seafloor Protection
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![CO2 is collected, compressed, and stored on land, then pipelined or tankered to distant seafloor disposal sites.](/../static/img/seafloor-protection.jpg)
 

@@ -1,6 +1,7 @@
 ---
 title: Managed Grazing
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![Rotational livestock grazing improves soil health, water retention, reduces erosion, and promotes wildlife habitat diversity, fostering climate resilience.](/../static/img/managed-grazing.png)
 

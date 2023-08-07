@@ -1,6 +1,7 @@
 ---
 title: Abandoned Farmland Restoration
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Abandoned farm](../static/img/abandoned-farm.jpg)

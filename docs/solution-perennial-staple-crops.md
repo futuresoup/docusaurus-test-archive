@@ -1,6 +1,7 @@
 ---
 title: Perennial Staple Crops
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![Annual crops, reliant on machinery for tilling and sowing, increase soil erosion and CO2 emissions by exposing soil aggregates. Perennial crops, needing one-time tilling, last several seasons, storing carbon and contributing more significantly to soil carbon sequestration.](/../static/img/perennial-staple-crops.jpg)
 

@@ -1,6 +1,7 @@
 ---
 title: LED Lighting
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![](/../static/img/led-lighting.jpg)
 

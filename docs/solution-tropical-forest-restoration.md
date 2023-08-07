@@ -1,6 +1,7 @@
 ---
 title: Tropical Forest Restoration
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![The graphic displays the recovery of soil, ecosystem functioning, forest structure, and tree biodiversity as tropical forests regrow on former agricultural lands.](/../static/img/tropical-forest-restoration.jpg)
 

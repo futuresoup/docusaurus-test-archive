@@ -34,8 +34,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
           blog: {
             showReadingTime: true,
             // Please change this to your repo.
-            editUrl:
-              "https://www.climatetechhandbook.com/admin/#/edit/",
           },
           theme: {
             customCss: [
@@ -61,13 +59,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             autoCollapseCategories: true,
           },
         },
-        zoom: {
-          selector: '.markdown :not(em) > img',
-          background: {
-            light: 'rgb(255, 255, 255)',
-            dark: 'rgb(50, 50, 50)'
-            },
-        },
+        // zoom: {
+        //   selector: '.markdown :not(em) > img',
+        //   background: {
+        //     light: 'rgb(255, 255, 255)',
+        //     dark: 'rgb(50, 50, 50)'
+        //     },
+        // },
         navbar: {
           title: "Climate Tech Handbook",
           // logo: {
@@ -112,7 +110,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                   html: `
                     </a>
                     <a href="https://chat.climatetechhandbook.com" target="_blank" rel="noreferrer noopener" aria-label="Slack">
-                      <img src="img/design/icons/slack_icon.png" alt="Instagram Icon" style="margin-right: 8px; width: 40px;"/>
+                      <img src="img/slack_icon.png" alt="Slack Icon" style="margin-right: 8px; width: 40px;"/>
                     </a>
                     <a href="https://www.linkedin.com/company/climate-tech-handbook/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
                       <img src="img/design/icons/linkedin_icon.svg" alt="LinkedIn Icon"/>

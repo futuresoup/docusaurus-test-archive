@@ -22,6 +22,10 @@ Carbon accounting - Class 1, Class 2, Class 3 - based on operations vs supply ch
 
 Technologies that are based on hard science and more complex than software as a service. Not necessarily digital.
 
+### Distributed Energy Resources (DER)
+
+A broad category of decentralized, small-scale energy technologies and sources that are located close to the end-users or the points of energy consumption. They are part of the local energy grid and include Wind Turbines, Energy Storage Systems, Combined Heat and Power (CHP) Systems, Microgrids, Demand Response (DR) Technologies, Electric Vehicles (EVs) and Vehicle-to-Grid (V2G) Systems.
+
 ### Force Multiplier
 
 The concept that the climate crisis multiplies all other problems in the world outside of global heating. For example, biodiversity loss will increase, water shortages and global conflict will increase, immigration and refuge challenges will increase, etc.

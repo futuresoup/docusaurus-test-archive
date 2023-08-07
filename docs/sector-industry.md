@@ -91,7 +91,7 @@ Examples:
     />
     <ImageCard
     title="Alternative Refrigerants"
-    description="Environmentally safer refrigerants, reducing greenhouse gas emissions and protecting the ozone layer."
+    description="One of the largest contributors to greenhouse pollution."
     imageUrl="img/co2-refrigeration.jpg"
     linkUrl="../solution-alternative-refrigerants"
     />

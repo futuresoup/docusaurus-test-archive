@@ -1,6 +1,7 @@
 ---
 title: Nutrient Management
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![Nutrient availability and their interaction with soil significantly impact crop development.](/../static/img/nutrient-management.webp)
 

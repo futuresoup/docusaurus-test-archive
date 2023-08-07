@@ -1,6 +1,7 @@
 ---
 title: Building Automation Systems
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](../static/img/building-automation.png)

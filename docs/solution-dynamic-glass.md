@@ -1,6 +1,7 @@
 ---
 title: Dynamic Glass
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](../static/img/dynamic-glass.jpg)

@@ -1,6 +1,7 @@
 ---
 title: Micro Wind Turbines
 displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 ![Four micro-wind turbines on the roof of Hoff Hall](/../static/img/micro-wind-turbines.jpg)
 
