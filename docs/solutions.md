@@ -11,7 +11,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 We already have the science and technology needed to win this critical decade.
 
-We just need to scale up in the next 5-10 years
+But we need to move extremely fast.
 
 :::info What is Project Drawdown?
 The Handbook is based off of the [Project Drawdown](drawdown.org) solutions framework.
