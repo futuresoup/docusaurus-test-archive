@@ -15,8 +15,6 @@ This a sample ChatGPT page to get the ball rolling.
 :::tip [Delaware Living Shorelines Committee](https://www.delawarelivingshorelines.org/) is a great resource
 :::
 
-CMS test
-
 Sure, here's the summary of your article in bullet points:
 
 Absolutely, I'll use markdown syntax as you've requested. Here's the summary of your article in markdown format:
